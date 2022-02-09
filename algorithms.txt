@@ -1,0 +1,12 @@
+! Title: Algorithms
+! Description: Removes content suggested by algorithms (recommendations) on YouTube.
+! Homepage: https://github.com/rijkvp/blocklists/
+
+! YouTube
+
+! Related section
+www.youtube.com###secondary
+! Block home & explore page
+www.youtube.com##[page-subtype="home"]
+www.youtube.com##[page-subtype="explore"]
+
