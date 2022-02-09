@@ -6,7 +6,7 @@ Blocklists to improve my experience on the Web.
 
 ### Algorithms 
 
-Removes all content suggested by algoritms (recommendations) on YouTube. 
+Removes all content suggested by algorithms (recommendations) on YouTube. 
 
 ### SEO Bloat
 
