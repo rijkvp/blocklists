@@ -2,8 +2,12 @@
 
 Blocklists to improve my experience on the Web.
 
+## Lists
 
-## Algorithm shield
+### Algorithms 
 
-Removes content suggested by algoritms.
+Removes all content suggested by algoritms (recommendations) on YouTube. 
 
+### SEO Bloat
+
+Removes bad quality SEO-optimized sites.
