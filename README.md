@@ -10,4 +10,4 @@ Removes all content suggested by algoritms (recommendations) on YouTube.
 
 ### SEO Bloat
 
-Removes bad quality SEO-optimized sites.
+(WIP) Removes SEO optimized sites from search results.
