@@ -1,1 +1,3 @@
-TODO
+! Title: SEO Bloat
+! Description: (WIP) Removes SEO optimized sites from search results.
+! Homepage: https://github.com/rijkvp/blocklists/
