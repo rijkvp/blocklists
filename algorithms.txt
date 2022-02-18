@@ -5,7 +5,7 @@
 ! YouTube
 
 ! Related section
-www.youtube.com###secondary
+www.youtube.com###related
 ! Block home & explore page
 www.youtube.com##[page-subtype="home"]
 www.youtube.com##[page-subtype="explore"]
