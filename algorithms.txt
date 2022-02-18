@@ -9,4 +9,6 @@ www.youtube.com###related
 ! Block home & explore page
 www.youtube.com##[page-subtype="home"]
 www.youtube.com##[page-subtype="explore"]
+! Video Endscreen Recommendations
+www.youtube.com##.html5-endscreen
 
