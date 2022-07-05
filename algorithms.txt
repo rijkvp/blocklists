@@ -1,14 +1,25 @@
 ! Title: Algorithms
-! Description: Removes content suggested by algorithms (recommendations) on YouTube.
+! Description: Block algorithmic feeds from the web.
 ! Homepage: https://github.com/rijkvp/blocklists/
 
 ! YouTube
 
 ! Related section
 www.youtube.com###related
-! Block home & explore page
+! Home & explore page
 www.youtube.com##[page-subtype="home"]
 www.youtube.com##[page-subtype="explore"]
 ! Video Endscreen Recommendations
 www.youtube.com##.html5-endscreen
+! Cleaner right menu
+##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
+##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! GitHub
+
+! The new 'For you' feed
+github.com##.UnderlineNav.overflow-visible.js-feeds-tabs
+! The side menu with distracting news & other recommendations
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
 
