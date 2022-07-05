@@ -20,10 +20,9 @@ def filter_ublacklist(input):
     result = ""
     for line in input.split("\n"):
         line = line.strip()
-        # TOFIX: this regex won't work
         matched = re.search("[\w\d-]+(\.[\w\d]+)+", line)
         if matched:
-            result += matched + "\n"
+            result += matched.group() + "\n"
     return result
 
 for filename in os.listdir(SOURCE_DIR):
