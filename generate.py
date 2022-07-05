@@ -85,7 +85,7 @@ for filename in os.listdir(SOURCE_DIR):
 
     # Write output
     os.makedirs(DEST_DIR, exist_ok=True) 
-    dest_path = os.path.join(DEST_DIR, filename)
+    dest_path = os.path.join(DEST_DIR, filename + ".txt")
     with open(dest_path, "w") as f:
         logging.info("written {}".format(str(dest_path)))
         f.write(result)
