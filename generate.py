@@ -7,23 +7,30 @@ DEST_DIR = "dist"
 STMT_OPERATOR = "!!"
 
 # Removes comments and whitespace
-def filter_blocklist(input):
-    result = ""
-    for line in input.split("\n"):
+def filter_blocklist(lines):
+    result = []
+    for line in lines:
         line = line.strip()
         if not (line == "" or line.startswith("!") or line.startswith("#")):
-            result += line + "\n"
+            result.append(line)
     return result
 
 # Removes ublacklist syntax, extracts hostnames with regex
-def filter_ublacklist(input):
-    result = ""
-    for line in input.split("\n"):
-        line = line.strip()
+def filter_ublacklist(lines):
+    result = []
+    for line in lines:
         matched = re.search("[\w\d-]+(\.[\w\d]+)+", line)
         if matched:
-            result += matched.group() + "\n"
+            result.append(matched.group())
     return result
+
+def apply_templates(lines, templates):
+    result = ""
+    for line in lines:
+        for template in templates:
+            result += template.format(line) + "\n"
+    return result
+        
 
 for filename in os.listdir(SOURCE_DIR):
     path = os.path.join(SOURCE_DIR, filename)
@@ -46,14 +53,19 @@ for filename in os.listdir(SOURCE_DIR):
                     key, val = input.split(" ", 1)
                     meta[key] = val
                 elif stmt == "src":
-                    format, url = input.split(" ", 1)
+                    format, url, templates = input.split(" ", 2)
                     res = requests.get(url)
+                    templates = templates.split(" ")
+                    templates = [t for t in templates if f != '']
                     logging.info("downloading {}".format(url))
                     if res.ok:
+                        lines = res.text.split("\n")
                         if format == "hosts":
-                            result += filter_blocklist(res.text)
+                            lines = filter_blocklist(lines)
+                            result += apply_templates(lines, templates)
                         elif format == "ublacklist":
-                            result += filter_ublacklist(filter_blocklist(res.text))
+                            lines = filter_ublacklist(filter_blocklist(lines))
+                            result += apply_templates(lines, templates)
                         else:
                             logging.error("unkown source format {}".format(format))
                     else:

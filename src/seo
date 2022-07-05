@@ -3,6 +3,6 @@
 !!meta Homepage https://github.com/rijkvp/blocklists/
 
 
-!!src ublacklist https://raw.githubusercontent.com/toluschr/uBlacklist-Programming/master/Blacklist
-!!src hosts https://github.com/HeavenVolkoff/no-copycats/releases/latest/download/no_copycats.txt
-!!src ublacklist https://raw.githubusercontent.com/jhchabran/code-search-blocklist/main/uBlocklist.txt
+!!src ublacklist https://raw.githubusercontent.com/toluschr/uBlacklist-Programming/master/Blacklist     {} www.google.com##div[class="g"]:has(a[href*="{}"]) duckduckgo.com##[data-domain$="{}"]
+!!src hosts https://github.com/HeavenVolkoff/no-copycats/releases/latest/download/no_copycats.txt       {} www.google.com##div[class="g"]:has(a[href*="{}"]) duckduckgo.com##[data-domain$="{}"]
+!!src ublacklist https://raw.githubusercontent.com/jhchabran/code-search-blocklist/main/uBlocklist.txt  {} www.google.com##div[class="g"]:has(a[href*="{}"]) duckduckgo.com##[data-domain$="{}"]
