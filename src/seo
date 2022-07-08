@@ -22,6 +22,7 @@
 !!tmpl kagi.com##._0_image_item[data-host_url*="{}"]
 !!tmpl startpage.com##.w-gl__result:has(a[href*="{}"])
 !!tmpl startpage.com##.image-container:has(div.image-quick-details span:has-text({}))
+!!tmpl searx.lan###main_results .result:has(a[href*="{}"])
 
 ! Stackoverflow copycats
 !!add answerspoint.com
@@ -30,12 +31,9 @@
 !!add devebee.com
 !!add empires-r.us
 !!add pyquestions.com
+!!add python.engineering
 !!add w3codelab.com
 !!add www.796t.com
 
 ! Just bloat
-!!add flvrclothing.com
-!!add ittone.ma
-!!add python.engineering
 !!add it1352.com
-
