@@ -7,7 +7,8 @@ Additional blocklists for [uBlock Origin](https://github.com/gorhill/uBlock) wit
 Name | Description | URL
 --- | ---| ---
 [Algorithms](https://rijkvp.github.io/blocklists/algorithms.txt) | Block argorithmic feeds on social media platforms | `https://rijkvp.github.io/blocklists/algorithms.txt`
-[SEO](https://rijkvp.github.io/blocklists/seo.txt) | Imrpove search results by blocking SEO spam | `https://rijkvp.github.io/blocklists/seo.txt`
+[Clickbait](https://rijkvp.github.io/blocklists/clickbait.txt) | Avoid clickbait by hiding thumbnails on YouTube & Odysee. | `https://rijkvp.github.io/blocklists/clickbait.txt`
+[SEO](https://rijkvp.github.io/blocklists/seo.txt) | Imrpove search results by blocking SEO spam sites from Bing, DuckDuckGo, Google, Kagi & Startpage. Merged lists based on []() | `https://rijkvp.github.io/blocklists/seo.txt`
 
 ## Usage
 

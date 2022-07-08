@@ -1,36 +1,49 @@
-import os, datetime, requests, re, logging
+import os, datetime, requests, re, logging, asyncio, concurrent.futures
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s',
+                    datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
 
 SOURCE_DIR = "src"
 DEST_DIR = "dist"
 STMT_OPERATOR = "!!"
 
-# Removes comments and whitespace
-def filter_blocklist(lines):
-    result = []
+def download_webpage(url):
+    res = requests.get(url)
+    logging.info("downloading {}".format(url))
+    if res.ok:
+        return res.text
+    else:
+        logging.warning("failed to download {}, {}, {}".format(url, res.status_code, res.text))
+        return None
+        
+def download_webpages(urls):
+    pages = []
+    with  concurrent.futures.ThreadPoolExecutor(20) as executor:
+        for result in executor.map(download_webpage, urls):
+            if result != None:
+                pages.append(result)
+    logging.info("downloaded {}/{} webpages".format(len(pages), len(urls)))
+    return pages
+
+# Extract hostnames from blocklists
+def extract_hostnames(lines):
+    hostnames = []
     for line in lines:
         line = line.strip()
         if not (line == "" or line.startswith("!") or line.startswith("#")):
-            result.append(line)
-    return result
+            matched = re.search("[\w\d-]+(\.[\w\d]+)+", line)
+            if matched:
+                hostnames.append(matched.group())
+            else:
+                logging.warning("failed to extract: '{}'".format(line))
+    return hostnames
 
-# Removes ublacklist syntax, extracts hostnames with regex
-def filter_ublacklist(lines):
-    result = []
-    for line in lines:
-        matched = re.search("[\w\d-]+(\.[\w\d]+)+", line)
-        if matched:
-            result.append(matched.group())
-    return result
-
-def apply_templates(lines, templates):
+def apply_templates(inputs, templates):
     result = ""
-    for line in lines:
-        for template in templates:
-            result += template.format(line) + "\n"
+    for template in templates:
+        for input in inputs:
+            result += template.format(input) + "\n"
     return result
-        
 
 for filename in os.listdir(SOURCE_DIR):
     path = os.path.join(SOURCE_DIR, filename)
@@ -39,6 +52,9 @@ for filename in os.listdir(SOURCE_DIR):
         continue
 
     meta = {}
+    sources = []
+    templates = []
+    hostnames = []
     result = ""
     with open(path, "r") as f:
         contents = f.readlines()
@@ -53,43 +69,39 @@ for filename in os.listdir(SOURCE_DIR):
                     key, val = input.split(" ", 1)
                     meta[key] = val
                 elif stmt == "src":
-                    format, url, templates = input.split(" ", 2)
-                    res = requests.get(url)
-                    templates = templates.split(" ")
-                    templates = [t for t in templates if f != '']
-                    logging.info("downloading {}".format(url))
-                    if res.ok:
-                        lines = res.text.split("\n")
-                        if format == "hosts":
-                            lines = filter_blocklist(lines)
-                            result += apply_templates(lines, templates)
-                        elif format == "ublacklist":
-                            lines = filter_ublacklist(filter_blocklist(lines))
-                            result += apply_templates(lines, templates)
-                        else:
-                            logging.error("unkown source format {}".format(format))
-                    else:
-                        logging.warning("failed to download {}, {}, {}".format(url, res.status_code, res.text))
+                    sources.append(input.strip())
+                elif stmt == "tmpl":
+                    templates.append(input.strip())
+                elif stmt == "add":
+                    hostnames.append(input.strip())
                 else:
                     logging.error("unkown statement {}".format(stmt))
                     
             elif not line.startswith("!"):
                 result += line + "\n"
 
-    # Remove duplicates
-    result_lines = result.split("\n")
-    logging.info("removing duplicates from {} lines".format(len(result_lines)))
-    items = []
-    [items.append(x) for x in result_lines if x not in items]
-    items.sort()
-    result = "\n".join(items)
-    logging.info("reduced duplicates from {} to {} lines".format(len(result_lines), len(items)))
+    # Merge blocklists
+    if len(sources) > 0 or len(hostnames) > 0:
+        lists = download_webpages(sources)
+        for text in lists:
+            lines = text.split("\n")
+            list_hostnames = extract_hostnames(lines)
+            hostnames.extend(list_hostnames)
 
+        # Remove duplicates
+        items = []
+        [items.append(x) for x in hostnames if x not in items]
+        items.sort()
+        logging.info("reduced duplicates from {} to {} hosts".format(len(hostnames), len(items)))
 
-    # Add generated metadata
+        # Templates
+        result += apply_templates(items, templates)
+
+    # Add generated & expires metadata
     meta["Generated"] = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    meta["Expires"] = "1 day"
 
-    # Add metadata
+    # Generate metadata
     header = ""
     for key, val in meta.items():
         header += "! {}: {}\n".format(key, val)
