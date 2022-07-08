@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Block algorithmic feeds from the web.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-07-07 03:41:39 UTC
+! Generated: 2022-07-08 03:28:39 UTC
 
 ##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 ##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
