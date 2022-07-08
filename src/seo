@@ -12,17 +12,18 @@
 !!src https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/data/stackoverflow_copycats.txt
 !!src https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/data/wikipedia_copycats.txt
 
+!!tmpl ||{}$all
 !!tmpl bing.com###b_content a[href*="{}"]:upward(li)
-!!tmpl duckduckgo.com##a[data-testid="result-title-a"][href*="{}"]:upward(.nrn-react-div)
 !!tmpl duckduckgo.com##.tile-wrap a[href*="{}"]:upward(.tile)
+!!tmpl duckduckgo.com##a[data-testid="result-title-a"][href*="{}"]:upward(.nrn-react-div)
 !!tmpl google.*##.g:has(a[href*="{}"])
 !!tmpl google.*##a[href*="{}"]:upward(1)
+!!tmpl kagi.com##._0_image_item[data-host_url*="{}"]
 !!tmpl kagi.com##.search-result:has(a.__sri-url[href*="{}"])
 !!tmpl kagi.com##.sri-group:has(a.__sri-url[href*="{}"])
-!!tmpl kagi.com##._0_image_item[data-host_url*="{}"]
-!!tmpl startpage.com##.w-gl__result:has(a[href*="{}"])
-!!tmpl startpage.com##.image-container:has(div.image-quick-details span:has-text({}))
 !!tmpl searx.lan###main_results .result:has(a[href*="{}"])
+!!tmpl startpage.com##.image-container:has(div.image-quick-details span:has-text({}))
+!!tmpl startpage.com##.w-gl__result:has(a[href*="{}"])
 
 ! Stackoverflow copycats
 !!add answerspoint.com
