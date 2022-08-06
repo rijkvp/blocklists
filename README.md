@@ -4,11 +4,11 @@ Additional blocklists for [uBlock Origin](https://github.com/gorhill/uBlock) wit
 
 ## Lists
 
-Name | Description | URL | Subcribe
---- | ---| --- | ---
-[Algorithms](https://rijkvp.github.io/blocklists/algorithms.txt) | Block argorithmic feeds on social media platforms | `https://rijkvp.github.io/blocklists/algorithms.txt` | [Subcribe](https://subscribe.adblockplus.org/?location=https://rijkvp.github.io/blocklists/algorithms.txt)
-[Clickbait](https://rijkvp.github.io/blocklists/clickbait.txt) | Avoid clickbait by hiding thumbnails on YouTube & Odysee. | `https://rijkvp.github.io/blocklists/clickbait.txt` | [Subscribe](https://subscribe.adblockplus.org/?location=https://rijkvp.github.io/blocklists/clickbait.txt)
-[SEO](https://rijkvp.github.io/blocklists/seo.txt) | Imrpove search results by blocking SEO spam sites from Bing, DuckDuckGo, Google, Kagi, Startpage & SearX. Contains merged lists based on [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter). | `https://rijkvp.github.io/blocklists/seo.txt` | [Subscribe](https://subscribe.adblockplus.org/?location=https://rijkvp.github.io/blocklists/seo.txt)
+Name | Description | URL
+--- | ---| ---
+[Algorithms](https://rijkvp.github.io/blocklists/algorithms.txt) | Block argorithmic feeds on social media platforms | `https://rijkvp.github.io/blocklists/algorithms.txt`
+[Clickbait](https://rijkvp.github.io/blocklists/clickbait.txt) | Avoid clickbait by hiding thumbnails on YouTube & Odysee. | `https://rijkvp.github.io/blocklists/clickbait.txt`
+[SEO](https://rijkvp.github.io/blocklists/seo.txt) | Imrpove search results by blocking SEO spam sites from Bing, DuckDuckGo, Google, Kagi, Startpage & SearX. Contains merged lists based on [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter). | `https://rijkvp.github.io/blocklists/seo.txt`
 
 ## Usage
 
