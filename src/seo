@@ -2,9 +2,9 @@
 !!meta Description Block SEO bloat sites from search engines.
 !!meta Homepage https://github.com/rijkvp/blocklists/
 
-!!src https://raw.githubusercontent.com/toluschr/uBlacklist-Programming/master/Blacklist 
-!!src https://github.com/HeavenVolkoff/no-copycats/releases/latest/download/no_copycats.txt 
-!!src https://raw.githubusercontent.com/jhchabran/code-search-blocklist/main/uBlocklist.txt 
+!!src https://raw.githubusercontent.com/toluschr/uBlacklist-Programming/master/Blacklist
+!!src https://github.com/HeavenVolkoff/no-copycats/releases/latest/download/no_copycats.txt
+!!src https://raw.githubusercontent.com/jhchabran/code-search-blocklist/main/uBlocklist.txt
 !!src https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 !!src https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
 !!src https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/data/github_copycats.txt
@@ -25,7 +25,7 @@
 !!tmpl startpage.com##.image-container:has(div.image-quick-details span:has-text({}))
 !!tmpl startpage.com##.w-gl__result:has(a[href*="{}"])
 
-! Stackoverflow copycats
+! Additional StackOverflow copycats
 !!add answerspoint.com
 !!add cardiologie-tonkin.com
 !!add codefordev.com
@@ -36,5 +36,3 @@
 !!add w3codelab.com
 !!add www.796t.com
 
-! Just bloat
-!!add it1352.com

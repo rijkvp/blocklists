@@ -1,4 +1,4 @@
-import os, datetime, requests, re, logging, asyncio, concurrent.futures
+import os, datetime, requests, re, logging, asyncio, concurrent.futures, json
 
 logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s',
                     datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
@@ -15,7 +15,7 @@ def download_webpage(url):
     else:
         logging.warning("failed to download {}, {}, {}".format(url, res.status_code, res.text))
         return None
-        
+
 def download_webpages(urls):
     pages = []
     with  concurrent.futures.ThreadPoolExecutor(20) as executor:
@@ -57,6 +57,7 @@ for filename in os.listdir(SOURCE_DIR):
     hostnames = []
     result = ""
     with open(path, "r") as f:
+        logging.info("generating source {}".format(path))
         contents = f.readlines()
         for line in contents:
             line = line.strip()
@@ -73,20 +74,35 @@ for filename in os.listdir(SOURCE_DIR):
                 elif stmt == "tmpl":
                     templates.append(input.strip())
                 elif stmt == "add":
-                    hostnames.append(input.strip())
+                    hostname = input.strip()
+                    if hostname[0] == "@":
+                        # Invidious instances API
+                        if hostname[1:] == "invidious":
+                            logging.info("downloading list of invidious instances..")
+                            res = requests.get("https://api.invidious.io/instances.json?sort_by=health")
+                            if res.ok:
+                                json = json.loads(res.text)
+                                for item in json:
+                                    if item[1]['type'] == "https":
+                                        hostnames.append(item[0])
+                            else:
+                                logging.warning("failed to download invidious instances {}, {}, {}".format(url, res.status_code, res.text))
+                    else:
+                        hostnames.append(hostname)
                 else:
                     logging.error("unkown statement {}".format(stmt))
-                    
+
             elif not line.startswith("!"):
                 result += line + "\n"
 
     # Merge blocklists
     if len(sources) > 0 or len(hostnames) > 0:
-        lists = download_webpages(sources)
-        for text in lists:
-            lines = text.split("\n")
-            list_hostnames = extract_hostnames(lines)
-            hostnames.extend(list_hostnames)
+        if len(sources) > 0:
+            lists = download_webpages(sources)
+            for text in lists:
+                lines = text.split("\n")
+                list_hostnames = extract_hostnames(lines)
+                hostnames.extend(list_hostnames)
 
         # Remove duplicates
         items = []
@@ -108,8 +124,8 @@ for filename in os.listdir(SOURCE_DIR):
     result = header + result
 
     # Write output
-    os.makedirs(DEST_DIR, exist_ok=True) 
+    os.makedirs(DEST_DIR, exist_ok=True)
     dest_path = os.path.join(DEST_DIR, filename + ".txt")
     with open(dest_path, "w") as f:
-        logging.info("written {}".format(str(dest_path)))
+        logging.info("saving output to {}".format(str(dest_path)))
         f.write(result)

@@ -12,9 +12,9 @@ www.youtube.com##[page-subtype="explore"]
 ! Video Endscreen Recommendations
 www.youtube.com##.html5-endscreen
 ! Cleaner right menu
-##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
-##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
-##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 
 ! GitHub
 
@@ -22,4 +22,12 @@ www.youtube.com##.html5-endscreen
 github.com##.UnderlineNav.overflow-visible.js-feeds-tabs
 ! The side menu with distracting news & other recommendations
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
+
+! Invidious
+
+!!add @invidious
+
+! Recommendations
+!!tmpl {} ##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+!!tmpl {} ##.thumbnail
 
