@@ -28,6 +28,6 @@ github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-l
 !!add @invidious
 
 ! Recommendations
-!!tmpl {} ##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
-!!tmpl {} ##.thumbnail
+!!tmpl {}##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+!!tmpl {}##.thumbnail
 
