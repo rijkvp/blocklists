@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Block algorithmic feeds from the web.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-08-11 03:13:19 UTC
+! Generated: 2022-08-12 03:22:18 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]

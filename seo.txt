@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-08-11 03:13:19 UTC
+! Generated: 2022-08-12 03:22:17 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -293,6 +293,7 @@
 ||levitrares.com$all
 ||libhunt.com$all
 ||lifesaver.codes$all
+||lightrun.com$all
 ||likecs.com$all
 ||linuxfixes.com$all
 ||livepcwiki.ru$all
@@ -881,6 +882,7 @@ bing.com###b_content a[href*="legkovopros.ru"]:upward(li)
 bing.com###b_content a[href*="levitrares.com"]:upward(li)
 bing.com###b_content a[href*="libhunt.com"]:upward(li)
 bing.com###b_content a[href*="lifesaver.codes"]:upward(li)
+bing.com###b_content a[href*="lightrun.com"]:upward(li)
 bing.com###b_content a[href*="likecs.com"]:upward(li)
 bing.com###b_content a[href*="linuxfixes.com"]:upward(li)
 bing.com###b_content a[href*="livepcwiki.ru"]:upward(li)
@@ -1469,6 +1471,7 @@ duckduckgo.com##.tile-wrap a[href*="legkovopros.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="levitrares.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="libhunt.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="lifesaver.codes"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="lightrun.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="likecs.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="linuxfixes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="livepcwiki.ru"]:upward(.tile)
@@ -2057,6 +2060,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="legkovopros.ru"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="levitrares.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="libhunt.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="lifesaver.codes"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="lightrun.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="likecs.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="linuxfixes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="livepcwiki.ru"]:upward(.nrn-react-div)
@@ -2645,6 +2649,7 @@ google.*##.g:has(a[href*="legkovopros.ru"])
 google.*##.g:has(a[href*="levitrares.com"])
 google.*##.g:has(a[href*="libhunt.com"])
 google.*##.g:has(a[href*="lifesaver.codes"])
+google.*##.g:has(a[href*="lightrun.com"])
 google.*##.g:has(a[href*="likecs.com"])
 google.*##.g:has(a[href*="linuxfixes.com"])
 google.*##.g:has(a[href*="livepcwiki.ru"])
@@ -3233,6 +3238,7 @@ google.*##a[href*="legkovopros.ru"]:upward(1)
 google.*##a[href*="levitrares.com"]:upward(1)
 google.*##a[href*="libhunt.com"]:upward(1)
 google.*##a[href*="lifesaver.codes"]:upward(1)
+google.*##a[href*="lightrun.com"]:upward(1)
 google.*##a[href*="likecs.com"]:upward(1)
 google.*##a[href*="linuxfixes.com"]:upward(1)
 google.*##a[href*="livepcwiki.ru"]:upward(1)
@@ -3821,6 +3827,7 @@ kagi.com##._0_image_item[data-host_url*="legkovopros.ru"]
 kagi.com##._0_image_item[data-host_url*="levitrares.com"]
 kagi.com##._0_image_item[data-host_url*="libhunt.com"]
 kagi.com##._0_image_item[data-host_url*="lifesaver.codes"]
+kagi.com##._0_image_item[data-host_url*="lightrun.com"]
 kagi.com##._0_image_item[data-host_url*="likecs.com"]
 kagi.com##._0_image_item[data-host_url*="linuxfixes.com"]
 kagi.com##._0_image_item[data-host_url*="livepcwiki.ru"]
@@ -4409,6 +4416,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="legkovopros.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="levitrares.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="libhunt.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="lifesaver.codes"])
+kagi.com##.search-result:has(a.__sri-url[href*="lightrun.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="likecs.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="linuxfixes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="livepcwiki.ru"])
@@ -4997,6 +5005,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="legkovopros.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="levitrares.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="libhunt.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="lifesaver.codes"])
+kagi.com##.sri-group:has(a.__sri-url[href*="lightrun.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="likecs.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="linuxfixes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="livepcwiki.ru"])
@@ -5585,6 +5594,7 @@ searx.lan###main_results .result:has(a[href*="legkovopros.ru"])
 searx.lan###main_results .result:has(a[href*="levitrares.com"])
 searx.lan###main_results .result:has(a[href*="libhunt.com"])
 searx.lan###main_results .result:has(a[href*="lifesaver.codes"])
+searx.lan###main_results .result:has(a[href*="lightrun.com"])
 searx.lan###main_results .result:has(a[href*="likecs.com"])
 searx.lan###main_results .result:has(a[href*="linuxfixes.com"])
 searx.lan###main_results .result:has(a[href*="livepcwiki.ru"])
@@ -6173,6 +6183,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(legkov
 startpage.com##.image-container:has(div.image-quick-details span:has-text(levitrares.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(libhunt.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(lifesaver.codes))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(lightrun.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(likecs.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(linuxfixes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(livepcwiki.ru))
@@ -6761,6 +6772,7 @@ startpage.com##.w-gl__result:has(a[href*="legkovopros.ru"])
 startpage.com##.w-gl__result:has(a[href*="levitrares.com"])
 startpage.com##.w-gl__result:has(a[href*="libhunt.com"])
 startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
+startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
 startpage.com##.w-gl__result:has(a[href*="likecs.com"])
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
 startpage.com##.w-gl__result:has(a[href*="livepcwiki.ru"])
