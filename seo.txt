@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-08-16 03:38:26 UTC
+! Generated: 2022-08-17 03:52:12 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
