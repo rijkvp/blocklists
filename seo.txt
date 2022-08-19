@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-08-19 03:43:49 UTC
+! Generated: 2022-08-19 12:19:25 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -542,6 +542,7 @@
 ||www.796t.com$all
 ||www.answerlib.com$all
 ||www.anycodings.com$all
+||www.appsloveworld.com$all
 ||www.binarydevelop.com$all
 ||www.codebaoku.com$all
 ||www.codenong.com$all
@@ -568,6 +569,7 @@
 ||www.linuxfixes.com$all
 ||www.mejorcodigo.com$all
 ||www.nuomiphp.com$all
+||www.querythreads.com$all
 ||www.semicolonworld.com$all
 ||www.stackfinder.ru$all
 ||www.titanwolf.org$all
@@ -1131,6 +1133,7 @@ bing.com###b_content a[href*="www.5axxw.com"]:upward(li)
 bing.com###b_content a[href*="www.796t.com"]:upward(li)
 bing.com###b_content a[href*="www.answerlib.com"]:upward(li)
 bing.com###b_content a[href*="www.anycodings.com"]:upward(li)
+bing.com###b_content a[href*="www.appsloveworld.com"]:upward(li)
 bing.com###b_content a[href*="www.binarydevelop.com"]:upward(li)
 bing.com###b_content a[href*="www.codebaoku.com"]:upward(li)
 bing.com###b_content a[href*="www.codenong.com"]:upward(li)
@@ -1157,6 +1160,7 @@ bing.com###b_content a[href*="www.learnfk.com"]:upward(li)
 bing.com###b_content a[href*="www.linuxfixes.com"]:upward(li)
 bing.com###b_content a[href*="www.mejorcodigo.com"]:upward(li)
 bing.com###b_content a[href*="www.nuomiphp.com"]:upward(li)
+bing.com###b_content a[href*="www.querythreads.com"]:upward(li)
 bing.com###b_content a[href*="www.semicolonworld.com"]:upward(li)
 bing.com###b_content a[href*="www.stackfinder.ru"]:upward(li)
 bing.com###b_content a[href*="www.titanwolf.org"]:upward(li)
@@ -1720,6 +1724,7 @@ duckduckgo.com##.tile-wrap a[href*="www.5axxw.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.796t.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.answerlib.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.anycodings.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="www.appsloveworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.binarydevelop.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.codebaoku.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.codenong.com"]:upward(.tile)
@@ -1746,6 +1751,7 @@ duckduckgo.com##.tile-wrap a[href*="www.learnfk.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.linuxfixes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.mejorcodigo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.nuomiphp.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="www.querythreads.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.semicolonworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.stackfinder.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.titanwolf.org"]:upward(.tile)
@@ -2309,6 +2315,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.5axxw.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.796t.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.answerlib.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.anycodings.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="www.appsloveworld.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.binarydevelop.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.codebaoku.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.codenong.com"]:upward(.nrn-react-div)
@@ -2335,6 +2342,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.learnfk.com"]:upward(
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.linuxfixes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.mejorcodigo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.nuomiphp.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="www.querythreads.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.semicolonworld.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackfinder.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.titanwolf.org"]:upward(.nrn-react-div)
@@ -2898,6 +2906,7 @@ google.*##.g:has(a[href*="www.5axxw.com"])
 google.*##.g:has(a[href*="www.796t.com"])
 google.*##.g:has(a[href*="www.answerlib.com"])
 google.*##.g:has(a[href*="www.anycodings.com"])
+google.*##.g:has(a[href*="www.appsloveworld.com"])
 google.*##.g:has(a[href*="www.binarydevelop.com"])
 google.*##.g:has(a[href*="www.codebaoku.com"])
 google.*##.g:has(a[href*="www.codenong.com"])
@@ -2924,6 +2933,7 @@ google.*##.g:has(a[href*="www.learnfk.com"])
 google.*##.g:has(a[href*="www.linuxfixes.com"])
 google.*##.g:has(a[href*="www.mejorcodigo.com"])
 google.*##.g:has(a[href*="www.nuomiphp.com"])
+google.*##.g:has(a[href*="www.querythreads.com"])
 google.*##.g:has(a[href*="www.semicolonworld.com"])
 google.*##.g:has(a[href*="www.stackfinder.ru"])
 google.*##.g:has(a[href*="www.titanwolf.org"])
@@ -3487,6 +3497,7 @@ google.*##a[href*="www.5axxw.com"]:upward(1)
 google.*##a[href*="www.796t.com"]:upward(1)
 google.*##a[href*="www.answerlib.com"]:upward(1)
 google.*##a[href*="www.anycodings.com"]:upward(1)
+google.*##a[href*="www.appsloveworld.com"]:upward(1)
 google.*##a[href*="www.binarydevelop.com"]:upward(1)
 google.*##a[href*="www.codebaoku.com"]:upward(1)
 google.*##a[href*="www.codenong.com"]:upward(1)
@@ -3513,6 +3524,7 @@ google.*##a[href*="www.learnfk.com"]:upward(1)
 google.*##a[href*="www.linuxfixes.com"]:upward(1)
 google.*##a[href*="www.mejorcodigo.com"]:upward(1)
 google.*##a[href*="www.nuomiphp.com"]:upward(1)
+google.*##a[href*="www.querythreads.com"]:upward(1)
 google.*##a[href*="www.semicolonworld.com"]:upward(1)
 google.*##a[href*="www.stackfinder.ru"]:upward(1)
 google.*##a[href*="www.titanwolf.org"]:upward(1)
@@ -4076,6 +4088,7 @@ kagi.com##._0_image_item[data-host_url*="www.5axxw.com"]
 kagi.com##._0_image_item[data-host_url*="www.796t.com"]
 kagi.com##._0_image_item[data-host_url*="www.answerlib.com"]
 kagi.com##._0_image_item[data-host_url*="www.anycodings.com"]
+kagi.com##._0_image_item[data-host_url*="www.appsloveworld.com"]
 kagi.com##._0_image_item[data-host_url*="www.binarydevelop.com"]
 kagi.com##._0_image_item[data-host_url*="www.codebaoku.com"]
 kagi.com##._0_image_item[data-host_url*="www.codenong.com"]
@@ -4102,6 +4115,7 @@ kagi.com##._0_image_item[data-host_url*="www.learnfk.com"]
 kagi.com##._0_image_item[data-host_url*="www.linuxfixes.com"]
 kagi.com##._0_image_item[data-host_url*="www.mejorcodigo.com"]
 kagi.com##._0_image_item[data-host_url*="www.nuomiphp.com"]
+kagi.com##._0_image_item[data-host_url*="www.querythreads.com"]
 kagi.com##._0_image_item[data-host_url*="www.semicolonworld.com"]
 kagi.com##._0_image_item[data-host_url*="www.stackfinder.ru"]
 kagi.com##._0_image_item[data-host_url*="www.titanwolf.org"]
@@ -4665,6 +4679,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.5axxw.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.796t.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.answerlib.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.anycodings.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="www.appsloveworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.binarydevelop.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.codebaoku.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.codenong.com"])
@@ -4691,6 +4706,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.learnfk.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.linuxfixes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.nuomiphp.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.stackfinder.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.titanwolf.org"])
@@ -5254,6 +5270,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.5axxw.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.796t.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.answerlib.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.anycodings.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="www.appsloveworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.binarydevelop.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.codebaoku.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.codenong.com"])
@@ -5280,6 +5297,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.learnfk.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.linuxfixes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.nuomiphp.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.stackfinder.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.titanwolf.org"])
@@ -5843,6 +5861,7 @@ searx.lan###main_results .result:has(a[href*="www.5axxw.com"])
 searx.lan###main_results .result:has(a[href*="www.796t.com"])
 searx.lan###main_results .result:has(a[href*="www.answerlib.com"])
 searx.lan###main_results .result:has(a[href*="www.anycodings.com"])
+searx.lan###main_results .result:has(a[href*="www.appsloveworld.com"])
 searx.lan###main_results .result:has(a[href*="www.binarydevelop.com"])
 searx.lan###main_results .result:has(a[href*="www.codebaoku.com"])
 searx.lan###main_results .result:has(a[href*="www.codenong.com"])
@@ -5869,6 +5888,7 @@ searx.lan###main_results .result:has(a[href*="www.learnfk.com"])
 searx.lan###main_results .result:has(a[href*="www.linuxfixes.com"])
 searx.lan###main_results .result:has(a[href*="www.mejorcodigo.com"])
 searx.lan###main_results .result:has(a[href*="www.nuomiphp.com"])
+searx.lan###main_results .result:has(a[href*="www.querythreads.com"])
 searx.lan###main_results .result:has(a[href*="www.semicolonworld.com"])
 searx.lan###main_results .result:has(a[href*="www.stackfinder.ru"])
 searx.lan###main_results .result:has(a[href*="www.titanwolf.org"])
@@ -6432,6 +6452,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.5a
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.796t.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.answerlib.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.anycodings.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(www.appsloveworld.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.binarydevelop.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.codebaoku.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.codenong.com))
@@ -6458,6 +6479,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.le
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.linuxfixes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.mejorcodigo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.nuomiphp.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(www.querythreads.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.semicolonworld.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackfinder.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.titanwolf.org))
@@ -7021,6 +7043,7 @@ startpage.com##.w-gl__result:has(a[href*="www.5axxw.com"])
 startpage.com##.w-gl__result:has(a[href*="www.796t.com"])
 startpage.com##.w-gl__result:has(a[href*="www.answerlib.com"])
 startpage.com##.w-gl__result:has(a[href*="www.anycodings.com"])
+startpage.com##.w-gl__result:has(a[href*="www.appsloveworld.com"])
 startpage.com##.w-gl__result:has(a[href*="www.binarydevelop.com"])
 startpage.com##.w-gl__result:has(a[href*="www.codebaoku.com"])
 startpage.com##.w-gl__result:has(a[href*="www.codenong.com"])
@@ -7047,6 +7070,7 @@ startpage.com##.w-gl__result:has(a[href*="www.learnfk.com"])
 startpage.com##.w-gl__result:has(a[href*="www.linuxfixes.com"])
 startpage.com##.w-gl__result:has(a[href*="www.mejorcodigo.com"])
 startpage.com##.w-gl__result:has(a[href*="www.nuomiphp.com"])
+startpage.com##.w-gl__result:has(a[href*="www.querythreads.com"])
 startpage.com##.w-gl__result:has(a[href*="www.semicolonworld.com"])
 startpage.com##.w-gl__result:has(a[href*="www.stackfinder.ru"])
 startpage.com##.w-gl__result:has(a[href*="www.titanwolf.org"])
