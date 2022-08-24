@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-08-23 04:04:24 UTC
+! Generated: 2022-08-24 04:01:22 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -93,10 +93,12 @@
 ||codehero.jp$all
 ||codehunter.cc$all
 ||codeindex.ru$all
+||codejzy.com$all
 ||codengineering.ru$all
 ||codenong.com$all
 ||coder-solution-es.com$all
 ||coder-solution-jp.com$all
+||coder.gay$all
 ||coder.social$all
 ||coder.work$all
 ||coderedirect.com$all
@@ -112,6 +114,7 @@
 ||codingdict.com$all
 ||command-not-found.com$all
 ||configrouter.com$all
+||copyprogramming.com$all
 ||coredump.biz$all
 ||csdn.net$all
 ||culinarydegree.info$all
@@ -133,6 +136,7 @@
 ||devbugfix.com$all
 ||devdreamz.com$all
 ||devebee.com$all
+||developerfacts.com$all
 ||developreference.com$all
 ||devfaq.fr$all
 ||devqanda.com$all
@@ -345,6 +349,7 @@
 ||programming-articles.com$all
 ||projectbackpack.org$all
 ||proubuntu.ru$all
+||pullanswer.com$all
 ||py4u.net$all
 ||pyquestions.com$all
 ||python-stack.de$all
@@ -440,6 +445,7 @@
 ||stackify.dev$all
 ||stackoom.com$all
 ||stackoverflood.com$all
+||stackoverflowpoint.com$all
 ||stackovergo.com$all
 ||stackovernet.com$all
 ||stackovernet.xyz$all
@@ -684,10 +690,12 @@ bing.com###b_content a[href*="codeguides.site"]:upward(li)
 bing.com###b_content a[href*="codehero.jp"]:upward(li)
 bing.com###b_content a[href*="codehunter.cc"]:upward(li)
 bing.com###b_content a[href*="codeindex.ru"]:upward(li)
+bing.com###b_content a[href*="codejzy.com"]:upward(li)
 bing.com###b_content a[href*="codengineering.ru"]:upward(li)
 bing.com###b_content a[href*="codenong.com"]:upward(li)
 bing.com###b_content a[href*="coder-solution-es.com"]:upward(li)
 bing.com###b_content a[href*="coder-solution-jp.com"]:upward(li)
+bing.com###b_content a[href*="coder.gay"]:upward(li)
 bing.com###b_content a[href*="coder.social"]:upward(li)
 bing.com###b_content a[href*="coder.work"]:upward(li)
 bing.com###b_content a[href*="coderedirect.com"]:upward(li)
@@ -703,6 +711,7 @@ bing.com###b_content a[href*="codewdw.com"]:upward(li)
 bing.com###b_content a[href*="codingdict.com"]:upward(li)
 bing.com###b_content a[href*="command-not-found.com"]:upward(li)
 bing.com###b_content a[href*="configrouter.com"]:upward(li)
+bing.com###b_content a[href*="copyprogramming.com"]:upward(li)
 bing.com###b_content a[href*="coredump.biz"]:upward(li)
 bing.com###b_content a[href*="csdn.net"]:upward(li)
 bing.com###b_content a[href*="culinarydegree.info"]:upward(li)
@@ -724,6 +733,7 @@ bing.com###b_content a[href*="devasking.com"]:upward(li)
 bing.com###b_content a[href*="devbugfix.com"]:upward(li)
 bing.com###b_content a[href*="devdreamz.com"]:upward(li)
 bing.com###b_content a[href*="devebee.com"]:upward(li)
+bing.com###b_content a[href*="developerfacts.com"]:upward(li)
 bing.com###b_content a[href*="developreference.com"]:upward(li)
 bing.com###b_content a[href*="devfaq.fr"]:upward(li)
 bing.com###b_content a[href*="devqanda.com"]:upward(li)
@@ -936,6 +946,7 @@ bing.com###b_content a[href*="programmierfrage.com"]:upward(li)
 bing.com###b_content a[href*="programming-articles.com"]:upward(li)
 bing.com###b_content a[href*="projectbackpack.org"]:upward(li)
 bing.com###b_content a[href*="proubuntu.ru"]:upward(li)
+bing.com###b_content a[href*="pullanswer.com"]:upward(li)
 bing.com###b_content a[href*="py4u.net"]:upward(li)
 bing.com###b_content a[href*="pyquestions.com"]:upward(li)
 bing.com###b_content a[href*="python-stack.de"]:upward(li)
@@ -1031,6 +1042,7 @@ bing.com###b_content a[href*="stackguides.com"]:upward(li)
 bing.com###b_content a[href*="stackify.dev"]:upward(li)
 bing.com###b_content a[href*="stackoom.com"]:upward(li)
 bing.com###b_content a[href*="stackoverflood.com"]:upward(li)
+bing.com###b_content a[href*="stackoverflowpoint.com"]:upward(li)
 bing.com###b_content a[href*="stackovergo.com"]:upward(li)
 bing.com###b_content a[href*="stackovernet.com"]:upward(li)
 bing.com###b_content a[href*="stackovernet.xyz"]:upward(li)
@@ -1275,10 +1287,12 @@ duckduckgo.com##.tile-wrap a[href*="codeguides.site"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codehero.jp"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codehunter.cc"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codeindex.ru"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="codejzy.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codengineering.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codenong.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder-solution-es.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder-solution-jp.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="coder.gay"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder.social"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder.work"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coderedirect.com"]:upward(.tile)
@@ -1294,6 +1308,7 @@ duckduckgo.com##.tile-wrap a[href*="codewdw.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codingdict.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="command-not-found.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="configrouter.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="copyprogramming.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coredump.biz"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="csdn.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="culinarydegree.info"]:upward(.tile)
@@ -1315,6 +1330,7 @@ duckduckgo.com##.tile-wrap a[href*="devasking.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devbugfix.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devdreamz.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devebee.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="developerfacts.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="developreference.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devfaq.fr"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devqanda.com"]:upward(.tile)
@@ -1527,6 +1543,7 @@ duckduckgo.com##.tile-wrap a[href*="programmierfrage.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="programming-articles.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="projectbackpack.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="proubuntu.ru"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="pullanswer.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="py4u.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pyquestions.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="python-stack.de"]:upward(.tile)
@@ -1622,6 +1639,7 @@ duckduckgo.com##.tile-wrap a[href*="stackguides.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackify.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackoom.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackoverflood.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="stackoverflowpoint.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackovergo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackovernet.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackovernet.xyz"]:upward(.tile)
@@ -1866,10 +1884,12 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="codeguides.site"]:upward(
 duckduckgo.com##a[data-testid="result-title-a"][href*="codehero.jp"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codehunter.cc"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codeindex.ru"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="codejzy.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codengineering.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codenong.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder-solution-es.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder-solution-jp.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="coder.gay"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder.social"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder.work"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coderedirect.com"]:upward(.nrn-react-div)
@@ -1885,6 +1905,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="codewdw.com"]:upward(.nrn
 duckduckgo.com##a[data-testid="result-title-a"][href*="codingdict.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="command-not-found.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="configrouter.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="copyprogramming.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coredump.biz"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="csdn.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="culinarydegree.info"]:upward(.nrn-react-div)
@@ -1906,6 +1927,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="devasking.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="devbugfix.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="devdreamz.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="devebee.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="developerfacts.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="developreference.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="devfaq.fr"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="devqanda.com"]:upward(.nrn-react-div)
@@ -2118,6 +2140,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="programmierfrage.com"]:up
 duckduckgo.com##a[data-testid="result-title-a"][href*="programming-articles.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="projectbackpack.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="proubuntu.ru"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="pullanswer.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="py4u.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pyquestions.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="python-stack.de"]:upward(.nrn-react-div)
@@ -2213,6 +2236,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="stackguides.com"]:upward(
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackify.dev"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackoom.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackoverflood.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="stackoverflowpoint.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackovergo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackovernet.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackovernet.xyz"]:upward(.nrn-react-div)
@@ -2457,10 +2481,12 @@ google.*##.g:has(a[href*="codeguides.site"])
 google.*##.g:has(a[href*="codehero.jp"])
 google.*##.g:has(a[href*="codehunter.cc"])
 google.*##.g:has(a[href*="codeindex.ru"])
+google.*##.g:has(a[href*="codejzy.com"])
 google.*##.g:has(a[href*="codengineering.ru"])
 google.*##.g:has(a[href*="codenong.com"])
 google.*##.g:has(a[href*="coder-solution-es.com"])
 google.*##.g:has(a[href*="coder-solution-jp.com"])
+google.*##.g:has(a[href*="coder.gay"])
 google.*##.g:has(a[href*="coder.social"])
 google.*##.g:has(a[href*="coder.work"])
 google.*##.g:has(a[href*="coderedirect.com"])
@@ -2476,6 +2502,7 @@ google.*##.g:has(a[href*="codewdw.com"])
 google.*##.g:has(a[href*="codingdict.com"])
 google.*##.g:has(a[href*="command-not-found.com"])
 google.*##.g:has(a[href*="configrouter.com"])
+google.*##.g:has(a[href*="copyprogramming.com"])
 google.*##.g:has(a[href*="coredump.biz"])
 google.*##.g:has(a[href*="csdn.net"])
 google.*##.g:has(a[href*="culinarydegree.info"])
@@ -2497,6 +2524,7 @@ google.*##.g:has(a[href*="devasking.com"])
 google.*##.g:has(a[href*="devbugfix.com"])
 google.*##.g:has(a[href*="devdreamz.com"])
 google.*##.g:has(a[href*="devebee.com"])
+google.*##.g:has(a[href*="developerfacts.com"])
 google.*##.g:has(a[href*="developreference.com"])
 google.*##.g:has(a[href*="devfaq.fr"])
 google.*##.g:has(a[href*="devqanda.com"])
@@ -2709,6 +2737,7 @@ google.*##.g:has(a[href*="programmierfrage.com"])
 google.*##.g:has(a[href*="programming-articles.com"])
 google.*##.g:has(a[href*="projectbackpack.org"])
 google.*##.g:has(a[href*="proubuntu.ru"])
+google.*##.g:has(a[href*="pullanswer.com"])
 google.*##.g:has(a[href*="py4u.net"])
 google.*##.g:has(a[href*="pyquestions.com"])
 google.*##.g:has(a[href*="python-stack.de"])
@@ -2804,6 +2833,7 @@ google.*##.g:has(a[href*="stackguides.com"])
 google.*##.g:has(a[href*="stackify.dev"])
 google.*##.g:has(a[href*="stackoom.com"])
 google.*##.g:has(a[href*="stackoverflood.com"])
+google.*##.g:has(a[href*="stackoverflowpoint.com"])
 google.*##.g:has(a[href*="stackovergo.com"])
 google.*##.g:has(a[href*="stackovernet.com"])
 google.*##.g:has(a[href*="stackovernet.xyz"])
@@ -3048,10 +3078,12 @@ google.*##a[href*="codeguides.site"]:upward(1)
 google.*##a[href*="codehero.jp"]:upward(1)
 google.*##a[href*="codehunter.cc"]:upward(1)
 google.*##a[href*="codeindex.ru"]:upward(1)
+google.*##a[href*="codejzy.com"]:upward(1)
 google.*##a[href*="codengineering.ru"]:upward(1)
 google.*##a[href*="codenong.com"]:upward(1)
 google.*##a[href*="coder-solution-es.com"]:upward(1)
 google.*##a[href*="coder-solution-jp.com"]:upward(1)
+google.*##a[href*="coder.gay"]:upward(1)
 google.*##a[href*="coder.social"]:upward(1)
 google.*##a[href*="coder.work"]:upward(1)
 google.*##a[href*="coderedirect.com"]:upward(1)
@@ -3067,6 +3099,7 @@ google.*##a[href*="codewdw.com"]:upward(1)
 google.*##a[href*="codingdict.com"]:upward(1)
 google.*##a[href*="command-not-found.com"]:upward(1)
 google.*##a[href*="configrouter.com"]:upward(1)
+google.*##a[href*="copyprogramming.com"]:upward(1)
 google.*##a[href*="coredump.biz"]:upward(1)
 google.*##a[href*="csdn.net"]:upward(1)
 google.*##a[href*="culinarydegree.info"]:upward(1)
@@ -3088,6 +3121,7 @@ google.*##a[href*="devasking.com"]:upward(1)
 google.*##a[href*="devbugfix.com"]:upward(1)
 google.*##a[href*="devdreamz.com"]:upward(1)
 google.*##a[href*="devebee.com"]:upward(1)
+google.*##a[href*="developerfacts.com"]:upward(1)
 google.*##a[href*="developreference.com"]:upward(1)
 google.*##a[href*="devfaq.fr"]:upward(1)
 google.*##a[href*="devqanda.com"]:upward(1)
@@ -3300,6 +3334,7 @@ google.*##a[href*="programmierfrage.com"]:upward(1)
 google.*##a[href*="programming-articles.com"]:upward(1)
 google.*##a[href*="projectbackpack.org"]:upward(1)
 google.*##a[href*="proubuntu.ru"]:upward(1)
+google.*##a[href*="pullanswer.com"]:upward(1)
 google.*##a[href*="py4u.net"]:upward(1)
 google.*##a[href*="pyquestions.com"]:upward(1)
 google.*##a[href*="python-stack.de"]:upward(1)
@@ -3395,6 +3430,7 @@ google.*##a[href*="stackguides.com"]:upward(1)
 google.*##a[href*="stackify.dev"]:upward(1)
 google.*##a[href*="stackoom.com"]:upward(1)
 google.*##a[href*="stackoverflood.com"]:upward(1)
+google.*##a[href*="stackoverflowpoint.com"]:upward(1)
 google.*##a[href*="stackovergo.com"]:upward(1)
 google.*##a[href*="stackovernet.com"]:upward(1)
 google.*##a[href*="stackovernet.xyz"]:upward(1)
@@ -3639,10 +3675,12 @@ kagi.com##._0_image_item[data-host_url*="codeguides.site"]
 kagi.com##._0_image_item[data-host_url*="codehero.jp"]
 kagi.com##._0_image_item[data-host_url*="codehunter.cc"]
 kagi.com##._0_image_item[data-host_url*="codeindex.ru"]
+kagi.com##._0_image_item[data-host_url*="codejzy.com"]
 kagi.com##._0_image_item[data-host_url*="codengineering.ru"]
 kagi.com##._0_image_item[data-host_url*="codenong.com"]
 kagi.com##._0_image_item[data-host_url*="coder-solution-es.com"]
 kagi.com##._0_image_item[data-host_url*="coder-solution-jp.com"]
+kagi.com##._0_image_item[data-host_url*="coder.gay"]
 kagi.com##._0_image_item[data-host_url*="coder.social"]
 kagi.com##._0_image_item[data-host_url*="coder.work"]
 kagi.com##._0_image_item[data-host_url*="coderedirect.com"]
@@ -3658,6 +3696,7 @@ kagi.com##._0_image_item[data-host_url*="codewdw.com"]
 kagi.com##._0_image_item[data-host_url*="codingdict.com"]
 kagi.com##._0_image_item[data-host_url*="command-not-found.com"]
 kagi.com##._0_image_item[data-host_url*="configrouter.com"]
+kagi.com##._0_image_item[data-host_url*="copyprogramming.com"]
 kagi.com##._0_image_item[data-host_url*="coredump.biz"]
 kagi.com##._0_image_item[data-host_url*="csdn.net"]
 kagi.com##._0_image_item[data-host_url*="culinarydegree.info"]
@@ -3679,6 +3718,7 @@ kagi.com##._0_image_item[data-host_url*="devasking.com"]
 kagi.com##._0_image_item[data-host_url*="devbugfix.com"]
 kagi.com##._0_image_item[data-host_url*="devdreamz.com"]
 kagi.com##._0_image_item[data-host_url*="devebee.com"]
+kagi.com##._0_image_item[data-host_url*="developerfacts.com"]
 kagi.com##._0_image_item[data-host_url*="developreference.com"]
 kagi.com##._0_image_item[data-host_url*="devfaq.fr"]
 kagi.com##._0_image_item[data-host_url*="devqanda.com"]
@@ -3891,6 +3931,7 @@ kagi.com##._0_image_item[data-host_url*="programmierfrage.com"]
 kagi.com##._0_image_item[data-host_url*="programming-articles.com"]
 kagi.com##._0_image_item[data-host_url*="projectbackpack.org"]
 kagi.com##._0_image_item[data-host_url*="proubuntu.ru"]
+kagi.com##._0_image_item[data-host_url*="pullanswer.com"]
 kagi.com##._0_image_item[data-host_url*="py4u.net"]
 kagi.com##._0_image_item[data-host_url*="pyquestions.com"]
 kagi.com##._0_image_item[data-host_url*="python-stack.de"]
@@ -3986,6 +4027,7 @@ kagi.com##._0_image_item[data-host_url*="stackguides.com"]
 kagi.com##._0_image_item[data-host_url*="stackify.dev"]
 kagi.com##._0_image_item[data-host_url*="stackoom.com"]
 kagi.com##._0_image_item[data-host_url*="stackoverflood.com"]
+kagi.com##._0_image_item[data-host_url*="stackoverflowpoint.com"]
 kagi.com##._0_image_item[data-host_url*="stackovergo.com"]
 kagi.com##._0_image_item[data-host_url*="stackovernet.com"]
 kagi.com##._0_image_item[data-host_url*="stackovernet.xyz"]
@@ -4230,10 +4272,12 @@ kagi.com##.search-result:has(a.__sri-url[href*="codeguides.site"])
 kagi.com##.search-result:has(a.__sri-url[href*="codehero.jp"])
 kagi.com##.search-result:has(a.__sri-url[href*="codehunter.cc"])
 kagi.com##.search-result:has(a.__sri-url[href*="codeindex.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="codejzy.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codengineering.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="codenong.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder-solution-es.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder-solution-jp.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="coder.gay"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder.social"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder.work"])
 kagi.com##.search-result:has(a.__sri-url[href*="coderedirect.com"])
@@ -4249,6 +4293,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="codewdw.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codingdict.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="command-not-found.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="configrouter.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="copyprogramming.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coredump.biz"])
 kagi.com##.search-result:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="culinarydegree.info"])
@@ -4270,6 +4315,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="devasking.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devbugfix.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devdreamz.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devebee.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="developerfacts.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="developreference.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devfaq.fr"])
 kagi.com##.search-result:has(a.__sri-url[href*="devqanda.com"])
@@ -4482,6 +4528,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="programmierfrage.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="programming-articles.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="projectbackpack.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="proubuntu.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="pullanswer.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="py4u.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="pyquestions.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="python-stack.de"])
@@ -4577,6 +4624,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="stackguides.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackify.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackoom.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackoverflood.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="stackoverflowpoint.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackovergo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackovernet.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackovernet.xyz"])
@@ -4821,10 +4869,12 @@ kagi.com##.sri-group:has(a.__sri-url[href*="codeguides.site"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codehero.jp"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codehunter.cc"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codeindex.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="codejzy.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codengineering.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codenong.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder-solution-es.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder-solution-jp.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="coder.gay"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder.social"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder.work"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coderedirect.com"])
@@ -4840,6 +4890,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="codewdw.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codingdict.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="command-not-found.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="configrouter.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="copyprogramming.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coredump.biz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="culinarydegree.info"])
@@ -4861,6 +4912,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="devasking.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devbugfix.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devdreamz.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devebee.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="developerfacts.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="developreference.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devfaq.fr"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devqanda.com"])
@@ -5073,6 +5125,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="programmierfrage.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="programming-articles.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="projectbackpack.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="proubuntu.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="pullanswer.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="py4u.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pyquestions.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="python-stack.de"])
@@ -5168,6 +5221,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="stackguides.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackify.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackoom.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackoverflood.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="stackoverflowpoint.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackovergo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackovernet.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackovernet.xyz"])
@@ -5412,10 +5466,12 @@ searx.lan###main_results .result:has(a[href*="codeguides.site"])
 searx.lan###main_results .result:has(a[href*="codehero.jp"])
 searx.lan###main_results .result:has(a[href*="codehunter.cc"])
 searx.lan###main_results .result:has(a[href*="codeindex.ru"])
+searx.lan###main_results .result:has(a[href*="codejzy.com"])
 searx.lan###main_results .result:has(a[href*="codengineering.ru"])
 searx.lan###main_results .result:has(a[href*="codenong.com"])
 searx.lan###main_results .result:has(a[href*="coder-solution-es.com"])
 searx.lan###main_results .result:has(a[href*="coder-solution-jp.com"])
+searx.lan###main_results .result:has(a[href*="coder.gay"])
 searx.lan###main_results .result:has(a[href*="coder.social"])
 searx.lan###main_results .result:has(a[href*="coder.work"])
 searx.lan###main_results .result:has(a[href*="coderedirect.com"])
@@ -5431,6 +5487,7 @@ searx.lan###main_results .result:has(a[href*="codewdw.com"])
 searx.lan###main_results .result:has(a[href*="codingdict.com"])
 searx.lan###main_results .result:has(a[href*="command-not-found.com"])
 searx.lan###main_results .result:has(a[href*="configrouter.com"])
+searx.lan###main_results .result:has(a[href*="copyprogramming.com"])
 searx.lan###main_results .result:has(a[href*="coredump.biz"])
 searx.lan###main_results .result:has(a[href*="csdn.net"])
 searx.lan###main_results .result:has(a[href*="culinarydegree.info"])
@@ -5452,6 +5509,7 @@ searx.lan###main_results .result:has(a[href*="devasking.com"])
 searx.lan###main_results .result:has(a[href*="devbugfix.com"])
 searx.lan###main_results .result:has(a[href*="devdreamz.com"])
 searx.lan###main_results .result:has(a[href*="devebee.com"])
+searx.lan###main_results .result:has(a[href*="developerfacts.com"])
 searx.lan###main_results .result:has(a[href*="developreference.com"])
 searx.lan###main_results .result:has(a[href*="devfaq.fr"])
 searx.lan###main_results .result:has(a[href*="devqanda.com"])
@@ -5664,6 +5722,7 @@ searx.lan###main_results .result:has(a[href*="programmierfrage.com"])
 searx.lan###main_results .result:has(a[href*="programming-articles.com"])
 searx.lan###main_results .result:has(a[href*="projectbackpack.org"])
 searx.lan###main_results .result:has(a[href*="proubuntu.ru"])
+searx.lan###main_results .result:has(a[href*="pullanswer.com"])
 searx.lan###main_results .result:has(a[href*="py4u.net"])
 searx.lan###main_results .result:has(a[href*="pyquestions.com"])
 searx.lan###main_results .result:has(a[href*="python-stack.de"])
@@ -5759,6 +5818,7 @@ searx.lan###main_results .result:has(a[href*="stackguides.com"])
 searx.lan###main_results .result:has(a[href*="stackify.dev"])
 searx.lan###main_results .result:has(a[href*="stackoom.com"])
 searx.lan###main_results .result:has(a[href*="stackoverflood.com"])
+searx.lan###main_results .result:has(a[href*="stackoverflowpoint.com"])
 searx.lan###main_results .result:has(a[href*="stackovergo.com"])
 searx.lan###main_results .result:has(a[href*="stackovernet.com"])
 searx.lan###main_results .result:has(a[href*="stackovernet.xyz"])
@@ -6003,10 +6063,12 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(codegu
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codehero.jp))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codehunter.cc))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codeindex.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(codejzy.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codengineering.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codenong.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder-solution-es.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder-solution-jp.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(coder.gay))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder.social))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder.work))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coderedirect.com))
@@ -6022,6 +6084,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(codewd
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codingdict.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(command-not-found.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(configrouter.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(copyprogramming.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coredump.biz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(csdn.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(culinarydegree.info))
@@ -6043,6 +6106,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(devask
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devbugfix.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devdreamz.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devebee.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(developerfacts.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(developreference.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devfaq.fr))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devqanda.com))
@@ -6255,6 +6319,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(progra
 startpage.com##.image-container:has(div.image-quick-details span:has-text(programming-articles.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(projectbackpack.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(proubuntu.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(pullanswer.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(py4u.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pyquestions.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(python-stack.de))
@@ -6350,6 +6415,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(stackg
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackify.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoom.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoverflood.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoverflowpoint.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovergo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovernet.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovernet.xyz))
@@ -6594,10 +6660,12 @@ startpage.com##.w-gl__result:has(a[href*="codeguides.site"])
 startpage.com##.w-gl__result:has(a[href*="codehero.jp"])
 startpage.com##.w-gl__result:has(a[href*="codehunter.cc"])
 startpage.com##.w-gl__result:has(a[href*="codeindex.ru"])
+startpage.com##.w-gl__result:has(a[href*="codejzy.com"])
 startpage.com##.w-gl__result:has(a[href*="codengineering.ru"])
 startpage.com##.w-gl__result:has(a[href*="codenong.com"])
 startpage.com##.w-gl__result:has(a[href*="coder-solution-es.com"])
 startpage.com##.w-gl__result:has(a[href*="coder-solution-jp.com"])
+startpage.com##.w-gl__result:has(a[href*="coder.gay"])
 startpage.com##.w-gl__result:has(a[href*="coder.social"])
 startpage.com##.w-gl__result:has(a[href*="coder.work"])
 startpage.com##.w-gl__result:has(a[href*="coderedirect.com"])
@@ -6613,6 +6681,7 @@ startpage.com##.w-gl__result:has(a[href*="codewdw.com"])
 startpage.com##.w-gl__result:has(a[href*="codingdict.com"])
 startpage.com##.w-gl__result:has(a[href*="command-not-found.com"])
 startpage.com##.w-gl__result:has(a[href*="configrouter.com"])
+startpage.com##.w-gl__result:has(a[href*="copyprogramming.com"])
 startpage.com##.w-gl__result:has(a[href*="coredump.biz"])
 startpage.com##.w-gl__result:has(a[href*="csdn.net"])
 startpage.com##.w-gl__result:has(a[href*="culinarydegree.info"])
@@ -6634,6 +6703,7 @@ startpage.com##.w-gl__result:has(a[href*="devasking.com"])
 startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])
 startpage.com##.w-gl__result:has(a[href*="devdreamz.com"])
 startpage.com##.w-gl__result:has(a[href*="devebee.com"])
+startpage.com##.w-gl__result:has(a[href*="developerfacts.com"])
 startpage.com##.w-gl__result:has(a[href*="developreference.com"])
 startpage.com##.w-gl__result:has(a[href*="devfaq.fr"])
 startpage.com##.w-gl__result:has(a[href*="devqanda.com"])
@@ -6846,6 +6916,7 @@ startpage.com##.w-gl__result:has(a[href*="programmierfrage.com"])
 startpage.com##.w-gl__result:has(a[href*="programming-articles.com"])
 startpage.com##.w-gl__result:has(a[href*="projectbackpack.org"])
 startpage.com##.w-gl__result:has(a[href*="proubuntu.ru"])
+startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
 startpage.com##.w-gl__result:has(a[href*="py4u.net"])
 startpage.com##.w-gl__result:has(a[href*="pyquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="python-stack.de"])
@@ -6941,6 +7012,7 @@ startpage.com##.w-gl__result:has(a[href*="stackguides.com"])
 startpage.com##.w-gl__result:has(a[href*="stackify.dev"])
 startpage.com##.w-gl__result:has(a[href*="stackoom.com"])
 startpage.com##.w-gl__result:has(a[href*="stackoverflood.com"])
+startpage.com##.w-gl__result:has(a[href*="stackoverflowpoint.com"])
 startpage.com##.w-gl__result:has(a[href*="stackovergo.com"])
 startpage.com##.w-gl__result:has(a[href*="stackovernet.com"])
 startpage.com##.w-gl__result:has(a[href*="stackovernet.xyz"])
