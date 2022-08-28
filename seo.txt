@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-08-27 03:56:41 UTC
+! Generated: 2022-08-28 03:51:02 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -389,6 +389,7 @@
 ||qastack.net.bd$all
 ||qastack.ru$all
 ||qastack.vn$all
+||qatop.pythonwood.com$all
 ||qi-u.com$all
 ||quabr.com$all
 ||quares.ru$all
@@ -986,6 +987,7 @@ bing.com###b_content a[href*="qastack.mx"]:upward(li)
 bing.com###b_content a[href*="qastack.net.bd"]:upward(li)
 bing.com###b_content a[href*="qastack.ru"]:upward(li)
 bing.com###b_content a[href*="qastack.vn"]:upward(li)
+bing.com###b_content a[href*="qatop.pythonwood.com"]:upward(li)
 bing.com###b_content a[href*="qi-u.com"]:upward(li)
 bing.com###b_content a[href*="quabr.com"]:upward(li)
 bing.com###b_content a[href*="quares.ru"]:upward(li)
@@ -1583,6 +1585,7 @@ duckduckgo.com##.tile-wrap a[href*="qastack.mx"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qastack.net.bd"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qastack.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qastack.vn"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="qatop.pythonwood.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qi-u.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="quabr.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="quares.ru"]:upward(.tile)
@@ -2180,6 +2183,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="qastack.mx"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="qastack.net.bd"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qastack.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qastack.vn"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="qatop.pythonwood.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qi-u.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="quabr.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="quares.ru"]:upward(.nrn-react-div)
@@ -2777,6 +2781,7 @@ google.*##.g:has(a[href*="qastack.mx"])
 google.*##.g:has(a[href*="qastack.net.bd"])
 google.*##.g:has(a[href*="qastack.ru"])
 google.*##.g:has(a[href*="qastack.vn"])
+google.*##.g:has(a[href*="qatop.pythonwood.com"])
 google.*##.g:has(a[href*="qi-u.com"])
 google.*##.g:has(a[href*="quabr.com"])
 google.*##.g:has(a[href*="quares.ru"])
@@ -3374,6 +3379,7 @@ google.*##a[href*="qastack.mx"]:upward(1)
 google.*##a[href*="qastack.net.bd"]:upward(1)
 google.*##a[href*="qastack.ru"]:upward(1)
 google.*##a[href*="qastack.vn"]:upward(1)
+google.*##a[href*="qatop.pythonwood.com"]:upward(1)
 google.*##a[href*="qi-u.com"]:upward(1)
 google.*##a[href*="quabr.com"]:upward(1)
 google.*##a[href*="quares.ru"]:upward(1)
@@ -3971,6 +3977,7 @@ kagi.com##._0_image_item[data-host_url*="qastack.mx"]
 kagi.com##._0_image_item[data-host_url*="qastack.net.bd"]
 kagi.com##._0_image_item[data-host_url*="qastack.ru"]
 kagi.com##._0_image_item[data-host_url*="qastack.vn"]
+kagi.com##._0_image_item[data-host_url*="qatop.pythonwood.com"]
 kagi.com##._0_image_item[data-host_url*="qi-u.com"]
 kagi.com##._0_image_item[data-host_url*="quabr.com"]
 kagi.com##._0_image_item[data-host_url*="quares.ru"]
@@ -4568,6 +4575,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="qastack.mx"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.net.bd"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.vn"])
+kagi.com##.search-result:has(a.__sri-url[href*="qatop.pythonwood.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="qi-u.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="quabr.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="quares.ru"])
@@ -5165,6 +5173,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="qastack.mx"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.net.bd"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.vn"])
+kagi.com##.sri-group:has(a.__sri-url[href*="qatop.pythonwood.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qi-u.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quabr.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quares.ru"])
@@ -5762,6 +5771,7 @@ searx.lan###main_results .result:has(a[href*="qastack.mx"])
 searx.lan###main_results .result:has(a[href*="qastack.net.bd"])
 searx.lan###main_results .result:has(a[href*="qastack.ru"])
 searx.lan###main_results .result:has(a[href*="qastack.vn"])
+searx.lan###main_results .result:has(a[href*="qatop.pythonwood.com"])
 searx.lan###main_results .result:has(a[href*="qi-u.com"])
 searx.lan###main_results .result:has(a[href*="quabr.com"])
 searx.lan###main_results .result:has(a[href*="quares.ru"])
@@ -6359,6 +6369,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(qastac
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.net.bd))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.vn))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(qatop.pythonwood.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qi-u.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quabr.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quares.ru))
@@ -6956,6 +6967,7 @@ startpage.com##.w-gl__result:has(a[href*="qastack.mx"])
 startpage.com##.w-gl__result:has(a[href*="qastack.net.bd"])
 startpage.com##.w-gl__result:has(a[href*="qastack.ru"])
 startpage.com##.w-gl__result:has(a[href*="qastack.vn"])
+startpage.com##.w-gl__result:has(a[href*="qatop.pythonwood.com"])
 startpage.com##.w-gl__result:has(a[href*="qi-u.com"])
 startpage.com##.w-gl__result:has(a[href*="quabr.com"])
 startpage.com##.w-gl__result:has(a[href*="quares.ru"])
