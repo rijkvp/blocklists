@@ -17,6 +17,11 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytp-heat-map-container
 
+! Odysee
+
+odysee.com##.sidebar--pusher
+odysee.com##.card-stack--spacing-m
+
 ! GitHub
 
 ! The new 'For you' feed
