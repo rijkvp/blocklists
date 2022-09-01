@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-01 15:45:34 UTC
+! Generated: 2022-09-01 16:00:07 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
@@ -37,28 +37,6 @@ y.com.sb##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 yewtu.be##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 youtube.076.ne.jp##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 yt.artemislena.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
-inv.bp.projectsegfau.lt##.thumbnail
-inv.privacy.com.de##.thumbnail
-inv.riverside.rocks##.thumbnail
-inv.vern.cc##.thumbnail
-invidio.xamh.de##.thumbnail
-invidious.esmailelbob.xyz##.thumbnail
-invidious.flokinet.to##.thumbnail
-invidious.kavin.rocks##.thumbnail
-invidious.namazso.eu##.thumbnail
-invidious.nerdvpn.de##.thumbnail
-invidious.projectsegfau.lt##.thumbnail
-invidious.rhyshl.live##.thumbnail
-invidious.sethforprivacy.com##.thumbnail
-invidious.slipfox.xyz##.thumbnail
-invidious.snopyta.org##.thumbnail
-invidious.tiekoetter.com##.thumbnail
-invidious.weblibre.org##.thumbnail
-vid.puffyan.us##.thumbnail
-y.com.sb##.thumbnail
-yewtu.be##.thumbnail
-youtube.076.ne.jp##.thumbnail
-yt.artemislena.eu##.thumbnail
 inv.bp.projectsegfau.lt##div.pure-g:nth-child(3)
 inv.privacy.com.de##div.pure-g:nth-child(3)
 inv.riverside.rocks##div.pure-g:nth-child(3)
