@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
-! Description: Block algorithmic feeds from the web.
+! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-01 04:00:14 UTC
+! Generated: 2022-09-01 15:45:34 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
@@ -59,3 +59,47 @@ y.com.sb##.thumbnail
 yewtu.be##.thumbnail
 youtube.076.ne.jp##.thumbnail
 yt.artemislena.eu##.thumbnail
+inv.bp.projectsegfau.lt##div.pure-g:nth-child(3)
+inv.privacy.com.de##div.pure-g:nth-child(3)
+inv.riverside.rocks##div.pure-g:nth-child(3)
+inv.vern.cc##div.pure-g:nth-child(3)
+invidio.xamh.de##div.pure-g:nth-child(3)
+invidious.esmailelbob.xyz##div.pure-g:nth-child(3)
+invidious.flokinet.to##div.pure-g:nth-child(3)
+invidious.kavin.rocks##div.pure-g:nth-child(3)
+invidious.namazso.eu##div.pure-g:nth-child(3)
+invidious.nerdvpn.de##div.pure-g:nth-child(3)
+invidious.projectsegfau.lt##div.pure-g:nth-child(3)
+invidious.rhyshl.live##div.pure-g:nth-child(3)
+invidious.sethforprivacy.com##div.pure-g:nth-child(3)
+invidious.slipfox.xyz##div.pure-g:nth-child(3)
+invidious.snopyta.org##div.pure-g:nth-child(3)
+invidious.tiekoetter.com##div.pure-g:nth-child(3)
+invidious.weblibre.org##div.pure-g:nth-child(3)
+vid.puffyan.us##div.pure-g:nth-child(3)
+y.com.sb##div.pure-g:nth-child(3)
+yewtu.be##div.pure-g:nth-child(3)
+youtube.076.ne.jp##div.pure-g:nth-child(3)
+yt.artemislena.eu##div.pure-g:nth-child(3)
+inv.bp.projectsegfau.lt##div.pure-g:nth-child(5)
+inv.privacy.com.de##div.pure-g:nth-child(5)
+inv.riverside.rocks##div.pure-g:nth-child(5)
+inv.vern.cc##div.pure-g:nth-child(5)
+invidio.xamh.de##div.pure-g:nth-child(5)
+invidious.esmailelbob.xyz##div.pure-g:nth-child(5)
+invidious.flokinet.to##div.pure-g:nth-child(5)
+invidious.kavin.rocks##div.pure-g:nth-child(5)
+invidious.namazso.eu##div.pure-g:nth-child(5)
+invidious.nerdvpn.de##div.pure-g:nth-child(5)
+invidious.projectsegfau.lt##div.pure-g:nth-child(5)
+invidious.rhyshl.live##div.pure-g:nth-child(5)
+invidious.sethforprivacy.com##div.pure-g:nth-child(5)
+invidious.slipfox.xyz##div.pure-g:nth-child(5)
+invidious.snopyta.org##div.pure-g:nth-child(5)
+invidious.tiekoetter.com##div.pure-g:nth-child(5)
+invidious.weblibre.org##div.pure-g:nth-child(5)
+vid.puffyan.us##div.pure-g:nth-child(5)
+y.com.sb##div.pure-g:nth-child(5)
+yewtu.be##div.pure-g:nth-child(5)
+youtube.076.ne.jp##div.pure-g:nth-child(5)
+yt.artemislena.eu##div.pure-g:nth-child(5)
