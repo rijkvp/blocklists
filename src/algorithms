@@ -1,5 +1,5 @@
 !!meta Title Algorithms Blocklist
-!!meta Description Block algorithmic feeds from the web.
+!!meta Description Use websites distractionless by blocking algorithmic feeds.
 !!meta Homepage https://github.com/rijkvp/blocklists/
 
 ! YouTube
@@ -24,16 +24,20 @@ odysee.com##.card-stack--spacing-m
 
 ! GitHub
 
-! The new 'For you' feed
+! The new agorithmic 'For you' feed
 github.com##.UnderlineNav.overflow-visible.js-feeds-tabs
-! The side menu with distracting news & other recommendations
+! Side menu with distracting stuff
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
 
 ! Invidious
 
 !!add @invidious
-
 ! Recommendations
 !!tmpl {}##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+! Thunbnails
 !!tmpl {}##.thumbnail
+! Home page
+!!tmpl {}##div.pure-g:nth-child(3)
+! Trending page
+!!tmpl {}##div.pure-g:nth-child(5)
 
