@@ -81,8 +81,8 @@ for filename in os.listdir(SOURCE_DIR):
                             logging.info("downloading list of invidious instances..")
                             res = requests.get("https://api.invidious.io/instances.json?sort_by=health")
                             if res.ok:
-                                json = json.loads(res.text)
-                                for item in json:
+                                instances = json.loads(res.text)
+                                for item in instances:
                                     if item[1]['type'] == "https":
                                         hostnames.append(item[0])
                             else:
