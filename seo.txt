@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-03 03:57:40 UTC
+! Generated: 2022-09-04 04:02:46 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -22,6 +22,7 @@
 ||androidrepo.com$all
 ||andywarholpopartillustration.blogspot.com$all
 ||angularquestions.com$all
+||ansaurus.com$all
 ||answacode.com$all
 ||answer-id.com$all
 ||answeright.com$all
@@ -196,6 +197,7 @@
 ||fooobar.com$all
 ||frameboxxindore.com$all
 ||frwiki.wiki$all
+||fullstack.cafe$all
 ||fullstackuser.com$all
 ||fuscin.com$all
 ||gateoverflow.in$all
@@ -316,6 +318,7 @@
 ||lycaeum.dev$all
 ||macosrepo.com$all
 ||madanswer.com$all
+||mars.railpage.com.au$all
 ||mediatagtw.com$all
 ||mediawiki.feverous.co.uk$all
 ||mejorcodigo.com$all
@@ -337,6 +340,7 @@
 ||oomake.com$all
 ||openprojectrepo.com$all
 ||opensourcelibs.com$all
+||oraask.com$all
 ||ostack.cn$all
 ||ourladylakes.org$all
 ||ourpython.com$all
@@ -554,6 +558,7 @@
 ||wikidark.ru$all
 ||wikide.wiki$all
 ||wikidea.ru$all
+||wikifix.dev$all
 ||wikipe.wiki$all
 ||wikipedia.tel$all
 ||wikipedia24.ru$all
@@ -613,6 +618,7 @@
 ||xstack.us$all
 ||xszz.org$all
 ||yaoply.com$all
+||yeahexp.com$all
 ||ylhow.com$all
 ||yocker.com$all
 ||younggeeks.in$all
@@ -642,6 +648,7 @@ bing.com###b_content a[href*="amuddycup.com"]:upward(li)
 bing.com###b_content a[href*="androidrepo.com"]:upward(li)
 bing.com###b_content a[href*="andywarholpopartillustration.blogspot.com"]:upward(li)
 bing.com###b_content a[href*="angularquestions.com"]:upward(li)
+bing.com###b_content a[href*="ansaurus.com"]:upward(li)
 bing.com###b_content a[href*="answacode.com"]:upward(li)
 bing.com###b_content a[href*="answer-id.com"]:upward(li)
 bing.com###b_content a[href*="answeright.com"]:upward(li)
@@ -816,6 +823,7 @@ bing.com###b_content a[href*="flvrclothing.com"]:upward(li)
 bing.com###b_content a[href*="fooobar.com"]:upward(li)
 bing.com###b_content a[href*="frameboxxindore.com"]:upward(li)
 bing.com###b_content a[href*="frwiki.wiki"]:upward(li)
+bing.com###b_content a[href*="fullstack.cafe"]:upward(li)
 bing.com###b_content a[href*="fullstackuser.com"]:upward(li)
 bing.com###b_content a[href*="fuscin.com"]:upward(li)
 bing.com###b_content a[href*="gateoverflow.in"]:upward(li)
@@ -936,6 +944,7 @@ bing.com###b_content a[href*="localcoder.org"]:upward(li)
 bing.com###b_content a[href*="lycaeum.dev"]:upward(li)
 bing.com###b_content a[href*="macosrepo.com"]:upward(li)
 bing.com###b_content a[href*="madanswer.com"]:upward(li)
+bing.com###b_content a[href*="mars.railpage.com.au"]:upward(li)
 bing.com###b_content a[href*="mediatagtw.com"]:upward(li)
 bing.com###b_content a[href*="mediawiki.feverous.co.uk"]:upward(li)
 bing.com###b_content a[href*="mejorcodigo.com"]:upward(li)
@@ -957,6 +966,7 @@ bing.com###b_content a[href*="ohandroid.com"]:upward(li)
 bing.com###b_content a[href*="oomake.com"]:upward(li)
 bing.com###b_content a[href*="openprojectrepo.com"]:upward(li)
 bing.com###b_content a[href*="opensourcelibs.com"]:upward(li)
+bing.com###b_content a[href*="oraask.com"]:upward(li)
 bing.com###b_content a[href*="ostack.cn"]:upward(li)
 bing.com###b_content a[href*="ourladylakes.org"]:upward(li)
 bing.com###b_content a[href*="ourpython.com"]:upward(li)
@@ -1174,6 +1184,7 @@ bing.com###b_content a[href*="wikibrief.org"]:upward(li)
 bing.com###b_content a[href*="wikidark.ru"]:upward(li)
 bing.com###b_content a[href*="wikide.wiki"]:upward(li)
 bing.com###b_content a[href*="wikidea.ru"]:upward(li)
+bing.com###b_content a[href*="wikifix.dev"]:upward(li)
 bing.com###b_content a[href*="wikipe.wiki"]:upward(li)
 bing.com###b_content a[href*="wikipedia.tel"]:upward(li)
 bing.com###b_content a[href*="wikipedia24.ru"]:upward(li)
@@ -1233,6 +1244,7 @@ bing.com###b_content a[href*="xstack.ru"]:upward(li)
 bing.com###b_content a[href*="xstack.us"]:upward(li)
 bing.com###b_content a[href*="xszz.org"]:upward(li)
 bing.com###b_content a[href*="yaoply.com"]:upward(li)
+bing.com###b_content a[href*="yeahexp.com"]:upward(li)
 bing.com###b_content a[href*="ylhow.com"]:upward(li)
 bing.com###b_content a[href*="yocker.com"]:upward(li)
 bing.com###b_content a[href*="younggeeks.in"]:upward(li)
@@ -1262,6 +1274,7 @@ duckduckgo.com##.tile-wrap a[href*="amuddycup.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="androidrepo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="andywarholpopartillustration.blogspot.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="angularquestions.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="ansaurus.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="answacode.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="answer-id.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="answeright.com"]:upward(.tile)
@@ -1436,6 +1449,7 @@ duckduckgo.com##.tile-wrap a[href*="flvrclothing.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="fooobar.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="frameboxxindore.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="frwiki.wiki"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="fullstack.cafe"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="fullstackuser.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="fuscin.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gateoverflow.in"]:upward(.tile)
@@ -1556,6 +1570,7 @@ duckduckgo.com##.tile-wrap a[href*="localcoder.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="lycaeum.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="macosrepo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="madanswer.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="mars.railpage.com.au"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="mediatagtw.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="mediawiki.feverous.co.uk"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="mejorcodigo.com"]:upward(.tile)
@@ -1577,6 +1592,7 @@ duckduckgo.com##.tile-wrap a[href*="ohandroid.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="oomake.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="openprojectrepo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="opensourcelibs.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="oraask.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ostack.cn"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ourladylakes.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ourpython.com"]:upward(.tile)
@@ -1794,6 +1810,7 @@ duckduckgo.com##.tile-wrap a[href*="wikibrief.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wikidark.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wikide.wiki"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wikidea.ru"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="wikifix.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wikipe.wiki"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wikipedia.tel"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wikipedia24.ru"]:upward(.tile)
@@ -1853,6 +1870,7 @@ duckduckgo.com##.tile-wrap a[href*="xstack.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="xstack.us"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="xszz.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="yaoply.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="yeahexp.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ylhow.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="yocker.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="younggeeks.in"]:upward(.tile)
@@ -1882,6 +1900,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="amuddycup.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="androidrepo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="andywarholpopartillustration.blogspot.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="angularquestions.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="ansaurus.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="answacode.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="answer-id.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="answeright.com"]:upward(.nrn-react-div)
@@ -2056,6 +2075,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="flvrclothing.com"]:upward
 duckduckgo.com##a[data-testid="result-title-a"][href*="fooobar.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="frameboxxindore.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="frwiki.wiki"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="fullstack.cafe"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="fullstackuser.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="fuscin.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gateoverflow.in"]:upward(.nrn-react-div)
@@ -2176,6 +2196,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="localcoder.org"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="lycaeum.dev"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="macosrepo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="madanswer.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="mars.railpage.com.au"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="mediatagtw.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="mediawiki.feverous.co.uk"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="mejorcodigo.com"]:upward(.nrn-react-div)
@@ -2197,6 +2218,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="ohandroid.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="oomake.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="openprojectrepo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="opensourcelibs.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="oraask.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ostack.cn"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ourladylakes.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ourpython.com"]:upward(.nrn-react-div)
@@ -2414,6 +2436,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="wikibrief.org"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="wikidark.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wikide.wiki"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wikidea.ru"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="wikifix.dev"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wikipe.wiki"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wikipedia.tel"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wikipedia24.ru"]:upward(.nrn-react-div)
@@ -2473,6 +2496,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="xstack.ru"]:upward(.nrn-r
 duckduckgo.com##a[data-testid="result-title-a"][href*="xstack.us"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="xszz.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="yaoply.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="yeahexp.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ylhow.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="yocker.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="younggeeks.in"]:upward(.nrn-react-div)
@@ -2502,6 +2526,7 @@ google.*##.g:has(a[href*="amuddycup.com"])
 google.*##.g:has(a[href*="androidrepo.com"])
 google.*##.g:has(a[href*="andywarholpopartillustration.blogspot.com"])
 google.*##.g:has(a[href*="angularquestions.com"])
+google.*##.g:has(a[href*="ansaurus.com"])
 google.*##.g:has(a[href*="answacode.com"])
 google.*##.g:has(a[href*="answer-id.com"])
 google.*##.g:has(a[href*="answeright.com"])
@@ -2676,6 +2701,7 @@ google.*##.g:has(a[href*="flvrclothing.com"])
 google.*##.g:has(a[href*="fooobar.com"])
 google.*##.g:has(a[href*="frameboxxindore.com"])
 google.*##.g:has(a[href*="frwiki.wiki"])
+google.*##.g:has(a[href*="fullstack.cafe"])
 google.*##.g:has(a[href*="fullstackuser.com"])
 google.*##.g:has(a[href*="fuscin.com"])
 google.*##.g:has(a[href*="gateoverflow.in"])
@@ -2796,6 +2822,7 @@ google.*##.g:has(a[href*="localcoder.org"])
 google.*##.g:has(a[href*="lycaeum.dev"])
 google.*##.g:has(a[href*="macosrepo.com"])
 google.*##.g:has(a[href*="madanswer.com"])
+google.*##.g:has(a[href*="mars.railpage.com.au"])
 google.*##.g:has(a[href*="mediatagtw.com"])
 google.*##.g:has(a[href*="mediawiki.feverous.co.uk"])
 google.*##.g:has(a[href*="mejorcodigo.com"])
@@ -2817,6 +2844,7 @@ google.*##.g:has(a[href*="ohandroid.com"])
 google.*##.g:has(a[href*="oomake.com"])
 google.*##.g:has(a[href*="openprojectrepo.com"])
 google.*##.g:has(a[href*="opensourcelibs.com"])
+google.*##.g:has(a[href*="oraask.com"])
 google.*##.g:has(a[href*="ostack.cn"])
 google.*##.g:has(a[href*="ourladylakes.org"])
 google.*##.g:has(a[href*="ourpython.com"])
@@ -3034,6 +3062,7 @@ google.*##.g:has(a[href*="wikibrief.org"])
 google.*##.g:has(a[href*="wikidark.ru"])
 google.*##.g:has(a[href*="wikide.wiki"])
 google.*##.g:has(a[href*="wikidea.ru"])
+google.*##.g:has(a[href*="wikifix.dev"])
 google.*##.g:has(a[href*="wikipe.wiki"])
 google.*##.g:has(a[href*="wikipedia.tel"])
 google.*##.g:has(a[href*="wikipedia24.ru"])
@@ -3093,6 +3122,7 @@ google.*##.g:has(a[href*="xstack.ru"])
 google.*##.g:has(a[href*="xstack.us"])
 google.*##.g:has(a[href*="xszz.org"])
 google.*##.g:has(a[href*="yaoply.com"])
+google.*##.g:has(a[href*="yeahexp.com"])
 google.*##.g:has(a[href*="ylhow.com"])
 google.*##.g:has(a[href*="yocker.com"])
 google.*##.g:has(a[href*="younggeeks.in"])
@@ -3122,6 +3152,7 @@ google.*##a[href*="amuddycup.com"]:upward(1)
 google.*##a[href*="androidrepo.com"]:upward(1)
 google.*##a[href*="andywarholpopartillustration.blogspot.com"]:upward(1)
 google.*##a[href*="angularquestions.com"]:upward(1)
+google.*##a[href*="ansaurus.com"]:upward(1)
 google.*##a[href*="answacode.com"]:upward(1)
 google.*##a[href*="answer-id.com"]:upward(1)
 google.*##a[href*="answeright.com"]:upward(1)
@@ -3296,6 +3327,7 @@ google.*##a[href*="flvrclothing.com"]:upward(1)
 google.*##a[href*="fooobar.com"]:upward(1)
 google.*##a[href*="frameboxxindore.com"]:upward(1)
 google.*##a[href*="frwiki.wiki"]:upward(1)
+google.*##a[href*="fullstack.cafe"]:upward(1)
 google.*##a[href*="fullstackuser.com"]:upward(1)
 google.*##a[href*="fuscin.com"]:upward(1)
 google.*##a[href*="gateoverflow.in"]:upward(1)
@@ -3416,6 +3448,7 @@ google.*##a[href*="localcoder.org"]:upward(1)
 google.*##a[href*="lycaeum.dev"]:upward(1)
 google.*##a[href*="macosrepo.com"]:upward(1)
 google.*##a[href*="madanswer.com"]:upward(1)
+google.*##a[href*="mars.railpage.com.au"]:upward(1)
 google.*##a[href*="mediatagtw.com"]:upward(1)
 google.*##a[href*="mediawiki.feverous.co.uk"]:upward(1)
 google.*##a[href*="mejorcodigo.com"]:upward(1)
@@ -3437,6 +3470,7 @@ google.*##a[href*="ohandroid.com"]:upward(1)
 google.*##a[href*="oomake.com"]:upward(1)
 google.*##a[href*="openprojectrepo.com"]:upward(1)
 google.*##a[href*="opensourcelibs.com"]:upward(1)
+google.*##a[href*="oraask.com"]:upward(1)
 google.*##a[href*="ostack.cn"]:upward(1)
 google.*##a[href*="ourladylakes.org"]:upward(1)
 google.*##a[href*="ourpython.com"]:upward(1)
@@ -3654,6 +3688,7 @@ google.*##a[href*="wikibrief.org"]:upward(1)
 google.*##a[href*="wikidark.ru"]:upward(1)
 google.*##a[href*="wikide.wiki"]:upward(1)
 google.*##a[href*="wikidea.ru"]:upward(1)
+google.*##a[href*="wikifix.dev"]:upward(1)
 google.*##a[href*="wikipe.wiki"]:upward(1)
 google.*##a[href*="wikipedia.tel"]:upward(1)
 google.*##a[href*="wikipedia24.ru"]:upward(1)
@@ -3713,6 +3748,7 @@ google.*##a[href*="xstack.ru"]:upward(1)
 google.*##a[href*="xstack.us"]:upward(1)
 google.*##a[href*="xszz.org"]:upward(1)
 google.*##a[href*="yaoply.com"]:upward(1)
+google.*##a[href*="yeahexp.com"]:upward(1)
 google.*##a[href*="ylhow.com"]:upward(1)
 google.*##a[href*="yocker.com"]:upward(1)
 google.*##a[href*="younggeeks.in"]:upward(1)
@@ -3742,6 +3778,7 @@ kagi.com##._0_image_item[data-host_url*="amuddycup.com"]
 kagi.com##._0_image_item[data-host_url*="androidrepo.com"]
 kagi.com##._0_image_item[data-host_url*="andywarholpopartillustration.blogspot.com"]
 kagi.com##._0_image_item[data-host_url*="angularquestions.com"]
+kagi.com##._0_image_item[data-host_url*="ansaurus.com"]
 kagi.com##._0_image_item[data-host_url*="answacode.com"]
 kagi.com##._0_image_item[data-host_url*="answer-id.com"]
 kagi.com##._0_image_item[data-host_url*="answeright.com"]
@@ -3916,6 +3953,7 @@ kagi.com##._0_image_item[data-host_url*="flvrclothing.com"]
 kagi.com##._0_image_item[data-host_url*="fooobar.com"]
 kagi.com##._0_image_item[data-host_url*="frameboxxindore.com"]
 kagi.com##._0_image_item[data-host_url*="frwiki.wiki"]
+kagi.com##._0_image_item[data-host_url*="fullstack.cafe"]
 kagi.com##._0_image_item[data-host_url*="fullstackuser.com"]
 kagi.com##._0_image_item[data-host_url*="fuscin.com"]
 kagi.com##._0_image_item[data-host_url*="gateoverflow.in"]
@@ -4036,6 +4074,7 @@ kagi.com##._0_image_item[data-host_url*="localcoder.org"]
 kagi.com##._0_image_item[data-host_url*="lycaeum.dev"]
 kagi.com##._0_image_item[data-host_url*="macosrepo.com"]
 kagi.com##._0_image_item[data-host_url*="madanswer.com"]
+kagi.com##._0_image_item[data-host_url*="mars.railpage.com.au"]
 kagi.com##._0_image_item[data-host_url*="mediatagtw.com"]
 kagi.com##._0_image_item[data-host_url*="mediawiki.feverous.co.uk"]
 kagi.com##._0_image_item[data-host_url*="mejorcodigo.com"]
@@ -4057,6 +4096,7 @@ kagi.com##._0_image_item[data-host_url*="ohandroid.com"]
 kagi.com##._0_image_item[data-host_url*="oomake.com"]
 kagi.com##._0_image_item[data-host_url*="openprojectrepo.com"]
 kagi.com##._0_image_item[data-host_url*="opensourcelibs.com"]
+kagi.com##._0_image_item[data-host_url*="oraask.com"]
 kagi.com##._0_image_item[data-host_url*="ostack.cn"]
 kagi.com##._0_image_item[data-host_url*="ourladylakes.org"]
 kagi.com##._0_image_item[data-host_url*="ourpython.com"]
@@ -4274,6 +4314,7 @@ kagi.com##._0_image_item[data-host_url*="wikibrief.org"]
 kagi.com##._0_image_item[data-host_url*="wikidark.ru"]
 kagi.com##._0_image_item[data-host_url*="wikide.wiki"]
 kagi.com##._0_image_item[data-host_url*="wikidea.ru"]
+kagi.com##._0_image_item[data-host_url*="wikifix.dev"]
 kagi.com##._0_image_item[data-host_url*="wikipe.wiki"]
 kagi.com##._0_image_item[data-host_url*="wikipedia.tel"]
 kagi.com##._0_image_item[data-host_url*="wikipedia24.ru"]
@@ -4333,6 +4374,7 @@ kagi.com##._0_image_item[data-host_url*="xstack.ru"]
 kagi.com##._0_image_item[data-host_url*="xstack.us"]
 kagi.com##._0_image_item[data-host_url*="xszz.org"]
 kagi.com##._0_image_item[data-host_url*="yaoply.com"]
+kagi.com##._0_image_item[data-host_url*="yeahexp.com"]
 kagi.com##._0_image_item[data-host_url*="ylhow.com"]
 kagi.com##._0_image_item[data-host_url*="yocker.com"]
 kagi.com##._0_image_item[data-host_url*="younggeeks.in"]
@@ -4362,6 +4404,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="amuddycup.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="androidrepo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="andywarholpopartillustration.blogspot.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="angularquestions.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="ansaurus.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="answacode.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="answer-id.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="answeright.com"])
@@ -4536,6 +4579,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="flvrclothing.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fooobar.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="frameboxxindore.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="frwiki.wiki"])
+kagi.com##.search-result:has(a.__sri-url[href*="fullstack.cafe"])
 kagi.com##.search-result:has(a.__sri-url[href*="fullstackuser.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fuscin.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gateoverflow.in"])
@@ -4656,6 +4700,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="localcoder.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="lycaeum.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="macosrepo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="madanswer.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="mars.railpage.com.au"])
 kagi.com##.search-result:has(a.__sri-url[href*="mediatagtw.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="mediawiki.feverous.co.uk"])
 kagi.com##.search-result:has(a.__sri-url[href*="mejorcodigo.com"])
@@ -4677,6 +4722,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="ohandroid.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="oomake.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="openprojectrepo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="opensourcelibs.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="oraask.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ostack.cn"])
 kagi.com##.search-result:has(a.__sri-url[href*="ourladylakes.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="ourpython.com"])
@@ -4894,6 +4940,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="wikibrief.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="wikidark.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="wikide.wiki"])
 kagi.com##.search-result:has(a.__sri-url[href*="wikidea.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="wikifix.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="wikipe.wiki"])
 kagi.com##.search-result:has(a.__sri-url[href*="wikipedia.tel"])
 kagi.com##.search-result:has(a.__sri-url[href*="wikipedia24.ru"])
@@ -4953,6 +5000,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="xstack.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="xstack.us"])
 kagi.com##.search-result:has(a.__sri-url[href*="xszz.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="yaoply.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="yeahexp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ylhow.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="yocker.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="younggeeks.in"])
@@ -4982,6 +5030,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="amuddycup.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="androidrepo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="andywarholpopartillustration.blogspot.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="angularquestions.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="ansaurus.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="answacode.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="answer-id.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="answeright.com"])
@@ -5156,6 +5205,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="flvrclothing.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fooobar.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="frameboxxindore.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="frwiki.wiki"])
+kagi.com##.sri-group:has(a.__sri-url[href*="fullstack.cafe"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fullstackuser.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fuscin.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gateoverflow.in"])
@@ -5276,6 +5326,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="localcoder.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="lycaeum.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="macosrepo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="madanswer.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="mars.railpage.com.au"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mediatagtw.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mediawiki.feverous.co.uk"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mejorcodigo.com"])
@@ -5297,6 +5348,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="ohandroid.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="oomake.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="openprojectrepo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="opensourcelibs.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="oraask.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ostack.cn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ourladylakes.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ourpython.com"])
@@ -5514,6 +5566,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="wikibrief.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wikidark.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wikide.wiki"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wikidea.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="wikifix.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wikipe.wiki"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wikipedia.tel"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wikipedia24.ru"])
@@ -5573,6 +5626,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="xstack.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="xstack.us"])
 kagi.com##.sri-group:has(a.__sri-url[href*="xszz.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="yaoply.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="yeahexp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ylhow.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="yocker.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="younggeeks.in"])
@@ -5602,6 +5656,7 @@ searx.lan###main_results .result:has(a[href*="amuddycup.com"])
 searx.lan###main_results .result:has(a[href*="androidrepo.com"])
 searx.lan###main_results .result:has(a[href*="andywarholpopartillustration.blogspot.com"])
 searx.lan###main_results .result:has(a[href*="angularquestions.com"])
+searx.lan###main_results .result:has(a[href*="ansaurus.com"])
 searx.lan###main_results .result:has(a[href*="answacode.com"])
 searx.lan###main_results .result:has(a[href*="answer-id.com"])
 searx.lan###main_results .result:has(a[href*="answeright.com"])
@@ -5776,6 +5831,7 @@ searx.lan###main_results .result:has(a[href*="flvrclothing.com"])
 searx.lan###main_results .result:has(a[href*="fooobar.com"])
 searx.lan###main_results .result:has(a[href*="frameboxxindore.com"])
 searx.lan###main_results .result:has(a[href*="frwiki.wiki"])
+searx.lan###main_results .result:has(a[href*="fullstack.cafe"])
 searx.lan###main_results .result:has(a[href*="fullstackuser.com"])
 searx.lan###main_results .result:has(a[href*="fuscin.com"])
 searx.lan###main_results .result:has(a[href*="gateoverflow.in"])
@@ -5896,6 +5952,7 @@ searx.lan###main_results .result:has(a[href*="localcoder.org"])
 searx.lan###main_results .result:has(a[href*="lycaeum.dev"])
 searx.lan###main_results .result:has(a[href*="macosrepo.com"])
 searx.lan###main_results .result:has(a[href*="madanswer.com"])
+searx.lan###main_results .result:has(a[href*="mars.railpage.com.au"])
 searx.lan###main_results .result:has(a[href*="mediatagtw.com"])
 searx.lan###main_results .result:has(a[href*="mediawiki.feverous.co.uk"])
 searx.lan###main_results .result:has(a[href*="mejorcodigo.com"])
@@ -5917,6 +5974,7 @@ searx.lan###main_results .result:has(a[href*="ohandroid.com"])
 searx.lan###main_results .result:has(a[href*="oomake.com"])
 searx.lan###main_results .result:has(a[href*="openprojectrepo.com"])
 searx.lan###main_results .result:has(a[href*="opensourcelibs.com"])
+searx.lan###main_results .result:has(a[href*="oraask.com"])
 searx.lan###main_results .result:has(a[href*="ostack.cn"])
 searx.lan###main_results .result:has(a[href*="ourladylakes.org"])
 searx.lan###main_results .result:has(a[href*="ourpython.com"])
@@ -6134,6 +6192,7 @@ searx.lan###main_results .result:has(a[href*="wikibrief.org"])
 searx.lan###main_results .result:has(a[href*="wikidark.ru"])
 searx.lan###main_results .result:has(a[href*="wikide.wiki"])
 searx.lan###main_results .result:has(a[href*="wikidea.ru"])
+searx.lan###main_results .result:has(a[href*="wikifix.dev"])
 searx.lan###main_results .result:has(a[href*="wikipe.wiki"])
 searx.lan###main_results .result:has(a[href*="wikipedia.tel"])
 searx.lan###main_results .result:has(a[href*="wikipedia24.ru"])
@@ -6193,6 +6252,7 @@ searx.lan###main_results .result:has(a[href*="xstack.ru"])
 searx.lan###main_results .result:has(a[href*="xstack.us"])
 searx.lan###main_results .result:has(a[href*="xszz.org"])
 searx.lan###main_results .result:has(a[href*="yaoply.com"])
+searx.lan###main_results .result:has(a[href*="yeahexp.com"])
 searx.lan###main_results .result:has(a[href*="ylhow.com"])
 searx.lan###main_results .result:has(a[href*="yocker.com"])
 searx.lan###main_results .result:has(a[href*="younggeeks.in"])
@@ -6222,6 +6282,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(amuddy
 startpage.com##.image-container:has(div.image-quick-details span:has-text(androidrepo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(andywarholpopartillustration.blogspot.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(angularquestions.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(ansaurus.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(answacode.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(answer-id.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(answeright.com))
@@ -6396,6 +6457,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(flvrcl
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fooobar.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(frameboxxindore.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(frwiki.wiki))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(fullstack.cafe))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fullstackuser.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fuscin.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gateoverflow.in))
@@ -6516,6 +6578,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(localc
 startpage.com##.image-container:has(div.image-quick-details span:has-text(lycaeum.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(macosrepo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(madanswer.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(mars.railpage.com.au))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mediatagtw.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mediawiki.feverous.co.uk))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mejorcodigo.com))
@@ -6537,6 +6600,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(ohandr
 startpage.com##.image-container:has(div.image-quick-details span:has-text(oomake.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(openprojectrepo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(opensourcelibs.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(oraask.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ostack.cn))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ourladylakes.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ourpython.com))
@@ -6754,6 +6818,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(wikibr
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wikidark.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wikide.wiki))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wikidea.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(wikifix.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wikipe.wiki))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wikipedia.tel))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wikipedia24.ru))
@@ -6813,6 +6878,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(xstack
 startpage.com##.image-container:has(div.image-quick-details span:has-text(xstack.us))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(xszz.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(yaoply.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(yeahexp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ylhow.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(yocker.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(younggeeks.in))
@@ -6842,6 +6908,7 @@ startpage.com##.w-gl__result:has(a[href*="amuddycup.com"])
 startpage.com##.w-gl__result:has(a[href*="androidrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="andywarholpopartillustration.blogspot.com"])
 startpage.com##.w-gl__result:has(a[href*="angularquestions.com"])
+startpage.com##.w-gl__result:has(a[href*="ansaurus.com"])
 startpage.com##.w-gl__result:has(a[href*="answacode.com"])
 startpage.com##.w-gl__result:has(a[href*="answer-id.com"])
 startpage.com##.w-gl__result:has(a[href*="answeright.com"])
@@ -7016,6 +7083,7 @@ startpage.com##.w-gl__result:has(a[href*="flvrclothing.com"])
 startpage.com##.w-gl__result:has(a[href*="fooobar.com"])
 startpage.com##.w-gl__result:has(a[href*="frameboxxindore.com"])
 startpage.com##.w-gl__result:has(a[href*="frwiki.wiki"])
+startpage.com##.w-gl__result:has(a[href*="fullstack.cafe"])
 startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
 startpage.com##.w-gl__result:has(a[href*="fuscin.com"])
 startpage.com##.w-gl__result:has(a[href*="gateoverflow.in"])
@@ -7136,6 +7204,7 @@ startpage.com##.w-gl__result:has(a[href*="localcoder.org"])
 startpage.com##.w-gl__result:has(a[href*="lycaeum.dev"])
 startpage.com##.w-gl__result:has(a[href*="macosrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="madanswer.com"])
+startpage.com##.w-gl__result:has(a[href*="mars.railpage.com.au"])
 startpage.com##.w-gl__result:has(a[href*="mediatagtw.com"])
 startpage.com##.w-gl__result:has(a[href*="mediawiki.feverous.co.uk"])
 startpage.com##.w-gl__result:has(a[href*="mejorcodigo.com"])
@@ -7157,6 +7226,7 @@ startpage.com##.w-gl__result:has(a[href*="ohandroid.com"])
 startpage.com##.w-gl__result:has(a[href*="oomake.com"])
 startpage.com##.w-gl__result:has(a[href*="openprojectrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="opensourcelibs.com"])
+startpage.com##.w-gl__result:has(a[href*="oraask.com"])
 startpage.com##.w-gl__result:has(a[href*="ostack.cn"])
 startpage.com##.w-gl__result:has(a[href*="ourladylakes.org"])
 startpage.com##.w-gl__result:has(a[href*="ourpython.com"])
@@ -7374,6 +7444,7 @@ startpage.com##.w-gl__result:has(a[href*="wikibrief.org"])
 startpage.com##.w-gl__result:has(a[href*="wikidark.ru"])
 startpage.com##.w-gl__result:has(a[href*="wikide.wiki"])
 startpage.com##.w-gl__result:has(a[href*="wikidea.ru"])
+startpage.com##.w-gl__result:has(a[href*="wikifix.dev"])
 startpage.com##.w-gl__result:has(a[href*="wikipe.wiki"])
 startpage.com##.w-gl__result:has(a[href*="wikipedia.tel"])
 startpage.com##.w-gl__result:has(a[href*="wikipedia24.ru"])
@@ -7433,6 +7504,7 @@ startpage.com##.w-gl__result:has(a[href*="xstack.ru"])
 startpage.com##.w-gl__result:has(a[href*="xstack.us"])
 startpage.com##.w-gl__result:has(a[href*="xszz.org"])
 startpage.com##.w-gl__result:has(a[href*="yaoply.com"])
+startpage.com##.w-gl__result:has(a[href*="yeahexp.com"])
 startpage.com##.w-gl__result:has(a[href*="ylhow.com"])
 startpage.com##.w-gl__result:has(a[href*="yocker.com"])
 startpage.com##.w-gl__result:has(a[href*="younggeeks.in"])
