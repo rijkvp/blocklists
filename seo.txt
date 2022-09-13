@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-12 04:18:16 UTC
+! Generated: 2022-09-13 04:12:16 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -59,6 +59,7 @@
 ||bestofphp.com$all
 ||bestofreactjs.com$all
 ||bestofvue.com$all
+||bestrustcrates.com$all
 ||bildiredi.com$all
 ||bilee.com$all
 ||binarydevelop.com$all
@@ -115,6 +116,7 @@
 ||coderquestion.ru$all
 ||codersatellite.com$all
 ||codespots.com$all
+||codesti.com$all
 ||codestyle.tistory.com$all
 ||codetd.com$all
 ||codeutility.org$all
@@ -127,6 +129,7 @@
 ||coredump.biz$all
 ||csdn.net$all
 ||culinarydegree.info$all
+||curatedgo.com$all
 ||cyberciti.biz$all
 ||dailydevsblog.com$all
 ||daplus.net$all
@@ -221,6 +224,7 @@
 ||getridbug.com$all
 ||ghcc.net$all
 ||gitanswer.com$all
+||gitanswer.net$all
 ||gitcode.net$all
 ||gitdetail.com$all
 ||giters.com$all
@@ -321,6 +325,7 @@
 ||jscodetips.com$all
 ||jsrepos.com$all
 ||justshowmethecode.com$all
+||kandi.openweaver.com$all
 ||kausalvikash.in$all
 ||knews.vip$all
 ||kompsekret.ru$all
@@ -730,6 +735,7 @@ bing.com###b_content a[href*="bestofjava.com"]:upward(li)
 bing.com###b_content a[href*="bestofphp.com"]:upward(li)
 bing.com###b_content a[href*="bestofreactjs.com"]:upward(li)
 bing.com###b_content a[href*="bestofvue.com"]:upward(li)
+bing.com###b_content a[href*="bestrustcrates.com"]:upward(li)
 bing.com###b_content a[href*="bildiredi.com"]:upward(li)
 bing.com###b_content a[href*="bilee.com"]:upward(li)
 bing.com###b_content a[href*="binarydevelop.com"]:upward(li)
@@ -786,6 +792,7 @@ bing.com###b_content a[href*="coderoad.ru"]:upward(li)
 bing.com###b_content a[href*="coderquestion.ru"]:upward(li)
 bing.com###b_content a[href*="codersatellite.com"]:upward(li)
 bing.com###b_content a[href*="codespots.com"]:upward(li)
+bing.com###b_content a[href*="codesti.com"]:upward(li)
 bing.com###b_content a[href*="codestyle.tistory.com"]:upward(li)
 bing.com###b_content a[href*="codetd.com"]:upward(li)
 bing.com###b_content a[href*="codeutility.org"]:upward(li)
@@ -798,6 +805,7 @@ bing.com###b_content a[href*="copyprogramming.com"]:upward(li)
 bing.com###b_content a[href*="coredump.biz"]:upward(li)
 bing.com###b_content a[href*="csdn.net"]:upward(li)
 bing.com###b_content a[href*="culinarydegree.info"]:upward(li)
+bing.com###b_content a[href*="curatedgo.com"]:upward(li)
 bing.com###b_content a[href*="cyberciti.biz"]:upward(li)
 bing.com###b_content a[href*="dailydevsblog.com"]:upward(li)
 bing.com###b_content a[href*="daplus.net"]:upward(li)
@@ -892,6 +900,7 @@ bing.com###b_content a[href*="generacodice.it"]:upward(li)
 bing.com###b_content a[href*="getridbug.com"]:upward(li)
 bing.com###b_content a[href*="ghcc.net"]:upward(li)
 bing.com###b_content a[href*="gitanswer.com"]:upward(li)
+bing.com###b_content a[href*="gitanswer.net"]:upward(li)
 bing.com###b_content a[href*="gitcode.net"]:upward(li)
 bing.com###b_content a[href*="gitdetail.com"]:upward(li)
 bing.com###b_content a[href*="giters.com"]:upward(li)
@@ -992,6 +1001,7 @@ bing.com###b_content a[href*="jpndev.com"]:upward(li)
 bing.com###b_content a[href*="jscodetips.com"]:upward(li)
 bing.com###b_content a[href*="jsrepos.com"]:upward(li)
 bing.com###b_content a[href*="justshowmethecode.com"]:upward(li)
+bing.com###b_content a[href*="kandi.openweaver.com"]:upward(li)
 bing.com###b_content a[href*="kausalvikash.in"]:upward(li)
 bing.com###b_content a[href*="knews.vip"]:upward(li)
 bing.com###b_content a[href*="kompsekret.ru"]:upward(li)
@@ -1401,6 +1411,7 @@ duckduckgo.com##.tile-wrap a[href*="bestofjava.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="bestofphp.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="bestofreactjs.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="bestofvue.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="bestrustcrates.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="bildiredi.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="bilee.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="binarydevelop.com"]:upward(.tile)
@@ -1457,6 +1468,7 @@ duckduckgo.com##.tile-wrap a[href*="coderoad.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coderquestion.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codersatellite.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codespots.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="codesti.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codestyle.tistory.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codetd.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codeutility.org"]:upward(.tile)
@@ -1469,6 +1481,7 @@ duckduckgo.com##.tile-wrap a[href*="copyprogramming.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coredump.biz"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="csdn.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="culinarydegree.info"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="curatedgo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="cyberciti.biz"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="dailydevsblog.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="daplus.net"]:upward(.tile)
@@ -1563,6 +1576,7 @@ duckduckgo.com##.tile-wrap a[href*="generacodice.it"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="getridbug.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ghcc.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gitanswer.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="gitanswer.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gitcode.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gitdetail.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="giters.com"]:upward(.tile)
@@ -1663,6 +1677,7 @@ duckduckgo.com##.tile-wrap a[href*="jpndev.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="jscodetips.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="jsrepos.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="justshowmethecode.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="kandi.openweaver.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="kausalvikash.in"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="knews.vip"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="kompsekret.ru"]:upward(.tile)
@@ -2072,6 +2087,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="bestofjava.com"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="bestofphp.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="bestofreactjs.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="bestofvue.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="bestrustcrates.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="bildiredi.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="bilee.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="binarydevelop.com"]:upward(.nrn-react-div)
@@ -2128,6 +2144,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="coderoad.ru"]:upward(.nrn
 duckduckgo.com##a[data-testid="result-title-a"][href*="coderquestion.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codersatellite.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codespots.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="codesti.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codestyle.tistory.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codetd.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codeutility.org"]:upward(.nrn-react-div)
@@ -2140,6 +2157,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="copyprogramming.com"]:upw
 duckduckgo.com##a[data-testid="result-title-a"][href*="coredump.biz"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="csdn.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="culinarydegree.info"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="curatedgo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="cyberciti.biz"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="dailydevsblog.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="daplus.net"]:upward(.nrn-react-div)
@@ -2234,6 +2252,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="generacodice.it"]:upward(
 duckduckgo.com##a[data-testid="result-title-a"][href*="getridbug.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ghcc.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gitanswer.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="gitanswer.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gitcode.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gitdetail.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="giters.com"]:upward(.nrn-react-div)
@@ -2334,6 +2353,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="jpndev.com"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="jscodetips.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="jsrepos.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="justshowmethecode.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="kandi.openweaver.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="kausalvikash.in"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="knews.vip"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="kompsekret.ru"]:upward(.nrn-react-div)
@@ -2743,6 +2763,7 @@ google.*##.g:has(a[href*="bestofjava.com"])
 google.*##.g:has(a[href*="bestofphp.com"])
 google.*##.g:has(a[href*="bestofreactjs.com"])
 google.*##.g:has(a[href*="bestofvue.com"])
+google.*##.g:has(a[href*="bestrustcrates.com"])
 google.*##.g:has(a[href*="bildiredi.com"])
 google.*##.g:has(a[href*="bilee.com"])
 google.*##.g:has(a[href*="binarydevelop.com"])
@@ -2799,6 +2820,7 @@ google.*##.g:has(a[href*="coderoad.ru"])
 google.*##.g:has(a[href*="coderquestion.ru"])
 google.*##.g:has(a[href*="codersatellite.com"])
 google.*##.g:has(a[href*="codespots.com"])
+google.*##.g:has(a[href*="codesti.com"])
 google.*##.g:has(a[href*="codestyle.tistory.com"])
 google.*##.g:has(a[href*="codetd.com"])
 google.*##.g:has(a[href*="codeutility.org"])
@@ -2811,6 +2833,7 @@ google.*##.g:has(a[href*="copyprogramming.com"])
 google.*##.g:has(a[href*="coredump.biz"])
 google.*##.g:has(a[href*="csdn.net"])
 google.*##.g:has(a[href*="culinarydegree.info"])
+google.*##.g:has(a[href*="curatedgo.com"])
 google.*##.g:has(a[href*="cyberciti.biz"])
 google.*##.g:has(a[href*="dailydevsblog.com"])
 google.*##.g:has(a[href*="daplus.net"])
@@ -2905,6 +2928,7 @@ google.*##.g:has(a[href*="generacodice.it"])
 google.*##.g:has(a[href*="getridbug.com"])
 google.*##.g:has(a[href*="ghcc.net"])
 google.*##.g:has(a[href*="gitanswer.com"])
+google.*##.g:has(a[href*="gitanswer.net"])
 google.*##.g:has(a[href*="gitcode.net"])
 google.*##.g:has(a[href*="gitdetail.com"])
 google.*##.g:has(a[href*="giters.com"])
@@ -3005,6 +3029,7 @@ google.*##.g:has(a[href*="jpndev.com"])
 google.*##.g:has(a[href*="jscodetips.com"])
 google.*##.g:has(a[href*="jsrepos.com"])
 google.*##.g:has(a[href*="justshowmethecode.com"])
+google.*##.g:has(a[href*="kandi.openweaver.com"])
 google.*##.g:has(a[href*="kausalvikash.in"])
 google.*##.g:has(a[href*="knews.vip"])
 google.*##.g:has(a[href*="kompsekret.ru"])
@@ -3414,6 +3439,7 @@ google.*##a[href*="bestofjava.com"]:upward(1)
 google.*##a[href*="bestofphp.com"]:upward(1)
 google.*##a[href*="bestofreactjs.com"]:upward(1)
 google.*##a[href*="bestofvue.com"]:upward(1)
+google.*##a[href*="bestrustcrates.com"]:upward(1)
 google.*##a[href*="bildiredi.com"]:upward(1)
 google.*##a[href*="bilee.com"]:upward(1)
 google.*##a[href*="binarydevelop.com"]:upward(1)
@@ -3470,6 +3496,7 @@ google.*##a[href*="coderoad.ru"]:upward(1)
 google.*##a[href*="coderquestion.ru"]:upward(1)
 google.*##a[href*="codersatellite.com"]:upward(1)
 google.*##a[href*="codespots.com"]:upward(1)
+google.*##a[href*="codesti.com"]:upward(1)
 google.*##a[href*="codestyle.tistory.com"]:upward(1)
 google.*##a[href*="codetd.com"]:upward(1)
 google.*##a[href*="codeutility.org"]:upward(1)
@@ -3482,6 +3509,7 @@ google.*##a[href*="copyprogramming.com"]:upward(1)
 google.*##a[href*="coredump.biz"]:upward(1)
 google.*##a[href*="csdn.net"]:upward(1)
 google.*##a[href*="culinarydegree.info"]:upward(1)
+google.*##a[href*="curatedgo.com"]:upward(1)
 google.*##a[href*="cyberciti.biz"]:upward(1)
 google.*##a[href*="dailydevsblog.com"]:upward(1)
 google.*##a[href*="daplus.net"]:upward(1)
@@ -3576,6 +3604,7 @@ google.*##a[href*="generacodice.it"]:upward(1)
 google.*##a[href*="getridbug.com"]:upward(1)
 google.*##a[href*="ghcc.net"]:upward(1)
 google.*##a[href*="gitanswer.com"]:upward(1)
+google.*##a[href*="gitanswer.net"]:upward(1)
 google.*##a[href*="gitcode.net"]:upward(1)
 google.*##a[href*="gitdetail.com"]:upward(1)
 google.*##a[href*="giters.com"]:upward(1)
@@ -3676,6 +3705,7 @@ google.*##a[href*="jpndev.com"]:upward(1)
 google.*##a[href*="jscodetips.com"]:upward(1)
 google.*##a[href*="jsrepos.com"]:upward(1)
 google.*##a[href*="justshowmethecode.com"]:upward(1)
+google.*##a[href*="kandi.openweaver.com"]:upward(1)
 google.*##a[href*="kausalvikash.in"]:upward(1)
 google.*##a[href*="knews.vip"]:upward(1)
 google.*##a[href*="kompsekret.ru"]:upward(1)
@@ -4085,6 +4115,7 @@ kagi.com##._0_image_item[data-host_url*="bestofjava.com"]
 kagi.com##._0_image_item[data-host_url*="bestofphp.com"]
 kagi.com##._0_image_item[data-host_url*="bestofreactjs.com"]
 kagi.com##._0_image_item[data-host_url*="bestofvue.com"]
+kagi.com##._0_image_item[data-host_url*="bestrustcrates.com"]
 kagi.com##._0_image_item[data-host_url*="bildiredi.com"]
 kagi.com##._0_image_item[data-host_url*="bilee.com"]
 kagi.com##._0_image_item[data-host_url*="binarydevelop.com"]
@@ -4141,6 +4172,7 @@ kagi.com##._0_image_item[data-host_url*="coderoad.ru"]
 kagi.com##._0_image_item[data-host_url*="coderquestion.ru"]
 kagi.com##._0_image_item[data-host_url*="codersatellite.com"]
 kagi.com##._0_image_item[data-host_url*="codespots.com"]
+kagi.com##._0_image_item[data-host_url*="codesti.com"]
 kagi.com##._0_image_item[data-host_url*="codestyle.tistory.com"]
 kagi.com##._0_image_item[data-host_url*="codetd.com"]
 kagi.com##._0_image_item[data-host_url*="codeutility.org"]
@@ -4153,6 +4185,7 @@ kagi.com##._0_image_item[data-host_url*="copyprogramming.com"]
 kagi.com##._0_image_item[data-host_url*="coredump.biz"]
 kagi.com##._0_image_item[data-host_url*="csdn.net"]
 kagi.com##._0_image_item[data-host_url*="culinarydegree.info"]
+kagi.com##._0_image_item[data-host_url*="curatedgo.com"]
 kagi.com##._0_image_item[data-host_url*="cyberciti.biz"]
 kagi.com##._0_image_item[data-host_url*="dailydevsblog.com"]
 kagi.com##._0_image_item[data-host_url*="daplus.net"]
@@ -4247,6 +4280,7 @@ kagi.com##._0_image_item[data-host_url*="generacodice.it"]
 kagi.com##._0_image_item[data-host_url*="getridbug.com"]
 kagi.com##._0_image_item[data-host_url*="ghcc.net"]
 kagi.com##._0_image_item[data-host_url*="gitanswer.com"]
+kagi.com##._0_image_item[data-host_url*="gitanswer.net"]
 kagi.com##._0_image_item[data-host_url*="gitcode.net"]
 kagi.com##._0_image_item[data-host_url*="gitdetail.com"]
 kagi.com##._0_image_item[data-host_url*="giters.com"]
@@ -4347,6 +4381,7 @@ kagi.com##._0_image_item[data-host_url*="jpndev.com"]
 kagi.com##._0_image_item[data-host_url*="jscodetips.com"]
 kagi.com##._0_image_item[data-host_url*="jsrepos.com"]
 kagi.com##._0_image_item[data-host_url*="justshowmethecode.com"]
+kagi.com##._0_image_item[data-host_url*="kandi.openweaver.com"]
 kagi.com##._0_image_item[data-host_url*="kausalvikash.in"]
 kagi.com##._0_image_item[data-host_url*="knews.vip"]
 kagi.com##._0_image_item[data-host_url*="kompsekret.ru"]
@@ -4756,6 +4791,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="bestofjava.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bestofphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bestofreactjs.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bestofvue.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="bestrustcrates.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bildiredi.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bilee.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="binarydevelop.com"])
@@ -4812,6 +4848,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="coderoad.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="coderquestion.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="codersatellite.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codespots.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="codesti.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codestyle.tistory.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codetd.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codeutility.org"])
@@ -4824,6 +4861,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="copyprogramming.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coredump.biz"])
 kagi.com##.search-result:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="culinarydegree.info"])
+kagi.com##.search-result:has(a.__sri-url[href*="curatedgo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="cyberciti.biz"])
 kagi.com##.search-result:has(a.__sri-url[href*="dailydevsblog.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="daplus.net"])
@@ -4918,6 +4956,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="generacodice.it"])
 kagi.com##.search-result:has(a.__sri-url[href*="getridbug.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ghcc.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitanswer.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="gitanswer.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitcode.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitdetail.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="giters.com"])
@@ -5018,6 +5057,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="jpndev.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="jscodetips.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="jsrepos.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="justshowmethecode.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="kandi.openweaver.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="kausalvikash.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="knews.vip"])
 kagi.com##.search-result:has(a.__sri-url[href*="kompsekret.ru"])
@@ -5427,6 +5467,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="bestofjava.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bestofphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bestofreactjs.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bestofvue.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="bestrustcrates.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bildiredi.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bilee.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="binarydevelop.com"])
@@ -5483,6 +5524,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="coderoad.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coderquestion.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codersatellite.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codespots.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="codesti.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codestyle.tistory.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codetd.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codeutility.org"])
@@ -5495,6 +5537,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="copyprogramming.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coredump.biz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="culinarydegree.info"])
+kagi.com##.sri-group:has(a.__sri-url[href*="curatedgo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="cyberciti.biz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="dailydevsblog.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="daplus.net"])
@@ -5589,6 +5632,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="generacodice.it"])
 kagi.com##.sri-group:has(a.__sri-url[href*="getridbug.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ghcc.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitanswer.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="gitanswer.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitcode.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitdetail.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="giters.com"])
@@ -5689,6 +5733,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="jpndev.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="jscodetips.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="jsrepos.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="justshowmethecode.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="kandi.openweaver.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kausalvikash.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="knews.vip"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kompsekret.ru"])
@@ -6098,6 +6143,7 @@ searx.lan###main_results .result:has(a[href*="bestofjava.com"])
 searx.lan###main_results .result:has(a[href*="bestofphp.com"])
 searx.lan###main_results .result:has(a[href*="bestofreactjs.com"])
 searx.lan###main_results .result:has(a[href*="bestofvue.com"])
+searx.lan###main_results .result:has(a[href*="bestrustcrates.com"])
 searx.lan###main_results .result:has(a[href*="bildiredi.com"])
 searx.lan###main_results .result:has(a[href*="bilee.com"])
 searx.lan###main_results .result:has(a[href*="binarydevelop.com"])
@@ -6154,6 +6200,7 @@ searx.lan###main_results .result:has(a[href*="coderoad.ru"])
 searx.lan###main_results .result:has(a[href*="coderquestion.ru"])
 searx.lan###main_results .result:has(a[href*="codersatellite.com"])
 searx.lan###main_results .result:has(a[href*="codespots.com"])
+searx.lan###main_results .result:has(a[href*="codesti.com"])
 searx.lan###main_results .result:has(a[href*="codestyle.tistory.com"])
 searx.lan###main_results .result:has(a[href*="codetd.com"])
 searx.lan###main_results .result:has(a[href*="codeutility.org"])
@@ -6166,6 +6213,7 @@ searx.lan###main_results .result:has(a[href*="copyprogramming.com"])
 searx.lan###main_results .result:has(a[href*="coredump.biz"])
 searx.lan###main_results .result:has(a[href*="csdn.net"])
 searx.lan###main_results .result:has(a[href*="culinarydegree.info"])
+searx.lan###main_results .result:has(a[href*="curatedgo.com"])
 searx.lan###main_results .result:has(a[href*="cyberciti.biz"])
 searx.lan###main_results .result:has(a[href*="dailydevsblog.com"])
 searx.lan###main_results .result:has(a[href*="daplus.net"])
@@ -6260,6 +6308,7 @@ searx.lan###main_results .result:has(a[href*="generacodice.it"])
 searx.lan###main_results .result:has(a[href*="getridbug.com"])
 searx.lan###main_results .result:has(a[href*="ghcc.net"])
 searx.lan###main_results .result:has(a[href*="gitanswer.com"])
+searx.lan###main_results .result:has(a[href*="gitanswer.net"])
 searx.lan###main_results .result:has(a[href*="gitcode.net"])
 searx.lan###main_results .result:has(a[href*="gitdetail.com"])
 searx.lan###main_results .result:has(a[href*="giters.com"])
@@ -6360,6 +6409,7 @@ searx.lan###main_results .result:has(a[href*="jpndev.com"])
 searx.lan###main_results .result:has(a[href*="jscodetips.com"])
 searx.lan###main_results .result:has(a[href*="jsrepos.com"])
 searx.lan###main_results .result:has(a[href*="justshowmethecode.com"])
+searx.lan###main_results .result:has(a[href*="kandi.openweaver.com"])
 searx.lan###main_results .result:has(a[href*="kausalvikash.in"])
 searx.lan###main_results .result:has(a[href*="knews.vip"])
 searx.lan###main_results .result:has(a[href*="kompsekret.ru"])
@@ -6769,6 +6819,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(bestof
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bestofphp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bestofreactjs.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bestofvue.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(bestrustcrates.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bildiredi.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bilee.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(binarydevelop.com))
@@ -6825,6 +6876,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(codero
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coderquestion.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codersatellite.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codespots.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(codesti.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codestyle.tistory.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codetd.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codeutility.org))
@@ -6837,6 +6889,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(copypr
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coredump.biz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(csdn.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(culinarydegree.info))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(curatedgo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(cyberciti.biz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(dailydevsblog.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(daplus.net))
@@ -6931,6 +6984,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(genera
 startpage.com##.image-container:has(div.image-quick-details span:has-text(getridbug.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ghcc.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitanswer.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(gitanswer.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitcode.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitdetail.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(giters.com))
@@ -7031,6 +7085,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(jpndev
 startpage.com##.image-container:has(div.image-quick-details span:has-text(jscodetips.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(jsrepos.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(justshowmethecode.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(kandi.openweaver.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kausalvikash.in))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(knews.vip))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kompsekret.ru))
@@ -7440,6 +7495,7 @@ startpage.com##.w-gl__result:has(a[href*="bestofjava.com"])
 startpage.com##.w-gl__result:has(a[href*="bestofphp.com"])
 startpage.com##.w-gl__result:has(a[href*="bestofreactjs.com"])
 startpage.com##.w-gl__result:has(a[href*="bestofvue.com"])
+startpage.com##.w-gl__result:has(a[href*="bestrustcrates.com"])
 startpage.com##.w-gl__result:has(a[href*="bildiredi.com"])
 startpage.com##.w-gl__result:has(a[href*="bilee.com"])
 startpage.com##.w-gl__result:has(a[href*="binarydevelop.com"])
@@ -7496,6 +7552,7 @@ startpage.com##.w-gl__result:has(a[href*="coderoad.ru"])
 startpage.com##.w-gl__result:has(a[href*="coderquestion.ru"])
 startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
 startpage.com##.w-gl__result:has(a[href*="codespots.com"])
+startpage.com##.w-gl__result:has(a[href*="codesti.com"])
 startpage.com##.w-gl__result:has(a[href*="codestyle.tistory.com"])
 startpage.com##.w-gl__result:has(a[href*="codetd.com"])
 startpage.com##.w-gl__result:has(a[href*="codeutility.org"])
@@ -7508,6 +7565,7 @@ startpage.com##.w-gl__result:has(a[href*="copyprogramming.com"])
 startpage.com##.w-gl__result:has(a[href*="coredump.biz"])
 startpage.com##.w-gl__result:has(a[href*="csdn.net"])
 startpage.com##.w-gl__result:has(a[href*="culinarydegree.info"])
+startpage.com##.w-gl__result:has(a[href*="curatedgo.com"])
 startpage.com##.w-gl__result:has(a[href*="cyberciti.biz"])
 startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
 startpage.com##.w-gl__result:has(a[href*="daplus.net"])
@@ -7602,6 +7660,7 @@ startpage.com##.w-gl__result:has(a[href*="generacodice.it"])
 startpage.com##.w-gl__result:has(a[href*="getridbug.com"])
 startpage.com##.w-gl__result:has(a[href*="ghcc.net"])
 startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
+startpage.com##.w-gl__result:has(a[href*="gitanswer.net"])
 startpage.com##.w-gl__result:has(a[href*="gitcode.net"])
 startpage.com##.w-gl__result:has(a[href*="gitdetail.com"])
 startpage.com##.w-gl__result:has(a[href*="giters.com"])
@@ -7702,6 +7761,7 @@ startpage.com##.w-gl__result:has(a[href*="jpndev.com"])
 startpage.com##.w-gl__result:has(a[href*="jscodetips.com"])
 startpage.com##.w-gl__result:has(a[href*="jsrepos.com"])
 startpage.com##.w-gl__result:has(a[href*="justshowmethecode.com"])
+startpage.com##.w-gl__result:has(a[href*="kandi.openweaver.com"])
 startpage.com##.w-gl__result:has(a[href*="kausalvikash.in"])
 startpage.com##.w-gl__result:has(a[href*="knews.vip"])
 startpage.com##.w-gl__result:has(a[href*="kompsekret.ru"])
