@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-19 04:18:48 UTC
+! Generated: 2022-09-20 04:08:37 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -186,6 +186,7 @@
 ||edureka.co$all
 ||elfishgene.com$all
 ||empires-r.us$all
+||encodingcompiler.com$all
 ||encyclopaedia.bid$all
 ||encyclopedia.kz$all
 ||encyclopedia.thefreedictionary.com$all
@@ -247,6 +248,7 @@
 ||githubmate.com$all
 ||githubmemory.com$all
 ||githubplus.com$all
+||gitmemories.com$all
 ||gitmemory.cn$all
 ||gitmemory.com$all
 ||gitmetadata.com$all
@@ -261,6 +263,7 @@
 ||grokbase.com$all
 ||gupgallery.com$all
 ||gushiciku.cn$all
+||heavenlymutex.com$all
 ||hellojava.com$all
 ||helpex.vn$all
 ||higithub.com$all
@@ -476,6 +479,7 @@
 ||reddit.fun$all
 ||reposhub.com$all
 ||respuestas.me$all
+||resultfor.dev$all
 ||ringingliberty.com$all
 ||roboflow.ai$all
 ||rotadev.com$all
@@ -882,6 +886,7 @@ bing.com###b_content a[href*="edupro.id"]:upward(li)
 bing.com###b_content a[href*="edureka.co"]:upward(li)
 bing.com###b_content a[href*="elfishgene.com"]:upward(li)
 bing.com###b_content a[href*="empires-r.us"]:upward(li)
+bing.com###b_content a[href*="encodingcompiler.com"]:upward(li)
 bing.com###b_content a[href*="encyclopaedia.bid"]:upward(li)
 bing.com###b_content a[href*="encyclopedia.kz"]:upward(li)
 bing.com###b_content a[href*="encyclopedia.thefreedictionary.com"]:upward(li)
@@ -943,6 +948,7 @@ bing.com###b_content a[href*="githublab.com"]:upward(li)
 bing.com###b_content a[href*="githubmate.com"]:upward(li)
 bing.com###b_content a[href*="githubmemory.com"]:upward(li)
 bing.com###b_content a[href*="githubplus.com"]:upward(li)
+bing.com###b_content a[href*="gitmemories.com"]:upward(li)
 bing.com###b_content a[href*="gitmemory.cn"]:upward(li)
 bing.com###b_content a[href*="gitmemory.com"]:upward(li)
 bing.com###b_content a[href*="gitmetadata.com"]:upward(li)
@@ -957,6 +963,7 @@ bing.com###b_content a[href*="graef.io"]:upward(li)
 bing.com###b_content a[href*="grokbase.com"]:upward(li)
 bing.com###b_content a[href*="gupgallery.com"]:upward(li)
 bing.com###b_content a[href*="gushiciku.cn"]:upward(li)
+bing.com###b_content a[href*="heavenlymutex.com"]:upward(li)
 bing.com###b_content a[href*="hellojava.com"]:upward(li)
 bing.com###b_content a[href*="helpex.vn"]:upward(li)
 bing.com###b_content a[href*="higithub.com"]:upward(li)
@@ -1172,6 +1179,7 @@ bing.com###b_content a[href*="recalll.co"]:upward(li)
 bing.com###b_content a[href*="reddit.fun"]:upward(li)
 bing.com###b_content a[href*="reposhub.com"]:upward(li)
 bing.com###b_content a[href*="respuestas.me"]:upward(li)
+bing.com###b_content a[href*="resultfor.dev"]:upward(li)
 bing.com###b_content a[href*="ringingliberty.com"]:upward(li)
 bing.com###b_content a[href*="roboflow.ai"]:upward(li)
 bing.com###b_content a[href*="rotadev.com"]:upward(li)
@@ -1578,6 +1586,7 @@ duckduckgo.com##.tile-wrap a[href*="edupro.id"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="edureka.co"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="elfishgene.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="empires-r.us"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="encodingcompiler.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="encyclopaedia.bid"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="encyclopedia.kz"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="encyclopedia.thefreedictionary.com"]:upward(.tile)
@@ -1639,6 +1648,7 @@ duckduckgo.com##.tile-wrap a[href*="githublab.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="githubmate.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="githubmemory.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="githubplus.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="gitmemories.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gitmemory.cn"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gitmemory.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gitmetadata.com"]:upward(.tile)
@@ -1653,6 +1663,7 @@ duckduckgo.com##.tile-wrap a[href*="graef.io"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="grokbase.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gupgallery.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="gushiciku.cn"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="heavenlymutex.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="hellojava.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="helpex.vn"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="higithub.com"]:upward(.tile)
@@ -1868,6 +1879,7 @@ duckduckgo.com##.tile-wrap a[href*="recalll.co"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="reddit.fun"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="reposhub.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="respuestas.me"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="resultfor.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ringingliberty.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="roboflow.ai"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="rotadev.com"]:upward(.tile)
@@ -2274,6 +2286,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="edupro.id"]:upward(.nrn-r
 duckduckgo.com##a[data-testid="result-title-a"][href*="edureka.co"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="elfishgene.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="empires-r.us"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="encodingcompiler.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="encyclopaedia.bid"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="encyclopedia.kz"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="encyclopedia.thefreedictionary.com"]:upward(.nrn-react-div)
@@ -2335,6 +2348,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="githublab.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="githubmate.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="githubmemory.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="githubplus.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="gitmemories.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gitmemory.cn"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gitmemory.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gitmetadata.com"]:upward(.nrn-react-div)
@@ -2349,6 +2363,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="graef.io"]:upward(.nrn-re
 duckduckgo.com##a[data-testid="result-title-a"][href*="grokbase.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gupgallery.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="gushiciku.cn"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="heavenlymutex.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="hellojava.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="helpex.vn"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="higithub.com"]:upward(.nrn-react-div)
@@ -2564,6 +2579,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="recalll.co"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="reddit.fun"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="reposhub.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="respuestas.me"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="resultfor.dev"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ringingliberty.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="roboflow.ai"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="rotadev.com"]:upward(.nrn-react-div)
@@ -2970,6 +2986,7 @@ google.*##.g:has(a[href*="edupro.id"])
 google.*##.g:has(a[href*="edureka.co"])
 google.*##.g:has(a[href*="elfishgene.com"])
 google.*##.g:has(a[href*="empires-r.us"])
+google.*##.g:has(a[href*="encodingcompiler.com"])
 google.*##.g:has(a[href*="encyclopaedia.bid"])
 google.*##.g:has(a[href*="encyclopedia.kz"])
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
@@ -3031,6 +3048,7 @@ google.*##.g:has(a[href*="githublab.com"])
 google.*##.g:has(a[href*="githubmate.com"])
 google.*##.g:has(a[href*="githubmemory.com"])
 google.*##.g:has(a[href*="githubplus.com"])
+google.*##.g:has(a[href*="gitmemories.com"])
 google.*##.g:has(a[href*="gitmemory.cn"])
 google.*##.g:has(a[href*="gitmemory.com"])
 google.*##.g:has(a[href*="gitmetadata.com"])
@@ -3045,6 +3063,7 @@ google.*##.g:has(a[href*="graef.io"])
 google.*##.g:has(a[href*="grokbase.com"])
 google.*##.g:has(a[href*="gupgallery.com"])
 google.*##.g:has(a[href*="gushiciku.cn"])
+google.*##.g:has(a[href*="heavenlymutex.com"])
 google.*##.g:has(a[href*="hellojava.com"])
 google.*##.g:has(a[href*="helpex.vn"])
 google.*##.g:has(a[href*="higithub.com"])
@@ -3260,6 +3279,7 @@ google.*##.g:has(a[href*="recalll.co"])
 google.*##.g:has(a[href*="reddit.fun"])
 google.*##.g:has(a[href*="reposhub.com"])
 google.*##.g:has(a[href*="respuestas.me"])
+google.*##.g:has(a[href*="resultfor.dev"])
 google.*##.g:has(a[href*="ringingliberty.com"])
 google.*##.g:has(a[href*="roboflow.ai"])
 google.*##.g:has(a[href*="rotadev.com"])
@@ -3666,6 +3686,7 @@ google.*##a[href*="edupro.id"]:upward(1)
 google.*##a[href*="edureka.co"]:upward(1)
 google.*##a[href*="elfishgene.com"]:upward(1)
 google.*##a[href*="empires-r.us"]:upward(1)
+google.*##a[href*="encodingcompiler.com"]:upward(1)
 google.*##a[href*="encyclopaedia.bid"]:upward(1)
 google.*##a[href*="encyclopedia.kz"]:upward(1)
 google.*##a[href*="encyclopedia.thefreedictionary.com"]:upward(1)
@@ -3727,6 +3748,7 @@ google.*##a[href*="githublab.com"]:upward(1)
 google.*##a[href*="githubmate.com"]:upward(1)
 google.*##a[href*="githubmemory.com"]:upward(1)
 google.*##a[href*="githubplus.com"]:upward(1)
+google.*##a[href*="gitmemories.com"]:upward(1)
 google.*##a[href*="gitmemory.cn"]:upward(1)
 google.*##a[href*="gitmemory.com"]:upward(1)
 google.*##a[href*="gitmetadata.com"]:upward(1)
@@ -3741,6 +3763,7 @@ google.*##a[href*="graef.io"]:upward(1)
 google.*##a[href*="grokbase.com"]:upward(1)
 google.*##a[href*="gupgallery.com"]:upward(1)
 google.*##a[href*="gushiciku.cn"]:upward(1)
+google.*##a[href*="heavenlymutex.com"]:upward(1)
 google.*##a[href*="hellojava.com"]:upward(1)
 google.*##a[href*="helpex.vn"]:upward(1)
 google.*##a[href*="higithub.com"]:upward(1)
@@ -3956,6 +3979,7 @@ google.*##a[href*="recalll.co"]:upward(1)
 google.*##a[href*="reddit.fun"]:upward(1)
 google.*##a[href*="reposhub.com"]:upward(1)
 google.*##a[href*="respuestas.me"]:upward(1)
+google.*##a[href*="resultfor.dev"]:upward(1)
 google.*##a[href*="ringingliberty.com"]:upward(1)
 google.*##a[href*="roboflow.ai"]:upward(1)
 google.*##a[href*="rotadev.com"]:upward(1)
@@ -4362,6 +4386,7 @@ kagi.com##._0_image_item[data-host_url*="edupro.id"]
 kagi.com##._0_image_item[data-host_url*="edureka.co"]
 kagi.com##._0_image_item[data-host_url*="elfishgene.com"]
 kagi.com##._0_image_item[data-host_url*="empires-r.us"]
+kagi.com##._0_image_item[data-host_url*="encodingcompiler.com"]
 kagi.com##._0_image_item[data-host_url*="encyclopaedia.bid"]
 kagi.com##._0_image_item[data-host_url*="encyclopedia.kz"]
 kagi.com##._0_image_item[data-host_url*="encyclopedia.thefreedictionary.com"]
@@ -4423,6 +4448,7 @@ kagi.com##._0_image_item[data-host_url*="githublab.com"]
 kagi.com##._0_image_item[data-host_url*="githubmate.com"]
 kagi.com##._0_image_item[data-host_url*="githubmemory.com"]
 kagi.com##._0_image_item[data-host_url*="githubplus.com"]
+kagi.com##._0_image_item[data-host_url*="gitmemories.com"]
 kagi.com##._0_image_item[data-host_url*="gitmemory.cn"]
 kagi.com##._0_image_item[data-host_url*="gitmemory.com"]
 kagi.com##._0_image_item[data-host_url*="gitmetadata.com"]
@@ -4437,6 +4463,7 @@ kagi.com##._0_image_item[data-host_url*="graef.io"]
 kagi.com##._0_image_item[data-host_url*="grokbase.com"]
 kagi.com##._0_image_item[data-host_url*="gupgallery.com"]
 kagi.com##._0_image_item[data-host_url*="gushiciku.cn"]
+kagi.com##._0_image_item[data-host_url*="heavenlymutex.com"]
 kagi.com##._0_image_item[data-host_url*="hellojava.com"]
 kagi.com##._0_image_item[data-host_url*="helpex.vn"]
 kagi.com##._0_image_item[data-host_url*="higithub.com"]
@@ -4652,6 +4679,7 @@ kagi.com##._0_image_item[data-host_url*="recalll.co"]
 kagi.com##._0_image_item[data-host_url*="reddit.fun"]
 kagi.com##._0_image_item[data-host_url*="reposhub.com"]
 kagi.com##._0_image_item[data-host_url*="respuestas.me"]
+kagi.com##._0_image_item[data-host_url*="resultfor.dev"]
 kagi.com##._0_image_item[data-host_url*="ringingliberty.com"]
 kagi.com##._0_image_item[data-host_url*="roboflow.ai"]
 kagi.com##._0_image_item[data-host_url*="rotadev.com"]
@@ -5058,6 +5086,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="edupro.id"])
 kagi.com##.search-result:has(a.__sri-url[href*="edureka.co"])
 kagi.com##.search-result:has(a.__sri-url[href*="elfishgene.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="empires-r.us"])
+kagi.com##.search-result:has(a.__sri-url[href*="encodingcompiler.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="encyclopaedia.bid"])
 kagi.com##.search-result:has(a.__sri-url[href*="encyclopedia.kz"])
 kagi.com##.search-result:has(a.__sri-url[href*="encyclopedia.thefreedictionary.com"])
@@ -5119,6 +5148,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="githublab.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubmate.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubmemory.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubplus.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="gitmemories.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitmemory.cn"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitmemory.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitmetadata.com"])
@@ -5133,6 +5163,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="graef.io"])
 kagi.com##.search-result:has(a.__sri-url[href*="grokbase.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gupgallery.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gushiciku.cn"])
+kagi.com##.search-result:has(a.__sri-url[href*="heavenlymutex.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="hellojava.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="helpex.vn"])
 kagi.com##.search-result:has(a.__sri-url[href*="higithub.com"])
@@ -5348,6 +5379,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="recalll.co"])
 kagi.com##.search-result:has(a.__sri-url[href*="reddit.fun"])
 kagi.com##.search-result:has(a.__sri-url[href*="reposhub.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="respuestas.me"])
+kagi.com##.search-result:has(a.__sri-url[href*="resultfor.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="ringingliberty.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="roboflow.ai"])
 kagi.com##.search-result:has(a.__sri-url[href*="rotadev.com"])
@@ -5754,6 +5786,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="edupro.id"])
 kagi.com##.sri-group:has(a.__sri-url[href*="edureka.co"])
 kagi.com##.sri-group:has(a.__sri-url[href*="elfishgene.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="empires-r.us"])
+kagi.com##.sri-group:has(a.__sri-url[href*="encodingcompiler.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="encyclopaedia.bid"])
 kagi.com##.sri-group:has(a.__sri-url[href*="encyclopedia.kz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="encyclopedia.thefreedictionary.com"])
@@ -5815,6 +5848,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="githublab.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubmate.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubmemory.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubplus.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="gitmemories.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitmemory.cn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitmemory.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitmetadata.com"])
@@ -5829,6 +5863,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="graef.io"])
 kagi.com##.sri-group:has(a.__sri-url[href*="grokbase.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gupgallery.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gushiciku.cn"])
+kagi.com##.sri-group:has(a.__sri-url[href*="heavenlymutex.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="hellojava.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="helpex.vn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="higithub.com"])
@@ -6044,6 +6079,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="recalll.co"])
 kagi.com##.sri-group:has(a.__sri-url[href*="reddit.fun"])
 kagi.com##.sri-group:has(a.__sri-url[href*="reposhub.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="respuestas.me"])
+kagi.com##.sri-group:has(a.__sri-url[href*="resultfor.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ringingliberty.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="roboflow.ai"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rotadev.com"])
@@ -6450,6 +6486,7 @@ searx.lan###main_results .result:has(a[href*="edupro.id"])
 searx.lan###main_results .result:has(a[href*="edureka.co"])
 searx.lan###main_results .result:has(a[href*="elfishgene.com"])
 searx.lan###main_results .result:has(a[href*="empires-r.us"])
+searx.lan###main_results .result:has(a[href*="encodingcompiler.com"])
 searx.lan###main_results .result:has(a[href*="encyclopaedia.bid"])
 searx.lan###main_results .result:has(a[href*="encyclopedia.kz"])
 searx.lan###main_results .result:has(a[href*="encyclopedia.thefreedictionary.com"])
@@ -6511,6 +6548,7 @@ searx.lan###main_results .result:has(a[href*="githublab.com"])
 searx.lan###main_results .result:has(a[href*="githubmate.com"])
 searx.lan###main_results .result:has(a[href*="githubmemory.com"])
 searx.lan###main_results .result:has(a[href*="githubplus.com"])
+searx.lan###main_results .result:has(a[href*="gitmemories.com"])
 searx.lan###main_results .result:has(a[href*="gitmemory.cn"])
 searx.lan###main_results .result:has(a[href*="gitmemory.com"])
 searx.lan###main_results .result:has(a[href*="gitmetadata.com"])
@@ -6525,6 +6563,7 @@ searx.lan###main_results .result:has(a[href*="graef.io"])
 searx.lan###main_results .result:has(a[href*="grokbase.com"])
 searx.lan###main_results .result:has(a[href*="gupgallery.com"])
 searx.lan###main_results .result:has(a[href*="gushiciku.cn"])
+searx.lan###main_results .result:has(a[href*="heavenlymutex.com"])
 searx.lan###main_results .result:has(a[href*="hellojava.com"])
 searx.lan###main_results .result:has(a[href*="helpex.vn"])
 searx.lan###main_results .result:has(a[href*="higithub.com"])
@@ -6740,6 +6779,7 @@ searx.lan###main_results .result:has(a[href*="recalll.co"])
 searx.lan###main_results .result:has(a[href*="reddit.fun"])
 searx.lan###main_results .result:has(a[href*="reposhub.com"])
 searx.lan###main_results .result:has(a[href*="respuestas.me"])
+searx.lan###main_results .result:has(a[href*="resultfor.dev"])
 searx.lan###main_results .result:has(a[href*="ringingliberty.com"])
 searx.lan###main_results .result:has(a[href*="roboflow.ai"])
 searx.lan###main_results .result:has(a[href*="rotadev.com"])
@@ -7146,6 +7186,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(edupro
 startpage.com##.image-container:has(div.image-quick-details span:has-text(edureka.co))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(elfishgene.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(empires-r.us))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(encodingcompiler.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(encyclopaedia.bid))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(encyclopedia.kz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(encyclopedia.thefreedictionary.com))
@@ -7207,6 +7248,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(github
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubmate.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubmemory.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubplus.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(gitmemories.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitmemory.cn))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitmemory.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitmetadata.com))
@@ -7221,6 +7263,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(graef.
 startpage.com##.image-container:has(div.image-quick-details span:has-text(grokbase.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gupgallery.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gushiciku.cn))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(heavenlymutex.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(hellojava.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(helpex.vn))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(higithub.com))
@@ -7436,6 +7479,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(recall
 startpage.com##.image-container:has(div.image-quick-details span:has-text(reddit.fun))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(reposhub.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(respuestas.me))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(resultfor.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ringingliberty.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(roboflow.ai))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rotadev.com))
@@ -7842,6 +7886,7 @@ startpage.com##.w-gl__result:has(a[href*="edupro.id"])
 startpage.com##.w-gl__result:has(a[href*="edureka.co"])
 startpage.com##.w-gl__result:has(a[href*="elfishgene.com"])
 startpage.com##.w-gl__result:has(a[href*="empires-r.us"])
+startpage.com##.w-gl__result:has(a[href*="encodingcompiler.com"])
 startpage.com##.w-gl__result:has(a[href*="encyclopaedia.bid"])
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.kz"])
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
@@ -7903,6 +7948,7 @@ startpage.com##.w-gl__result:has(a[href*="githublab.com"])
 startpage.com##.w-gl__result:has(a[href*="githubmate.com"])
 startpage.com##.w-gl__result:has(a[href*="githubmemory.com"])
 startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
+startpage.com##.w-gl__result:has(a[href*="gitmemories.com"])
 startpage.com##.w-gl__result:has(a[href*="gitmemory.cn"])
 startpage.com##.w-gl__result:has(a[href*="gitmemory.com"])
 startpage.com##.w-gl__result:has(a[href*="gitmetadata.com"])
@@ -7917,6 +7963,7 @@ startpage.com##.w-gl__result:has(a[href*="graef.io"])
 startpage.com##.w-gl__result:has(a[href*="grokbase.com"])
 startpage.com##.w-gl__result:has(a[href*="gupgallery.com"])
 startpage.com##.w-gl__result:has(a[href*="gushiciku.cn"])
+startpage.com##.w-gl__result:has(a[href*="heavenlymutex.com"])
 startpage.com##.w-gl__result:has(a[href*="hellojava.com"])
 startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
 startpage.com##.w-gl__result:has(a[href*="higithub.com"])
@@ -8132,6 +8179,7 @@ startpage.com##.w-gl__result:has(a[href*="recalll.co"])
 startpage.com##.w-gl__result:has(a[href*="reddit.fun"])
 startpage.com##.w-gl__result:has(a[href*="reposhub.com"])
 startpage.com##.w-gl__result:has(a[href*="respuestas.me"])
+startpage.com##.w-gl__result:has(a[href*="resultfor.dev"])
 startpage.com##.w-gl__result:has(a[href*="ringingliberty.com"])
 startpage.com##.w-gl__result:has(a[href*="roboflow.ai"])
 startpage.com##.w-gl__result:has(a[href*="rotadev.com"])
