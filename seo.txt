@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-23 04:11:27 UTC
+! Generated: 2022-09-24 04:08:30 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -518,6 +518,7 @@
 ||sozdizimi.com$all
 ||spec-zone.ru$all
 ||speedutilities.com$all
+||splunktool.com$all
 ||sprosi.pro$all
 ||sqlite.in$all
 ||stackallflow.com$all
@@ -1218,6 +1219,7 @@ bing.com###b_content a[href*="solveforums.msomimaktaba.com"]:upward(li)
 bing.com###b_content a[href*="sozdizimi.com"]:upward(li)
 bing.com###b_content a[href*="spec-zone.ru"]:upward(li)
 bing.com###b_content a[href*="speedutilities.com"]:upward(li)
+bing.com###b_content a[href*="splunktool.com"]:upward(li)
 bing.com###b_content a[href*="sprosi.pro"]:upward(li)
 bing.com###b_content a[href*="sqlite.in"]:upward(li)
 bing.com###b_content a[href*="stackallflow.com"]:upward(li)
@@ -1918,6 +1920,7 @@ duckduckgo.com##.tile-wrap a[href*="solveforums.msomimaktaba.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="sozdizimi.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="spec-zone.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="speedutilities.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="splunktool.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="sprosi.pro"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="sqlite.in"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackallflow.com"]:upward(.tile)
@@ -2618,6 +2621,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="solveforums.msomimaktaba.
 duckduckgo.com##a[data-testid="result-title-a"][href*="sozdizimi.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="spec-zone.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="speedutilities.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="splunktool.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="sprosi.pro"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="sqlite.in"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackallflow.com"]:upward(.nrn-react-div)
@@ -3318,6 +3322,7 @@ google.*##.g:has(a[href*="solveforums.msomimaktaba.com"])
 google.*##.g:has(a[href*="sozdizimi.com"])
 google.*##.g:has(a[href*="spec-zone.ru"])
 google.*##.g:has(a[href*="speedutilities.com"])
+google.*##.g:has(a[href*="splunktool.com"])
 google.*##.g:has(a[href*="sprosi.pro"])
 google.*##.g:has(a[href*="sqlite.in"])
 google.*##.g:has(a[href*="stackallflow.com"])
@@ -4018,6 +4023,7 @@ google.*##a[href*="solveforums.msomimaktaba.com"]:upward(1)
 google.*##a[href*="sozdizimi.com"]:upward(1)
 google.*##a[href*="spec-zone.ru"]:upward(1)
 google.*##a[href*="speedutilities.com"]:upward(1)
+google.*##a[href*="splunktool.com"]:upward(1)
 google.*##a[href*="sprosi.pro"]:upward(1)
 google.*##a[href*="sqlite.in"]:upward(1)
 google.*##a[href*="stackallflow.com"]:upward(1)
@@ -4718,6 +4724,7 @@ kagi.com##._0_image_item[data-host_url*="solveforums.msomimaktaba.com"]
 kagi.com##._0_image_item[data-host_url*="sozdizimi.com"]
 kagi.com##._0_image_item[data-host_url*="spec-zone.ru"]
 kagi.com##._0_image_item[data-host_url*="speedutilities.com"]
+kagi.com##._0_image_item[data-host_url*="splunktool.com"]
 kagi.com##._0_image_item[data-host_url*="sprosi.pro"]
 kagi.com##._0_image_item[data-host_url*="sqlite.in"]
 kagi.com##._0_image_item[data-host_url*="stackallflow.com"]
@@ -5418,6 +5425,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="solveforums.msomimaktaba.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="sozdizimi.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="spec-zone.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="speedutilities.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="splunktool.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="sprosi.pro"])
 kagi.com##.search-result:has(a.__sri-url[href*="sqlite.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackallflow.com"])
@@ -6118,6 +6126,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="solveforums.msomimaktaba.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="sozdizimi.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="spec-zone.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="speedutilities.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="splunktool.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="sprosi.pro"])
 kagi.com##.sri-group:has(a.__sri-url[href*="sqlite.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackallflow.com"])
@@ -6818,6 +6827,7 @@ searx.lan###main_results .result:has(a[href*="solveforums.msomimaktaba.com"])
 searx.lan###main_results .result:has(a[href*="sozdizimi.com"])
 searx.lan###main_results .result:has(a[href*="spec-zone.ru"])
 searx.lan###main_results .result:has(a[href*="speedutilities.com"])
+searx.lan###main_results .result:has(a[href*="splunktool.com"])
 searx.lan###main_results .result:has(a[href*="sprosi.pro"])
 searx.lan###main_results .result:has(a[href*="sqlite.in"])
 searx.lan###main_results .result:has(a[href*="stackallflow.com"])
@@ -7518,6 +7528,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(solvef
 startpage.com##.image-container:has(div.image-quick-details span:has-text(sozdizimi.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(spec-zone.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(speedutilities.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(splunktool.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(sprosi.pro))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(sqlite.in))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackallflow.com))
@@ -8218,6 +8229,7 @@ startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
 startpage.com##.w-gl__result:has(a[href*="sozdizimi.com"])
 startpage.com##.w-gl__result:has(a[href*="spec-zone.ru"])
 startpage.com##.w-gl__result:has(a[href*="speedutilities.com"])
+startpage.com##.w-gl__result:has(a[href*="splunktool.com"])
 startpage.com##.w-gl__result:has(a[href*="sprosi.pro"])
 startpage.com##.w-gl__result:has(a[href*="sqlite.in"])
 startpage.com##.w-gl__result:has(a[href*="stackallflow.com"])
