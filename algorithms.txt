@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-27 04:02:44 UTC
+! Generated: 2022-09-28 04:09:21 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
@@ -15,3 +15,24 @@ odysee.com##.sidebar--pusher
 odysee.com##.card-stack--spacing-m
 github.com##.UnderlineNav.overflow-visible.js-feeds-tabs
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
+inv.bp.projectsegfau.lt##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+inv.privacy.com.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+inv.riverside.rocks##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+inv.vern.cc##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidio.xamh.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.esmailelbob.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.flokinet.to##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.kavin.rocks##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.namazso.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.nerdvpn.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.projectsegfau.lt##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.rhyshl.live##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.sethforprivacy.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.slipfox.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.snopyta.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.tiekoetter.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+vid.puffyan.us##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+y.com.sb##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+yewtu.be##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+youtube.076.ne.jp##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+yt.artemislena.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
