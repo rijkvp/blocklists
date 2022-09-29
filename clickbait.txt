@@ -1,7 +1,7 @@
 ! Title: Clickbait Blocklist
 ! Description: Avoid clickbait by hiding thumbnails on YouTube, Odysee & Invidious.
 ! Homepage: https://github.com/rijkvp/blocklists
-! Generated: 2022-09-28 04:09:22 UTC
+! Generated: 2022-09-29 04:11:29 UTC
 ! Expires: 1 day
 www.youtube.com##ytd-thumbnail
 www.youtube.com###playlist-thumbnails
