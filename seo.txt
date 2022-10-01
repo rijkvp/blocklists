@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-09-30 04:25:20 UTC
+! Generated: 2022-10-01 04:21:29 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -710,6 +710,7 @@
 ||www.querythreads.com$all
 ||www.semicolonworld.com$all
 ||www.stackfinder.ru$all
+||www.stackubuntu.com$all
 ||www.thecodeteacher.com$all
 ||www.titanwolf.org$all
 ||www.uebu$all
@@ -1445,6 +1446,7 @@ bing.com###b_content a[href*="www.nuomiphp.com"]:upward(li)
 bing.com###b_content a[href*="www.querythreads.com"]:upward(li)
 bing.com###b_content a[href*="www.semicolonworld.com"]:upward(li)
 bing.com###b_content a[href*="www.stackfinder.ru"]:upward(li)
+bing.com###b_content a[href*="www.stackubuntu.com"]:upward(li)
 bing.com###b_content a[href*="www.thecodeteacher.com"]:upward(li)
 bing.com###b_content a[href*="www.titanwolf.org"]:upward(li)
 bing.com###b_content a[href*="www.uebu"]:upward(li)
@@ -2180,6 +2182,7 @@ duckduckgo.com##.tile-wrap a[href*="www.nuomiphp.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.querythreads.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.semicolonworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.stackfinder.ru"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="www.stackubuntu.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.thecodeteacher.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.titanwolf.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.uebu"]:upward(.tile)
@@ -2915,6 +2918,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.nuomiphp.com"]:upward
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.querythreads.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.semicolonworld.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackfinder.ru"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackubuntu.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.thecodeteacher.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.titanwolf.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.uebu"]:upward(.nrn-react-div)
@@ -3650,6 +3654,7 @@ google.*##.g:has(a[href*="www.nuomiphp.com"])
 google.*##.g:has(a[href*="www.querythreads.com"])
 google.*##.g:has(a[href*="www.semicolonworld.com"])
 google.*##.g:has(a[href*="www.stackfinder.ru"])
+google.*##.g:has(a[href*="www.stackubuntu.com"])
 google.*##.g:has(a[href*="www.thecodeteacher.com"])
 google.*##.g:has(a[href*="www.titanwolf.org"])
 google.*##.g:has(a[href*="www.uebu"])
@@ -4385,6 +4390,7 @@ google.*##a[href*="www.nuomiphp.com"]:upward(1)
 google.*##a[href*="www.querythreads.com"]:upward(1)
 google.*##a[href*="www.semicolonworld.com"]:upward(1)
 google.*##a[href*="www.stackfinder.ru"]:upward(1)
+google.*##a[href*="www.stackubuntu.com"]:upward(1)
 google.*##a[href*="www.thecodeteacher.com"]:upward(1)
 google.*##a[href*="www.titanwolf.org"]:upward(1)
 google.*##a[href*="www.uebu"]:upward(1)
@@ -5120,6 +5126,7 @@ kagi.com##._0_image_item[data-host_url*="www.nuomiphp.com"]
 kagi.com##._0_image_item[data-host_url*="www.querythreads.com"]
 kagi.com##._0_image_item[data-host_url*="www.semicolonworld.com"]
 kagi.com##._0_image_item[data-host_url*="www.stackfinder.ru"]
+kagi.com##._0_image_item[data-host_url*="www.stackubuntu.com"]
 kagi.com##._0_image_item[data-host_url*="www.thecodeteacher.com"]
 kagi.com##._0_image_item[data-host_url*="www.titanwolf.org"]
 kagi.com##._0_image_item[data-host_url*="www.uebu"]
@@ -5855,6 +5862,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.nuomiphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.stackfinder.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="www.stackubuntu.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.thecodeteacher.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.titanwolf.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.uebu"])
@@ -6590,6 +6598,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.nuomiphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.stackfinder.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="www.stackubuntu.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.thecodeteacher.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.titanwolf.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.uebu"])
@@ -7325,6 +7334,7 @@ searx.lan###main_results .result:has(a[href*="www.nuomiphp.com"])
 searx.lan###main_results .result:has(a[href*="www.querythreads.com"])
 searx.lan###main_results .result:has(a[href*="www.semicolonworld.com"])
 searx.lan###main_results .result:has(a[href*="www.stackfinder.ru"])
+searx.lan###main_results .result:has(a[href*="www.stackubuntu.com"])
 searx.lan###main_results .result:has(a[href*="www.thecodeteacher.com"])
 searx.lan###main_results .result:has(a[href*="www.titanwolf.org"])
 searx.lan###main_results .result:has(a[href*="www.uebu"])
@@ -8060,6 +8070,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.nu
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.querythreads.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.semicolonworld.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackfinder.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackubuntu.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.thecodeteacher.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.titanwolf.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.uebu))
@@ -8795,6 +8806,7 @@ startpage.com##.w-gl__result:has(a[href*="www.nuomiphp.com"])
 startpage.com##.w-gl__result:has(a[href*="www.querythreads.com"])
 startpage.com##.w-gl__result:has(a[href*="www.semicolonworld.com"])
 startpage.com##.w-gl__result:has(a[href*="www.stackfinder.ru"])
+startpage.com##.w-gl__result:has(a[href*="www.stackubuntu.com"])
 startpage.com##.w-gl__result:has(a[href*="www.thecodeteacher.com"])
 startpage.com##.w-gl__result:has(a[href*="www.titanwolf.org"])
 startpage.com##.w-gl__result:has(a[href*="www.uebu"])
