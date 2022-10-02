@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-10-01 04:21:29 UTC
+! Generated: 2022-10-02 04:08:29 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -13,6 +13,7 @@
 ||91r.net$all
 ||955yes.com$all
 ||9ishenzhen.com$all
+||9to5answer.com$all
 ||adoclib.com$all
 ||aing.railpage.com.au$all
 ||ajaxhispano.com$all
@@ -327,6 +328,7 @@
 ||itbaoku.cn$all
 ||itdaan.com$all
 ||itecnote.com$all
+||itecnotes.com$all
 ||itectec.com$all
 ||iteramos.com$all
 ||itnursery.com$all
@@ -405,6 +407,7 @@
 ||news24lite.com$all
 ||newworldencyclopedia.org$all
 ||nibes.cn$all
+||niceans.com$all
 ||noblenaz.org$all
 ||notcrash.com$all
 ||npm.io$all
@@ -749,6 +752,7 @@ bing.com###b_content a[href*="796t.com"]:upward(li)
 bing.com###b_content a[href*="91r.net"]:upward(li)
 bing.com###b_content a[href*="955yes.com"]:upward(li)
 bing.com###b_content a[href*="9ishenzhen.com"]:upward(li)
+bing.com###b_content a[href*="9to5answer.com"]:upward(li)
 bing.com###b_content a[href*="adoclib.com"]:upward(li)
 bing.com###b_content a[href*="aing.railpage.com.au"]:upward(li)
 bing.com###b_content a[href*="ajaxhispano.com"]:upward(li)
@@ -1063,6 +1067,7 @@ bing.com###b_content a[href*="it1352.com"]:upward(li)
 bing.com###b_content a[href*="itbaoku.cn"]:upward(li)
 bing.com###b_content a[href*="itdaan.com"]:upward(li)
 bing.com###b_content a[href*="itecnote.com"]:upward(li)
+bing.com###b_content a[href*="itecnotes.com"]:upward(li)
 bing.com###b_content a[href*="itectec.com"]:upward(li)
 bing.com###b_content a[href*="iteramos.com"]:upward(li)
 bing.com###b_content a[href*="itnursery.com"]:upward(li)
@@ -1141,6 +1146,7 @@ bing.com###b_content a[href*="newdevzone.com"]:upward(li)
 bing.com###b_content a[href*="news24lite.com"]:upward(li)
 bing.com###b_content a[href*="newworldencyclopedia.org"]:upward(li)
 bing.com###b_content a[href*="nibes.cn"]:upward(li)
+bing.com###b_content a[href*="niceans.com"]:upward(li)
 bing.com###b_content a[href*="noblenaz.org"]:upward(li)
 bing.com###b_content a[href*="notcrash.com"]:upward(li)
 bing.com###b_content a[href*="npm.io"]:upward(li)
@@ -1485,6 +1491,7 @@ duckduckgo.com##.tile-wrap a[href*="796t.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="91r.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="955yes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="9ishenzhen.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="9to5answer.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="adoclib.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="aing.railpage.com.au"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ajaxhispano.com"]:upward(.tile)
@@ -1799,6 +1806,7 @@ duckduckgo.com##.tile-wrap a[href*="it1352.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itbaoku.cn"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itdaan.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itecnote.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="itecnotes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itectec.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="iteramos.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itnursery.com"]:upward(.tile)
@@ -1877,6 +1885,7 @@ duckduckgo.com##.tile-wrap a[href*="newdevzone.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="news24lite.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="newworldencyclopedia.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="nibes.cn"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="niceans.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="noblenaz.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="notcrash.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="npm.io"]:upward(.tile)
@@ -2221,6 +2230,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="796t.com"]:upward(.nrn-re
 duckduckgo.com##a[data-testid="result-title-a"][href*="91r.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="955yes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="9ishenzhen.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="9to5answer.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="adoclib.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="aing.railpage.com.au"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ajaxhispano.com"]:upward(.nrn-react-div)
@@ -2535,6 +2545,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="it1352.com"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="itbaoku.cn"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itdaan.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itecnote.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="itecnotes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itectec.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="iteramos.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itnursery.com"]:upward(.nrn-react-div)
@@ -2613,6 +2624,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="newdevzone.com"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="news24lite.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="newworldencyclopedia.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="nibes.cn"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="niceans.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="noblenaz.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="notcrash.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="npm.io"]:upward(.nrn-react-div)
@@ -2957,6 +2969,7 @@ google.*##.g:has(a[href*="796t.com"])
 google.*##.g:has(a[href*="91r.net"])
 google.*##.g:has(a[href*="955yes.com"])
 google.*##.g:has(a[href*="9ishenzhen.com"])
+google.*##.g:has(a[href*="9to5answer.com"])
 google.*##.g:has(a[href*="adoclib.com"])
 google.*##.g:has(a[href*="aing.railpage.com.au"])
 google.*##.g:has(a[href*="ajaxhispano.com"])
@@ -3271,6 +3284,7 @@ google.*##.g:has(a[href*="it1352.com"])
 google.*##.g:has(a[href*="itbaoku.cn"])
 google.*##.g:has(a[href*="itdaan.com"])
 google.*##.g:has(a[href*="itecnote.com"])
+google.*##.g:has(a[href*="itecnotes.com"])
 google.*##.g:has(a[href*="itectec.com"])
 google.*##.g:has(a[href*="iteramos.com"])
 google.*##.g:has(a[href*="itnursery.com"])
@@ -3349,6 +3363,7 @@ google.*##.g:has(a[href*="newdevzone.com"])
 google.*##.g:has(a[href*="news24lite.com"])
 google.*##.g:has(a[href*="newworldencyclopedia.org"])
 google.*##.g:has(a[href*="nibes.cn"])
+google.*##.g:has(a[href*="niceans.com"])
 google.*##.g:has(a[href*="noblenaz.org"])
 google.*##.g:has(a[href*="notcrash.com"])
 google.*##.g:has(a[href*="npm.io"])
@@ -3693,6 +3708,7 @@ google.*##a[href*="796t.com"]:upward(1)
 google.*##a[href*="91r.net"]:upward(1)
 google.*##a[href*="955yes.com"]:upward(1)
 google.*##a[href*="9ishenzhen.com"]:upward(1)
+google.*##a[href*="9to5answer.com"]:upward(1)
 google.*##a[href*="adoclib.com"]:upward(1)
 google.*##a[href*="aing.railpage.com.au"]:upward(1)
 google.*##a[href*="ajaxhispano.com"]:upward(1)
@@ -4007,6 +4023,7 @@ google.*##a[href*="it1352.com"]:upward(1)
 google.*##a[href*="itbaoku.cn"]:upward(1)
 google.*##a[href*="itdaan.com"]:upward(1)
 google.*##a[href*="itecnote.com"]:upward(1)
+google.*##a[href*="itecnotes.com"]:upward(1)
 google.*##a[href*="itectec.com"]:upward(1)
 google.*##a[href*="iteramos.com"]:upward(1)
 google.*##a[href*="itnursery.com"]:upward(1)
@@ -4085,6 +4102,7 @@ google.*##a[href*="newdevzone.com"]:upward(1)
 google.*##a[href*="news24lite.com"]:upward(1)
 google.*##a[href*="newworldencyclopedia.org"]:upward(1)
 google.*##a[href*="nibes.cn"]:upward(1)
+google.*##a[href*="niceans.com"]:upward(1)
 google.*##a[href*="noblenaz.org"]:upward(1)
 google.*##a[href*="notcrash.com"]:upward(1)
 google.*##a[href*="npm.io"]:upward(1)
@@ -4429,6 +4447,7 @@ kagi.com##._0_image_item[data-host_url*="796t.com"]
 kagi.com##._0_image_item[data-host_url*="91r.net"]
 kagi.com##._0_image_item[data-host_url*="955yes.com"]
 kagi.com##._0_image_item[data-host_url*="9ishenzhen.com"]
+kagi.com##._0_image_item[data-host_url*="9to5answer.com"]
 kagi.com##._0_image_item[data-host_url*="adoclib.com"]
 kagi.com##._0_image_item[data-host_url*="aing.railpage.com.au"]
 kagi.com##._0_image_item[data-host_url*="ajaxhispano.com"]
@@ -4743,6 +4762,7 @@ kagi.com##._0_image_item[data-host_url*="it1352.com"]
 kagi.com##._0_image_item[data-host_url*="itbaoku.cn"]
 kagi.com##._0_image_item[data-host_url*="itdaan.com"]
 kagi.com##._0_image_item[data-host_url*="itecnote.com"]
+kagi.com##._0_image_item[data-host_url*="itecnotes.com"]
 kagi.com##._0_image_item[data-host_url*="itectec.com"]
 kagi.com##._0_image_item[data-host_url*="iteramos.com"]
 kagi.com##._0_image_item[data-host_url*="itnursery.com"]
@@ -4821,6 +4841,7 @@ kagi.com##._0_image_item[data-host_url*="newdevzone.com"]
 kagi.com##._0_image_item[data-host_url*="news24lite.com"]
 kagi.com##._0_image_item[data-host_url*="newworldencyclopedia.org"]
 kagi.com##._0_image_item[data-host_url*="nibes.cn"]
+kagi.com##._0_image_item[data-host_url*="niceans.com"]
 kagi.com##._0_image_item[data-host_url*="noblenaz.org"]
 kagi.com##._0_image_item[data-host_url*="notcrash.com"]
 kagi.com##._0_image_item[data-host_url*="npm.io"]
@@ -5165,6 +5186,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="796t.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="91r.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="955yes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="9ishenzhen.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="9to5answer.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="adoclib.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="aing.railpage.com.au"])
 kagi.com##.search-result:has(a.__sri-url[href*="ajaxhispano.com"])
@@ -5479,6 +5501,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="it1352.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itbaoku.cn"])
 kagi.com##.search-result:has(a.__sri-url[href*="itdaan.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itecnote.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="itecnotes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itectec.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="iteramos.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itnursery.com"])
@@ -5557,6 +5580,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="newdevzone.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="news24lite.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="newworldencyclopedia.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="nibes.cn"])
+kagi.com##.search-result:has(a.__sri-url[href*="niceans.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="noblenaz.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="notcrash.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="npm.io"])
@@ -5901,6 +5925,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="796t.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="91r.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="955yes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="9ishenzhen.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="9to5answer.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="adoclib.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="aing.railpage.com.au"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ajaxhispano.com"])
@@ -6215,6 +6240,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="it1352.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itbaoku.cn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itdaan.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itecnote.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="itecnotes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itectec.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="iteramos.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itnursery.com"])
@@ -6293,6 +6319,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="newdevzone.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="news24lite.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="newworldencyclopedia.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="nibes.cn"])
+kagi.com##.sri-group:has(a.__sri-url[href*="niceans.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="noblenaz.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="notcrash.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="npm.io"])
@@ -6637,6 +6664,7 @@ searx.lan###main_results .result:has(a[href*="796t.com"])
 searx.lan###main_results .result:has(a[href*="91r.net"])
 searx.lan###main_results .result:has(a[href*="955yes.com"])
 searx.lan###main_results .result:has(a[href*="9ishenzhen.com"])
+searx.lan###main_results .result:has(a[href*="9to5answer.com"])
 searx.lan###main_results .result:has(a[href*="adoclib.com"])
 searx.lan###main_results .result:has(a[href*="aing.railpage.com.au"])
 searx.lan###main_results .result:has(a[href*="ajaxhispano.com"])
@@ -6951,6 +6979,7 @@ searx.lan###main_results .result:has(a[href*="it1352.com"])
 searx.lan###main_results .result:has(a[href*="itbaoku.cn"])
 searx.lan###main_results .result:has(a[href*="itdaan.com"])
 searx.lan###main_results .result:has(a[href*="itecnote.com"])
+searx.lan###main_results .result:has(a[href*="itecnotes.com"])
 searx.lan###main_results .result:has(a[href*="itectec.com"])
 searx.lan###main_results .result:has(a[href*="iteramos.com"])
 searx.lan###main_results .result:has(a[href*="itnursery.com"])
@@ -7029,6 +7058,7 @@ searx.lan###main_results .result:has(a[href*="newdevzone.com"])
 searx.lan###main_results .result:has(a[href*="news24lite.com"])
 searx.lan###main_results .result:has(a[href*="newworldencyclopedia.org"])
 searx.lan###main_results .result:has(a[href*="nibes.cn"])
+searx.lan###main_results .result:has(a[href*="niceans.com"])
 searx.lan###main_results .result:has(a[href*="noblenaz.org"])
 searx.lan###main_results .result:has(a[href*="notcrash.com"])
 searx.lan###main_results .result:has(a[href*="npm.io"])
@@ -7373,6 +7403,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(796t.c
 startpage.com##.image-container:has(div.image-quick-details span:has-text(91r.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(955yes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(9ishenzhen.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(9to5answer.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(adoclib.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(aing.railpage.com.au))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ajaxhispano.com))
@@ -7687,6 +7718,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(it1352
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itbaoku.cn))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itdaan.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itecnote.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(itecnotes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itectec.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(iteramos.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itnursery.com))
@@ -7765,6 +7797,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(newdev
 startpage.com##.image-container:has(div.image-quick-details span:has-text(news24lite.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(newworldencyclopedia.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(nibes.cn))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(niceans.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(noblenaz.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(notcrash.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(npm.io))
@@ -8109,6 +8142,7 @@ startpage.com##.w-gl__result:has(a[href*="796t.com"])
 startpage.com##.w-gl__result:has(a[href*="91r.net"])
 startpage.com##.w-gl__result:has(a[href*="955yes.com"])
 startpage.com##.w-gl__result:has(a[href*="9ishenzhen.com"])
+startpage.com##.w-gl__result:has(a[href*="9to5answer.com"])
 startpage.com##.w-gl__result:has(a[href*="adoclib.com"])
 startpage.com##.w-gl__result:has(a[href*="aing.railpage.com.au"])
 startpage.com##.w-gl__result:has(a[href*="ajaxhispano.com"])
@@ -8423,6 +8457,7 @@ startpage.com##.w-gl__result:has(a[href*="it1352.com"])
 startpage.com##.w-gl__result:has(a[href*="itbaoku.cn"])
 startpage.com##.w-gl__result:has(a[href*="itdaan.com"])
 startpage.com##.w-gl__result:has(a[href*="itecnote.com"])
+startpage.com##.w-gl__result:has(a[href*="itecnotes.com"])
 startpage.com##.w-gl__result:has(a[href*="itectec.com"])
 startpage.com##.w-gl__result:has(a[href*="iteramos.com"])
 startpage.com##.w-gl__result:has(a[href*="itnursery.com"])
@@ -8501,6 +8536,7 @@ startpage.com##.w-gl__result:has(a[href*="newdevzone.com"])
 startpage.com##.w-gl__result:has(a[href*="news24lite.com"])
 startpage.com##.w-gl__result:has(a[href*="newworldencyclopedia.org"])
 startpage.com##.w-gl__result:has(a[href*="nibes.cn"])
+startpage.com##.w-gl__result:has(a[href*="niceans.com"])
 startpage.com##.w-gl__result:has(a[href*="noblenaz.org"])
 startpage.com##.w-gl__result:has(a[href*="notcrash.com"])
 startpage.com##.w-gl__result:has(a[href*="npm.io"])
