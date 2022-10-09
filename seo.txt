@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-10-06 06:56:48 UTC
+! Generated: 2022-10-09 04:20:45 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -335,7 +335,6 @@
 ||itranslater.com$all
 ||ittone.ma$all
 ||ittutorialpoint.com$all
-||jablogs.com$all
 ||javaer101.com$all
 ||javaerrorfix.com$all
 ||javafixing.com$all
@@ -706,7 +705,6 @@
 ||www.itranslater.com$all
 ||www.javaer101.com$all
 ||www.javafixing.com$all
-||www.jscodetips.com$all
 ||www.linuxfixes.com$all
 ||www.mejorcodigo.com$all
 ||www.nuomiphp.com$all
@@ -715,11 +713,8 @@
 ||www.stackfinder.ru$all
 ||www.stackubuntu.com$all
 ||www.thecodeteacher.com$all
-||www.titanwolf.org$all
-||www.uebu$all
 ||www.wake$all
 ||www.web$all
-||www.webdevqa.jp.net$all
 ||www.wenyanet.com$all
 ||www.xsprogram.com$all
 ||wyzant.com$all
@@ -1074,7 +1069,6 @@ bing.com###b_content a[href*="itnursery.com"]:upward(li)
 bing.com###b_content a[href*="itranslater.com"]:upward(li)
 bing.com###b_content a[href*="ittone.ma"]:upward(li)
 bing.com###b_content a[href*="ittutorialpoint.com"]:upward(li)
-bing.com###b_content a[href*="jablogs.com"]:upward(li)
 bing.com###b_content a[href*="javaer101.com"]:upward(li)
 bing.com###b_content a[href*="javaerrorfix.com"]:upward(li)
 bing.com###b_content a[href*="javafixing.com"]:upward(li)
@@ -1445,7 +1439,6 @@ bing.com###b_content a[href*="www.it"]:upward(li)
 bing.com###b_content a[href*="www.itranslater.com"]:upward(li)
 bing.com###b_content a[href*="www.javaer101.com"]:upward(li)
 bing.com###b_content a[href*="www.javafixing.com"]:upward(li)
-bing.com###b_content a[href*="www.jscodetips.com"]:upward(li)
 bing.com###b_content a[href*="www.linuxfixes.com"]:upward(li)
 bing.com###b_content a[href*="www.mejorcodigo.com"]:upward(li)
 bing.com###b_content a[href*="www.nuomiphp.com"]:upward(li)
@@ -1454,11 +1447,8 @@ bing.com###b_content a[href*="www.semicolonworld.com"]:upward(li)
 bing.com###b_content a[href*="www.stackfinder.ru"]:upward(li)
 bing.com###b_content a[href*="www.stackubuntu.com"]:upward(li)
 bing.com###b_content a[href*="www.thecodeteacher.com"]:upward(li)
-bing.com###b_content a[href*="www.titanwolf.org"]:upward(li)
-bing.com###b_content a[href*="www.uebu"]:upward(li)
 bing.com###b_content a[href*="www.wake"]:upward(li)
 bing.com###b_content a[href*="www.web"]:upward(li)
-bing.com###b_content a[href*="www.webdevqa.jp.net"]:upward(li)
 bing.com###b_content a[href*="www.wenyanet.com"]:upward(li)
 bing.com###b_content a[href*="www.xsprogram.com"]:upward(li)
 bing.com###b_content a[href*="wyzant.com"]:upward(li)
@@ -1813,7 +1803,6 @@ duckduckgo.com##.tile-wrap a[href*="itnursery.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itranslater.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ittone.ma"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="ittutorialpoint.com"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="jablogs.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="javaer101.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="javaerrorfix.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="javafixing.com"]:upward(.tile)
@@ -2184,7 +2173,6 @@ duckduckgo.com##.tile-wrap a[href*="www.it"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.itranslater.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.javaer101.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.javafixing.com"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.jscodetips.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.linuxfixes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.mejorcodigo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.nuomiphp.com"]:upward(.tile)
@@ -2193,11 +2181,8 @@ duckduckgo.com##.tile-wrap a[href*="www.semicolonworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.stackfinder.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.stackubuntu.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.thecodeteacher.com"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.titanwolf.org"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.uebu"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.wake"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.web"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.webdevqa.jp.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.wenyanet.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.xsprogram.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wyzant.com"]:upward(.tile)
@@ -2552,7 +2537,6 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="itnursery.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="itranslater.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ittone.ma"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="ittutorialpoint.com"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="jablogs.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="javaer101.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="javaerrorfix.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="javafixing.com"]:upward(.nrn-react-div)
@@ -2923,7 +2907,6 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.it"]:upward(.nrn-reac
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.itranslater.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.javaer101.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.javafixing.com"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.jscodetips.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.linuxfixes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.mejorcodigo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.nuomiphp.com"]:upward(.nrn-react-div)
@@ -2932,11 +2915,8 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.semicolonworld.com"]:
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackfinder.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackubuntu.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.thecodeteacher.com"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.titanwolf.org"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.uebu"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.wake"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.web"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.webdevqa.jp.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.wenyanet.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.xsprogram.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wyzant.com"]:upward(.nrn-react-div)
@@ -3291,7 +3271,6 @@ google.*##.g:has(a[href*="itnursery.com"])
 google.*##.g:has(a[href*="itranslater.com"])
 google.*##.g:has(a[href*="ittone.ma"])
 google.*##.g:has(a[href*="ittutorialpoint.com"])
-google.*##.g:has(a[href*="jablogs.com"])
 google.*##.g:has(a[href*="javaer101.com"])
 google.*##.g:has(a[href*="javaerrorfix.com"])
 google.*##.g:has(a[href*="javafixing.com"])
@@ -3662,7 +3641,6 @@ google.*##.g:has(a[href*="www.it"])
 google.*##.g:has(a[href*="www.itranslater.com"])
 google.*##.g:has(a[href*="www.javaer101.com"])
 google.*##.g:has(a[href*="www.javafixing.com"])
-google.*##.g:has(a[href*="www.jscodetips.com"])
 google.*##.g:has(a[href*="www.linuxfixes.com"])
 google.*##.g:has(a[href*="www.mejorcodigo.com"])
 google.*##.g:has(a[href*="www.nuomiphp.com"])
@@ -3671,11 +3649,8 @@ google.*##.g:has(a[href*="www.semicolonworld.com"])
 google.*##.g:has(a[href*="www.stackfinder.ru"])
 google.*##.g:has(a[href*="www.stackubuntu.com"])
 google.*##.g:has(a[href*="www.thecodeteacher.com"])
-google.*##.g:has(a[href*="www.titanwolf.org"])
-google.*##.g:has(a[href*="www.uebu"])
 google.*##.g:has(a[href*="www.wake"])
 google.*##.g:has(a[href*="www.web"])
-google.*##.g:has(a[href*="www.webdevqa.jp.net"])
 google.*##.g:has(a[href*="www.wenyanet.com"])
 google.*##.g:has(a[href*="www.xsprogram.com"])
 google.*##.g:has(a[href*="wyzant.com"])
@@ -4030,7 +4005,6 @@ google.*##a[href*="itnursery.com"]:upward(1)
 google.*##a[href*="itranslater.com"]:upward(1)
 google.*##a[href*="ittone.ma"]:upward(1)
 google.*##a[href*="ittutorialpoint.com"]:upward(1)
-google.*##a[href*="jablogs.com"]:upward(1)
 google.*##a[href*="javaer101.com"]:upward(1)
 google.*##a[href*="javaerrorfix.com"]:upward(1)
 google.*##a[href*="javafixing.com"]:upward(1)
@@ -4401,7 +4375,6 @@ google.*##a[href*="www.it"]:upward(1)
 google.*##a[href*="www.itranslater.com"]:upward(1)
 google.*##a[href*="www.javaer101.com"]:upward(1)
 google.*##a[href*="www.javafixing.com"]:upward(1)
-google.*##a[href*="www.jscodetips.com"]:upward(1)
 google.*##a[href*="www.linuxfixes.com"]:upward(1)
 google.*##a[href*="www.mejorcodigo.com"]:upward(1)
 google.*##a[href*="www.nuomiphp.com"]:upward(1)
@@ -4410,11 +4383,8 @@ google.*##a[href*="www.semicolonworld.com"]:upward(1)
 google.*##a[href*="www.stackfinder.ru"]:upward(1)
 google.*##a[href*="www.stackubuntu.com"]:upward(1)
 google.*##a[href*="www.thecodeteacher.com"]:upward(1)
-google.*##a[href*="www.titanwolf.org"]:upward(1)
-google.*##a[href*="www.uebu"]:upward(1)
 google.*##a[href*="www.wake"]:upward(1)
 google.*##a[href*="www.web"]:upward(1)
-google.*##a[href*="www.webdevqa.jp.net"]:upward(1)
 google.*##a[href*="www.wenyanet.com"]:upward(1)
 google.*##a[href*="www.xsprogram.com"]:upward(1)
 google.*##a[href*="wyzant.com"]:upward(1)
@@ -4769,7 +4739,6 @@ kagi.com##._0_image_item[data-host_url*="itnursery.com"]
 kagi.com##._0_image_item[data-host_url*="itranslater.com"]
 kagi.com##._0_image_item[data-host_url*="ittone.ma"]
 kagi.com##._0_image_item[data-host_url*="ittutorialpoint.com"]
-kagi.com##._0_image_item[data-host_url*="jablogs.com"]
 kagi.com##._0_image_item[data-host_url*="javaer101.com"]
 kagi.com##._0_image_item[data-host_url*="javaerrorfix.com"]
 kagi.com##._0_image_item[data-host_url*="javafixing.com"]
@@ -5140,7 +5109,6 @@ kagi.com##._0_image_item[data-host_url*="www.it"]
 kagi.com##._0_image_item[data-host_url*="www.itranslater.com"]
 kagi.com##._0_image_item[data-host_url*="www.javaer101.com"]
 kagi.com##._0_image_item[data-host_url*="www.javafixing.com"]
-kagi.com##._0_image_item[data-host_url*="www.jscodetips.com"]
 kagi.com##._0_image_item[data-host_url*="www.linuxfixes.com"]
 kagi.com##._0_image_item[data-host_url*="www.mejorcodigo.com"]
 kagi.com##._0_image_item[data-host_url*="www.nuomiphp.com"]
@@ -5149,11 +5117,8 @@ kagi.com##._0_image_item[data-host_url*="www.semicolonworld.com"]
 kagi.com##._0_image_item[data-host_url*="www.stackfinder.ru"]
 kagi.com##._0_image_item[data-host_url*="www.stackubuntu.com"]
 kagi.com##._0_image_item[data-host_url*="www.thecodeteacher.com"]
-kagi.com##._0_image_item[data-host_url*="www.titanwolf.org"]
-kagi.com##._0_image_item[data-host_url*="www.uebu"]
 kagi.com##._0_image_item[data-host_url*="www.wake"]
 kagi.com##._0_image_item[data-host_url*="www.web"]
-kagi.com##._0_image_item[data-host_url*="www.webdevqa.jp.net"]
 kagi.com##._0_image_item[data-host_url*="www.wenyanet.com"]
 kagi.com##._0_image_item[data-host_url*="www.xsprogram.com"]
 kagi.com##._0_image_item[data-host_url*="wyzant.com"]
@@ -5508,7 +5473,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="itnursery.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itranslater.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ittone.ma"])
 kagi.com##.search-result:has(a.__sri-url[href*="ittutorialpoint.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="jablogs.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="javaer101.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="javaerrorfix.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="javafixing.com"])
@@ -5879,7 +5843,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.it"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.itranslater.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.javaer101.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.javafixing.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.jscodetips.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.linuxfixes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.nuomiphp.com"])
@@ -5888,11 +5851,8 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.stackfinder.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.stackubuntu.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.thecodeteacher.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.titanwolf.org"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.uebu"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.wake"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.web"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.webdevqa.jp.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.wenyanet.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.xsprogram.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="wyzant.com"])
@@ -6247,7 +6207,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="itnursery.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itranslater.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ittone.ma"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ittutorialpoint.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="jablogs.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="javaer101.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="javaerrorfix.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="javafixing.com"])
@@ -6618,7 +6577,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.it"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.itranslater.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.javaer101.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.javafixing.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.jscodetips.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.linuxfixes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.nuomiphp.com"])
@@ -6627,11 +6585,8 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.stackfinder.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.stackubuntu.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.thecodeteacher.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.titanwolf.org"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.uebu"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.wake"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.web"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.webdevqa.jp.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.wenyanet.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.xsprogram.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wyzant.com"])
@@ -6986,7 +6941,6 @@ searx.lan###main_results .result:has(a[href*="itnursery.com"])
 searx.lan###main_results .result:has(a[href*="itranslater.com"])
 searx.lan###main_results .result:has(a[href*="ittone.ma"])
 searx.lan###main_results .result:has(a[href*="ittutorialpoint.com"])
-searx.lan###main_results .result:has(a[href*="jablogs.com"])
 searx.lan###main_results .result:has(a[href*="javaer101.com"])
 searx.lan###main_results .result:has(a[href*="javaerrorfix.com"])
 searx.lan###main_results .result:has(a[href*="javafixing.com"])
@@ -7357,7 +7311,6 @@ searx.lan###main_results .result:has(a[href*="www.it"])
 searx.lan###main_results .result:has(a[href*="www.itranslater.com"])
 searx.lan###main_results .result:has(a[href*="www.javaer101.com"])
 searx.lan###main_results .result:has(a[href*="www.javafixing.com"])
-searx.lan###main_results .result:has(a[href*="www.jscodetips.com"])
 searx.lan###main_results .result:has(a[href*="www.linuxfixes.com"])
 searx.lan###main_results .result:has(a[href*="www.mejorcodigo.com"])
 searx.lan###main_results .result:has(a[href*="www.nuomiphp.com"])
@@ -7366,11 +7319,8 @@ searx.lan###main_results .result:has(a[href*="www.semicolonworld.com"])
 searx.lan###main_results .result:has(a[href*="www.stackfinder.ru"])
 searx.lan###main_results .result:has(a[href*="www.stackubuntu.com"])
 searx.lan###main_results .result:has(a[href*="www.thecodeteacher.com"])
-searx.lan###main_results .result:has(a[href*="www.titanwolf.org"])
-searx.lan###main_results .result:has(a[href*="www.uebu"])
 searx.lan###main_results .result:has(a[href*="www.wake"])
 searx.lan###main_results .result:has(a[href*="www.web"])
-searx.lan###main_results .result:has(a[href*="www.webdevqa.jp.net"])
 searx.lan###main_results .result:has(a[href*="www.wenyanet.com"])
 searx.lan###main_results .result:has(a[href*="www.xsprogram.com"])
 searx.lan###main_results .result:has(a[href*="wyzant.com"])
@@ -7725,7 +7675,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(itnurs
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itranslater.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ittone.ma))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ittutorialpoint.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(jablogs.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(javaer101.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(javaerrorfix.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(javafixing.com))
@@ -8096,7 +8045,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.it
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.itranslater.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.javaer101.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.javafixing.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.jscodetips.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.linuxfixes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.mejorcodigo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.nuomiphp.com))
@@ -8105,11 +8053,8 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.se
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackfinder.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackubuntu.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.thecodeteacher.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.titanwolf.org))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.uebu))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.wake))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.web))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.webdevqa.jp.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.wenyanet.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.xsprogram.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wyzant.com))
@@ -8464,7 +8409,6 @@ startpage.com##.w-gl__result:has(a[href*="itnursery.com"])
 startpage.com##.w-gl__result:has(a[href*="itranslater.com"])
 startpage.com##.w-gl__result:has(a[href*="ittone.ma"])
 startpage.com##.w-gl__result:has(a[href*="ittutorialpoint.com"])
-startpage.com##.w-gl__result:has(a[href*="jablogs.com"])
 startpage.com##.w-gl__result:has(a[href*="javaer101.com"])
 startpage.com##.w-gl__result:has(a[href*="javaerrorfix.com"])
 startpage.com##.w-gl__result:has(a[href*="javafixing.com"])
@@ -8835,7 +8779,6 @@ startpage.com##.w-gl__result:has(a[href*="www.it"])
 startpage.com##.w-gl__result:has(a[href*="www.itranslater.com"])
 startpage.com##.w-gl__result:has(a[href*="www.javaer101.com"])
 startpage.com##.w-gl__result:has(a[href*="www.javafixing.com"])
-startpage.com##.w-gl__result:has(a[href*="www.jscodetips.com"])
 startpage.com##.w-gl__result:has(a[href*="www.linuxfixes.com"])
 startpage.com##.w-gl__result:has(a[href*="www.mejorcodigo.com"])
 startpage.com##.w-gl__result:has(a[href*="www.nuomiphp.com"])
@@ -8844,11 +8787,8 @@ startpage.com##.w-gl__result:has(a[href*="www.semicolonworld.com"])
 startpage.com##.w-gl__result:has(a[href*="www.stackfinder.ru"])
 startpage.com##.w-gl__result:has(a[href*="www.stackubuntu.com"])
 startpage.com##.w-gl__result:has(a[href*="www.thecodeteacher.com"])
-startpage.com##.w-gl__result:has(a[href*="www.titanwolf.org"])
-startpage.com##.w-gl__result:has(a[href*="www.uebu"])
 startpage.com##.w-gl__result:has(a[href*="www.wake"])
 startpage.com##.w-gl__result:has(a[href*="www.web"])
-startpage.com##.w-gl__result:has(a[href*="www.webdevqa.jp.net"])
 startpage.com##.w-gl__result:has(a[href*="www.wenyanet.com"])
 startpage.com##.w-gl__result:has(a[href*="www.xsprogram.com"])
 startpage.com##.w-gl__result:has(a[href*="wyzant.com"])
