@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-10-16 04:36:44 UTC
+! Generated: 2022-10-23 04:26:13 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
@@ -21,6 +21,7 @@ inv.privacy.com.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 inv.riverside.rocks##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 inv.vern.cc##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidio.xamh.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.baczek.me##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.dhusch.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.esmailelbob.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.flokinet.to##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
@@ -33,6 +34,7 @@ invidious.sethforprivacy.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.slipfox.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.snopyta.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.tiekoetter.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.weblibre.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 vid.puffyan.us##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 y.com.sb##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 yewtu.be##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
