@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-10-23 04:26:12 UTC
+! Generated: 2022-10-30 04:06:29 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -174,6 +174,7 @@
 ||devqanda.com$all
 ||devsfeed.com$all
 ||devtip.in$all
+||dewiki.de$all
 ||digitrain.ru$all
 ||dirask.com$all
 ||dizzycoding.com$all
@@ -235,6 +236,7 @@
 ||fmihm.org$all
 ||folkstalk.com$all
 ||fooobar.com$all
+||forumming.com$all
 ||frameboxxindore.com$all
 ||frwiki.wiki$all
 ||fullstack.cafe$all
@@ -363,6 +365,7 @@
 ||knews.vip$all
 ||kompsekret.ru$all
 ||kotaeta.com$all
+||kutombawewe.net$all
 ||laravelquestions.com$all
 ||learn-codes.net$all
 ||learnfk.com$all
@@ -470,6 +473,7 @@
 ||pythonmana.com$all
 ||pythonrepo.com$all
 ||pythonshowcase.com$all
+||pythontechworld.com$all
 ||pythonwd.com$all
 ||qa-help.ru$all
 ||qa-stack.pl$all
@@ -714,6 +718,7 @@
 ||www.itranslater.com$all
 ||www.javaer101.com$all
 ||www.javafixing.com$all
+||www.kutombawewe.net$all
 ||www.linuxfixes.com$all
 ||www.mejorcodigo.com$all
 ||www.nuomiphp.com$all
@@ -918,6 +923,7 @@ bing.com###b_content a[href*="devpick.io"]:upward(li)
 bing.com###b_content a[href*="devqanda.com"]:upward(li)
 bing.com###b_content a[href*="devsfeed.com"]:upward(li)
 bing.com###b_content a[href*="devtip.in"]:upward(li)
+bing.com###b_content a[href*="dewiki.de"]:upward(li)
 bing.com###b_content a[href*="digitrain.ru"]:upward(li)
 bing.com###b_content a[href*="dirask.com"]:upward(li)
 bing.com###b_content a[href*="dizzycoding.com"]:upward(li)
@@ -979,6 +985,7 @@ bing.com###b_content a[href*="flvrclothing.com"]:upward(li)
 bing.com###b_content a[href*="fmihm.org"]:upward(li)
 bing.com###b_content a[href*="folkstalk.com"]:upward(li)
 bing.com###b_content a[href*="fooobar.com"]:upward(li)
+bing.com###b_content a[href*="forumming.com"]:upward(li)
 bing.com###b_content a[href*="frameboxxindore.com"]:upward(li)
 bing.com###b_content a[href*="frwiki.wiki"]:upward(li)
 bing.com###b_content a[href*="fullstack.cafe"]:upward(li)
@@ -1107,6 +1114,7 @@ bing.com###b_content a[href*="kausalvikash.in"]:upward(li)
 bing.com###b_content a[href*="knews.vip"]:upward(li)
 bing.com###b_content a[href*="kompsekret.ru"]:upward(li)
 bing.com###b_content a[href*="kotaeta.com"]:upward(li)
+bing.com###b_content a[href*="kutombawewe.net"]:upward(li)
 bing.com###b_content a[href*="laravelquestions.com"]:upward(li)
 bing.com###b_content a[href*="learn-codes.net"]:upward(li)
 bing.com###b_content a[href*="learnfk.com"]:upward(li)
@@ -1214,6 +1222,7 @@ bing.com###b_content a[href*="pythonlang.dev"]:upward(li)
 bing.com###b_content a[href*="pythonmana.com"]:upward(li)
 bing.com###b_content a[href*="pythonrepo.com"]:upward(li)
 bing.com###b_content a[href*="pythonshowcase.com"]:upward(li)
+bing.com###b_content a[href*="pythontechworld.com"]:upward(li)
 bing.com###b_content a[href*="pythonwd.com"]:upward(li)
 bing.com###b_content a[href*="qa-help.ru"]:upward(li)
 bing.com###b_content a[href*="qa-stack.pl"]:upward(li)
@@ -1458,6 +1467,7 @@ bing.com###b_content a[href*="www.it"]:upward(li)
 bing.com###b_content a[href*="www.itranslater.com"]:upward(li)
 bing.com###b_content a[href*="www.javaer101.com"]:upward(li)
 bing.com###b_content a[href*="www.javafixing.com"]:upward(li)
+bing.com###b_content a[href*="www.kutombawewe.net"]:upward(li)
 bing.com###b_content a[href*="www.linuxfixes.com"]:upward(li)
 bing.com###b_content a[href*="www.mejorcodigo.com"]:upward(li)
 bing.com###b_content a[href*="www.nuomiphp.com"]:upward(li)
@@ -1662,6 +1672,7 @@ duckduckgo.com##.tile-wrap a[href*="devpick.io"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devqanda.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devsfeed.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="devtip.in"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="dewiki.de"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="digitrain.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="dirask.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="dizzycoding.com"]:upward(.tile)
@@ -1723,6 +1734,7 @@ duckduckgo.com##.tile-wrap a[href*="flvrclothing.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="fmihm.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="folkstalk.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="fooobar.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="forumming.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="frameboxxindore.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="frwiki.wiki"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="fullstack.cafe"]:upward(.tile)
@@ -1851,6 +1863,7 @@ duckduckgo.com##.tile-wrap a[href*="kausalvikash.in"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="knews.vip"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="kompsekret.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="kotaeta.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="kutombawewe.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="laravelquestions.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="learn-codes.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="learnfk.com"]:upward(.tile)
@@ -1958,6 +1971,7 @@ duckduckgo.com##.tile-wrap a[href*="pythonlang.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pythonmana.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pythonrepo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pythonshowcase.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="pythontechworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pythonwd.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qa-help.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qa-stack.pl"]:upward(.tile)
@@ -2202,6 +2216,7 @@ duckduckgo.com##.tile-wrap a[href*="www.it"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.itranslater.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.javaer101.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.javafixing.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="www.kutombawewe.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.linuxfixes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.mejorcodigo.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.nuomiphp.com"]:upward(.tile)
@@ -2406,6 +2421,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="devpick.io"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="devqanda.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="devsfeed.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="devtip.in"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="dewiki.de"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="digitrain.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="dirask.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="dizzycoding.com"]:upward(.nrn-react-div)
@@ -2467,6 +2483,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="flvrclothing.com"]:upward
 duckduckgo.com##a[data-testid="result-title-a"][href*="fmihm.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="folkstalk.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="fooobar.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="forumming.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="frameboxxindore.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="frwiki.wiki"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="fullstack.cafe"]:upward(.nrn-react-div)
@@ -2595,6 +2612,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="kausalvikash.in"]:upward(
 duckduckgo.com##a[data-testid="result-title-a"][href*="knews.vip"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="kompsekret.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="kotaeta.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="kutombawewe.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="laravelquestions.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="learn-codes.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="learnfk.com"]:upward(.nrn-react-div)
@@ -2702,6 +2720,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="pythonlang.dev"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="pythonmana.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pythonrepo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pythonshowcase.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="pythontechworld.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pythonwd.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qa-help.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qa-stack.pl"]:upward(.nrn-react-div)
@@ -2946,6 +2965,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.it"]:upward(.nrn-reac
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.itranslater.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.javaer101.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.javafixing.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="www.kutombawewe.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.linuxfixes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.mejorcodigo.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.nuomiphp.com"]:upward(.nrn-react-div)
@@ -3150,6 +3170,7 @@ google.*##.g:has(a[href*="devpick.io"])
 google.*##.g:has(a[href*="devqanda.com"])
 google.*##.g:has(a[href*="devsfeed.com"])
 google.*##.g:has(a[href*="devtip.in"])
+google.*##.g:has(a[href*="dewiki.de"])
 google.*##.g:has(a[href*="digitrain.ru"])
 google.*##.g:has(a[href*="dirask.com"])
 google.*##.g:has(a[href*="dizzycoding.com"])
@@ -3211,6 +3232,7 @@ google.*##.g:has(a[href*="flvrclothing.com"])
 google.*##.g:has(a[href*="fmihm.org"])
 google.*##.g:has(a[href*="folkstalk.com"])
 google.*##.g:has(a[href*="fooobar.com"])
+google.*##.g:has(a[href*="forumming.com"])
 google.*##.g:has(a[href*="frameboxxindore.com"])
 google.*##.g:has(a[href*="frwiki.wiki"])
 google.*##.g:has(a[href*="fullstack.cafe"])
@@ -3339,6 +3361,7 @@ google.*##.g:has(a[href*="kausalvikash.in"])
 google.*##.g:has(a[href*="knews.vip"])
 google.*##.g:has(a[href*="kompsekret.ru"])
 google.*##.g:has(a[href*="kotaeta.com"])
+google.*##.g:has(a[href*="kutombawewe.net"])
 google.*##.g:has(a[href*="laravelquestions.com"])
 google.*##.g:has(a[href*="learn-codes.net"])
 google.*##.g:has(a[href*="learnfk.com"])
@@ -3446,6 +3469,7 @@ google.*##.g:has(a[href*="pythonlang.dev"])
 google.*##.g:has(a[href*="pythonmana.com"])
 google.*##.g:has(a[href*="pythonrepo.com"])
 google.*##.g:has(a[href*="pythonshowcase.com"])
+google.*##.g:has(a[href*="pythontechworld.com"])
 google.*##.g:has(a[href*="pythonwd.com"])
 google.*##.g:has(a[href*="qa-help.ru"])
 google.*##.g:has(a[href*="qa-stack.pl"])
@@ -3690,6 +3714,7 @@ google.*##.g:has(a[href*="www.it"])
 google.*##.g:has(a[href*="www.itranslater.com"])
 google.*##.g:has(a[href*="www.javaer101.com"])
 google.*##.g:has(a[href*="www.javafixing.com"])
+google.*##.g:has(a[href*="www.kutombawewe.net"])
 google.*##.g:has(a[href*="www.linuxfixes.com"])
 google.*##.g:has(a[href*="www.mejorcodigo.com"])
 google.*##.g:has(a[href*="www.nuomiphp.com"])
@@ -3894,6 +3919,7 @@ google.*##a[href*="devpick.io"]:upward(1)
 google.*##a[href*="devqanda.com"]:upward(1)
 google.*##a[href*="devsfeed.com"]:upward(1)
 google.*##a[href*="devtip.in"]:upward(1)
+google.*##a[href*="dewiki.de"]:upward(1)
 google.*##a[href*="digitrain.ru"]:upward(1)
 google.*##a[href*="dirask.com"]:upward(1)
 google.*##a[href*="dizzycoding.com"]:upward(1)
@@ -3955,6 +3981,7 @@ google.*##a[href*="flvrclothing.com"]:upward(1)
 google.*##a[href*="fmihm.org"]:upward(1)
 google.*##a[href*="folkstalk.com"]:upward(1)
 google.*##a[href*="fooobar.com"]:upward(1)
+google.*##a[href*="forumming.com"]:upward(1)
 google.*##a[href*="frameboxxindore.com"]:upward(1)
 google.*##a[href*="frwiki.wiki"]:upward(1)
 google.*##a[href*="fullstack.cafe"]:upward(1)
@@ -4083,6 +4110,7 @@ google.*##a[href*="kausalvikash.in"]:upward(1)
 google.*##a[href*="knews.vip"]:upward(1)
 google.*##a[href*="kompsekret.ru"]:upward(1)
 google.*##a[href*="kotaeta.com"]:upward(1)
+google.*##a[href*="kutombawewe.net"]:upward(1)
 google.*##a[href*="laravelquestions.com"]:upward(1)
 google.*##a[href*="learn-codes.net"]:upward(1)
 google.*##a[href*="learnfk.com"]:upward(1)
@@ -4190,6 +4218,7 @@ google.*##a[href*="pythonlang.dev"]:upward(1)
 google.*##a[href*="pythonmana.com"]:upward(1)
 google.*##a[href*="pythonrepo.com"]:upward(1)
 google.*##a[href*="pythonshowcase.com"]:upward(1)
+google.*##a[href*="pythontechworld.com"]:upward(1)
 google.*##a[href*="pythonwd.com"]:upward(1)
 google.*##a[href*="qa-help.ru"]:upward(1)
 google.*##a[href*="qa-stack.pl"]:upward(1)
@@ -4434,6 +4463,7 @@ google.*##a[href*="www.it"]:upward(1)
 google.*##a[href*="www.itranslater.com"]:upward(1)
 google.*##a[href*="www.javaer101.com"]:upward(1)
 google.*##a[href*="www.javafixing.com"]:upward(1)
+google.*##a[href*="www.kutombawewe.net"]:upward(1)
 google.*##a[href*="www.linuxfixes.com"]:upward(1)
 google.*##a[href*="www.mejorcodigo.com"]:upward(1)
 google.*##a[href*="www.nuomiphp.com"]:upward(1)
@@ -4638,6 +4668,7 @@ kagi.com##._0_image_item[data-host_url*="devpick.io"]
 kagi.com##._0_image_item[data-host_url*="devqanda.com"]
 kagi.com##._0_image_item[data-host_url*="devsfeed.com"]
 kagi.com##._0_image_item[data-host_url*="devtip.in"]
+kagi.com##._0_image_item[data-host_url*="dewiki.de"]
 kagi.com##._0_image_item[data-host_url*="digitrain.ru"]
 kagi.com##._0_image_item[data-host_url*="dirask.com"]
 kagi.com##._0_image_item[data-host_url*="dizzycoding.com"]
@@ -4699,6 +4730,7 @@ kagi.com##._0_image_item[data-host_url*="flvrclothing.com"]
 kagi.com##._0_image_item[data-host_url*="fmihm.org"]
 kagi.com##._0_image_item[data-host_url*="folkstalk.com"]
 kagi.com##._0_image_item[data-host_url*="fooobar.com"]
+kagi.com##._0_image_item[data-host_url*="forumming.com"]
 kagi.com##._0_image_item[data-host_url*="frameboxxindore.com"]
 kagi.com##._0_image_item[data-host_url*="frwiki.wiki"]
 kagi.com##._0_image_item[data-host_url*="fullstack.cafe"]
@@ -4827,6 +4859,7 @@ kagi.com##._0_image_item[data-host_url*="kausalvikash.in"]
 kagi.com##._0_image_item[data-host_url*="knews.vip"]
 kagi.com##._0_image_item[data-host_url*="kompsekret.ru"]
 kagi.com##._0_image_item[data-host_url*="kotaeta.com"]
+kagi.com##._0_image_item[data-host_url*="kutombawewe.net"]
 kagi.com##._0_image_item[data-host_url*="laravelquestions.com"]
 kagi.com##._0_image_item[data-host_url*="learn-codes.net"]
 kagi.com##._0_image_item[data-host_url*="learnfk.com"]
@@ -4934,6 +4967,7 @@ kagi.com##._0_image_item[data-host_url*="pythonlang.dev"]
 kagi.com##._0_image_item[data-host_url*="pythonmana.com"]
 kagi.com##._0_image_item[data-host_url*="pythonrepo.com"]
 kagi.com##._0_image_item[data-host_url*="pythonshowcase.com"]
+kagi.com##._0_image_item[data-host_url*="pythontechworld.com"]
 kagi.com##._0_image_item[data-host_url*="pythonwd.com"]
 kagi.com##._0_image_item[data-host_url*="qa-help.ru"]
 kagi.com##._0_image_item[data-host_url*="qa-stack.pl"]
@@ -5178,6 +5212,7 @@ kagi.com##._0_image_item[data-host_url*="www.it"]
 kagi.com##._0_image_item[data-host_url*="www.itranslater.com"]
 kagi.com##._0_image_item[data-host_url*="www.javaer101.com"]
 kagi.com##._0_image_item[data-host_url*="www.javafixing.com"]
+kagi.com##._0_image_item[data-host_url*="www.kutombawewe.net"]
 kagi.com##._0_image_item[data-host_url*="www.linuxfixes.com"]
 kagi.com##._0_image_item[data-host_url*="www.mejorcodigo.com"]
 kagi.com##._0_image_item[data-host_url*="www.nuomiphp.com"]
@@ -5382,6 +5417,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="devpick.io"])
 kagi.com##.search-result:has(a.__sri-url[href*="devqanda.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devsfeed.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devtip.in"])
+kagi.com##.search-result:has(a.__sri-url[href*="dewiki.de"])
 kagi.com##.search-result:has(a.__sri-url[href*="digitrain.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="dirask.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="dizzycoding.com"])
@@ -5443,6 +5479,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="flvrclothing.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fmihm.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="folkstalk.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fooobar.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="forumming.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="frameboxxindore.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="frwiki.wiki"])
 kagi.com##.search-result:has(a.__sri-url[href*="fullstack.cafe"])
@@ -5571,6 +5608,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="kausalvikash.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="knews.vip"])
 kagi.com##.search-result:has(a.__sri-url[href*="kompsekret.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="kotaeta.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="kutombawewe.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="laravelquestions.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="learn-codes.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="learnfk.com"])
@@ -5678,6 +5716,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="pythonlang.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="pythonmana.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="pythonrepo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="pythonshowcase.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="pythontechworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="pythonwd.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="qa-help.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="qa-stack.pl"])
@@ -5922,6 +5961,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.it"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.itranslater.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.javaer101.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.javafixing.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="www.kutombawewe.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.linuxfixes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.nuomiphp.com"])
@@ -6126,6 +6166,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="devpick.io"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devqanda.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devsfeed.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devtip.in"])
+kagi.com##.sri-group:has(a.__sri-url[href*="dewiki.de"])
 kagi.com##.sri-group:has(a.__sri-url[href*="digitrain.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="dirask.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="dizzycoding.com"])
@@ -6187,6 +6228,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="flvrclothing.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fmihm.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="folkstalk.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fooobar.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="forumming.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="frameboxxindore.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="frwiki.wiki"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fullstack.cafe"])
@@ -6315,6 +6357,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="kausalvikash.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="knews.vip"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kompsekret.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kotaeta.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="kutombawewe.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="laravelquestions.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="learn-codes.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="learnfk.com"])
@@ -6422,6 +6465,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="pythonlang.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pythonmana.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pythonrepo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pythonshowcase.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="pythontechworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pythonwd.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qa-help.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qa-stack.pl"])
@@ -6666,6 +6710,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.it"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.itranslater.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.javaer101.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.javafixing.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="www.kutombawewe.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.linuxfixes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.nuomiphp.com"])
@@ -6870,6 +6915,7 @@ searx.lan###main_results .result:has(a[href*="devpick.io"])
 searx.lan###main_results .result:has(a[href*="devqanda.com"])
 searx.lan###main_results .result:has(a[href*="devsfeed.com"])
 searx.lan###main_results .result:has(a[href*="devtip.in"])
+searx.lan###main_results .result:has(a[href*="dewiki.de"])
 searx.lan###main_results .result:has(a[href*="digitrain.ru"])
 searx.lan###main_results .result:has(a[href*="dirask.com"])
 searx.lan###main_results .result:has(a[href*="dizzycoding.com"])
@@ -6931,6 +6977,7 @@ searx.lan###main_results .result:has(a[href*="flvrclothing.com"])
 searx.lan###main_results .result:has(a[href*="fmihm.org"])
 searx.lan###main_results .result:has(a[href*="folkstalk.com"])
 searx.lan###main_results .result:has(a[href*="fooobar.com"])
+searx.lan###main_results .result:has(a[href*="forumming.com"])
 searx.lan###main_results .result:has(a[href*="frameboxxindore.com"])
 searx.lan###main_results .result:has(a[href*="frwiki.wiki"])
 searx.lan###main_results .result:has(a[href*="fullstack.cafe"])
@@ -7059,6 +7106,7 @@ searx.lan###main_results .result:has(a[href*="kausalvikash.in"])
 searx.lan###main_results .result:has(a[href*="knews.vip"])
 searx.lan###main_results .result:has(a[href*="kompsekret.ru"])
 searx.lan###main_results .result:has(a[href*="kotaeta.com"])
+searx.lan###main_results .result:has(a[href*="kutombawewe.net"])
 searx.lan###main_results .result:has(a[href*="laravelquestions.com"])
 searx.lan###main_results .result:has(a[href*="learn-codes.net"])
 searx.lan###main_results .result:has(a[href*="learnfk.com"])
@@ -7166,6 +7214,7 @@ searx.lan###main_results .result:has(a[href*="pythonlang.dev"])
 searx.lan###main_results .result:has(a[href*="pythonmana.com"])
 searx.lan###main_results .result:has(a[href*="pythonrepo.com"])
 searx.lan###main_results .result:has(a[href*="pythonshowcase.com"])
+searx.lan###main_results .result:has(a[href*="pythontechworld.com"])
 searx.lan###main_results .result:has(a[href*="pythonwd.com"])
 searx.lan###main_results .result:has(a[href*="qa-help.ru"])
 searx.lan###main_results .result:has(a[href*="qa-stack.pl"])
@@ -7410,6 +7459,7 @@ searx.lan###main_results .result:has(a[href*="www.it"])
 searx.lan###main_results .result:has(a[href*="www.itranslater.com"])
 searx.lan###main_results .result:has(a[href*="www.javaer101.com"])
 searx.lan###main_results .result:has(a[href*="www.javafixing.com"])
+searx.lan###main_results .result:has(a[href*="www.kutombawewe.net"])
 searx.lan###main_results .result:has(a[href*="www.linuxfixes.com"])
 searx.lan###main_results .result:has(a[href*="www.mejorcodigo.com"])
 searx.lan###main_results .result:has(a[href*="www.nuomiphp.com"])
@@ -7614,6 +7664,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(devpic
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devqanda.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devsfeed.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devtip.in))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(dewiki.de))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(digitrain.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(dirask.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(dizzycoding.com))
@@ -7675,6 +7726,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(flvrcl
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fmihm.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(folkstalk.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fooobar.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(forumming.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(frameboxxindore.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(frwiki.wiki))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fullstack.cafe))
@@ -7803,6 +7855,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(kausal
 startpage.com##.image-container:has(div.image-quick-details span:has-text(knews.vip))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kompsekret.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kotaeta.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(kutombawewe.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(laravelquestions.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(learn-codes.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(learnfk.com))
@@ -7910,6 +7963,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(python
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pythonmana.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pythonrepo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pythonshowcase.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(pythontechworld.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pythonwd.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qa-help.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qa-stack.pl))
@@ -8154,6 +8208,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.it
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.itranslater.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.javaer101.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.javafixing.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(www.kutombawewe.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.linuxfixes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.mejorcodigo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.nuomiphp.com))
@@ -8358,6 +8413,7 @@ startpage.com##.w-gl__result:has(a[href*="devpick.io"])
 startpage.com##.w-gl__result:has(a[href*="devqanda.com"])
 startpage.com##.w-gl__result:has(a[href*="devsfeed.com"])
 startpage.com##.w-gl__result:has(a[href*="devtip.in"])
+startpage.com##.w-gl__result:has(a[href*="dewiki.de"])
 startpage.com##.w-gl__result:has(a[href*="digitrain.ru"])
 startpage.com##.w-gl__result:has(a[href*="dirask.com"])
 startpage.com##.w-gl__result:has(a[href*="dizzycoding.com"])
@@ -8419,6 +8475,7 @@ startpage.com##.w-gl__result:has(a[href*="flvrclothing.com"])
 startpage.com##.w-gl__result:has(a[href*="fmihm.org"])
 startpage.com##.w-gl__result:has(a[href*="folkstalk.com"])
 startpage.com##.w-gl__result:has(a[href*="fooobar.com"])
+startpage.com##.w-gl__result:has(a[href*="forumming.com"])
 startpage.com##.w-gl__result:has(a[href*="frameboxxindore.com"])
 startpage.com##.w-gl__result:has(a[href*="frwiki.wiki"])
 startpage.com##.w-gl__result:has(a[href*="fullstack.cafe"])
@@ -8547,6 +8604,7 @@ startpage.com##.w-gl__result:has(a[href*="kausalvikash.in"])
 startpage.com##.w-gl__result:has(a[href*="knews.vip"])
 startpage.com##.w-gl__result:has(a[href*="kompsekret.ru"])
 startpage.com##.w-gl__result:has(a[href*="kotaeta.com"])
+startpage.com##.w-gl__result:has(a[href*="kutombawewe.net"])
 startpage.com##.w-gl__result:has(a[href*="laravelquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="learn-codes.net"])
 startpage.com##.w-gl__result:has(a[href*="learnfk.com"])
@@ -8654,6 +8712,7 @@ startpage.com##.w-gl__result:has(a[href*="pythonlang.dev"])
 startpage.com##.w-gl__result:has(a[href*="pythonmana.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonshowcase.com"])
+startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonwd.com"])
 startpage.com##.w-gl__result:has(a[href*="qa-help.ru"])
 startpage.com##.w-gl__result:has(a[href*="qa-stack.pl"])
@@ -8898,6 +8957,7 @@ startpage.com##.w-gl__result:has(a[href*="www.it"])
 startpage.com##.w-gl__result:has(a[href*="www.itranslater.com"])
 startpage.com##.w-gl__result:has(a[href*="www.javaer101.com"])
 startpage.com##.w-gl__result:has(a[href*="www.javafixing.com"])
+startpage.com##.w-gl__result:has(a[href*="www.kutombawewe.net"])
 startpage.com##.w-gl__result:has(a[href*="www.linuxfixes.com"])
 startpage.com##.w-gl__result:has(a[href*="www.mejorcodigo.com"])
 startpage.com##.w-gl__result:has(a[href*="www.nuomiphp.com"])
