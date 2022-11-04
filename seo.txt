@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-10-30 04:06:29 UTC
+! Generated: 2022-11-04 09:35:30 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -379,6 +379,7 @@
 ||linuxfixes.com$all
 ||livepcwiki.ru$all
 ||living-sun.com$all
+||lmlphp.com$all
 ||localcoder.org$all
 ||lowongan.live$all
 ||lycaeum.dev$all
@@ -458,6 +459,7 @@
 ||projectbackpack.org$all
 ||proubuntu.ru$all
 ||pullanswer.com$all
+||pullrequest.ru$all
 ||py4u.net$all
 ||py4u.org$all
 ||pyquestions.com$all
@@ -1128,6 +1130,7 @@ bing.com###b_content a[href*="likecs.com"]:upward(li)
 bing.com###b_content a[href*="linuxfixes.com"]:upward(li)
 bing.com###b_content a[href*="livepcwiki.ru"]:upward(li)
 bing.com###b_content a[href*="living-sun.com"]:upward(li)
+bing.com###b_content a[href*="lmlphp.com"]:upward(li)
 bing.com###b_content a[href*="localcoder.org"]:upward(li)
 bing.com###b_content a[href*="lowongan.live"]:upward(li)
 bing.com###b_content a[href*="lycaeum.dev"]:upward(li)
@@ -1207,6 +1210,7 @@ bing.com###b_content a[href*="programming-articles.com"]:upward(li)
 bing.com###b_content a[href*="projectbackpack.org"]:upward(li)
 bing.com###b_content a[href*="proubuntu.ru"]:upward(li)
 bing.com###b_content a[href*="pullanswer.com"]:upward(li)
+bing.com###b_content a[href*="pullrequest.ru"]:upward(li)
 bing.com###b_content a[href*="py4u.net"]:upward(li)
 bing.com###b_content a[href*="py4u.org"]:upward(li)
 bing.com###b_content a[href*="pyquestions.com"]:upward(li)
@@ -1877,6 +1881,7 @@ duckduckgo.com##.tile-wrap a[href*="likecs.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="linuxfixes.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="livepcwiki.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="living-sun.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="lmlphp.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="localcoder.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="lowongan.live"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="lycaeum.dev"]:upward(.tile)
@@ -1956,6 +1961,7 @@ duckduckgo.com##.tile-wrap a[href*="programming-articles.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="projectbackpack.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="proubuntu.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pullanswer.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="pullrequest.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="py4u.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="py4u.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pyquestions.com"]:upward(.tile)
@@ -2626,6 +2632,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="likecs.com"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="linuxfixes.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="livepcwiki.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="living-sun.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="lmlphp.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="localcoder.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="lowongan.live"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="lycaeum.dev"]:upward(.nrn-react-div)
@@ -2705,6 +2712,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="programming-articles.com"
 duckduckgo.com##a[data-testid="result-title-a"][href*="projectbackpack.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="proubuntu.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pullanswer.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="pullrequest.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="py4u.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="py4u.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pyquestions.com"]:upward(.nrn-react-div)
@@ -3375,6 +3383,7 @@ google.*##.g:has(a[href*="likecs.com"])
 google.*##.g:has(a[href*="linuxfixes.com"])
 google.*##.g:has(a[href*="livepcwiki.ru"])
 google.*##.g:has(a[href*="living-sun.com"])
+google.*##.g:has(a[href*="lmlphp.com"])
 google.*##.g:has(a[href*="localcoder.org"])
 google.*##.g:has(a[href*="lowongan.live"])
 google.*##.g:has(a[href*="lycaeum.dev"])
@@ -3454,6 +3463,7 @@ google.*##.g:has(a[href*="programming-articles.com"])
 google.*##.g:has(a[href*="projectbackpack.org"])
 google.*##.g:has(a[href*="proubuntu.ru"])
 google.*##.g:has(a[href*="pullanswer.com"])
+google.*##.g:has(a[href*="pullrequest.ru"])
 google.*##.g:has(a[href*="py4u.net"])
 google.*##.g:has(a[href*="py4u.org"])
 google.*##.g:has(a[href*="pyquestions.com"])
@@ -4124,6 +4134,7 @@ google.*##a[href*="likecs.com"]:upward(1)
 google.*##a[href*="linuxfixes.com"]:upward(1)
 google.*##a[href*="livepcwiki.ru"]:upward(1)
 google.*##a[href*="living-sun.com"]:upward(1)
+google.*##a[href*="lmlphp.com"]:upward(1)
 google.*##a[href*="localcoder.org"]:upward(1)
 google.*##a[href*="lowongan.live"]:upward(1)
 google.*##a[href*="lycaeum.dev"]:upward(1)
@@ -4203,6 +4214,7 @@ google.*##a[href*="programming-articles.com"]:upward(1)
 google.*##a[href*="projectbackpack.org"]:upward(1)
 google.*##a[href*="proubuntu.ru"]:upward(1)
 google.*##a[href*="pullanswer.com"]:upward(1)
+google.*##a[href*="pullrequest.ru"]:upward(1)
 google.*##a[href*="py4u.net"]:upward(1)
 google.*##a[href*="py4u.org"]:upward(1)
 google.*##a[href*="pyquestions.com"]:upward(1)
@@ -4873,6 +4885,7 @@ kagi.com##._0_image_item[data-host_url*="likecs.com"]
 kagi.com##._0_image_item[data-host_url*="linuxfixes.com"]
 kagi.com##._0_image_item[data-host_url*="livepcwiki.ru"]
 kagi.com##._0_image_item[data-host_url*="living-sun.com"]
+kagi.com##._0_image_item[data-host_url*="lmlphp.com"]
 kagi.com##._0_image_item[data-host_url*="localcoder.org"]
 kagi.com##._0_image_item[data-host_url*="lowongan.live"]
 kagi.com##._0_image_item[data-host_url*="lycaeum.dev"]
@@ -4952,6 +4965,7 @@ kagi.com##._0_image_item[data-host_url*="programming-articles.com"]
 kagi.com##._0_image_item[data-host_url*="projectbackpack.org"]
 kagi.com##._0_image_item[data-host_url*="proubuntu.ru"]
 kagi.com##._0_image_item[data-host_url*="pullanswer.com"]
+kagi.com##._0_image_item[data-host_url*="pullrequest.ru"]
 kagi.com##._0_image_item[data-host_url*="py4u.net"]
 kagi.com##._0_image_item[data-host_url*="py4u.org"]
 kagi.com##._0_image_item[data-host_url*="pyquestions.com"]
@@ -5622,6 +5636,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="likecs.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="linuxfixes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="livepcwiki.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="living-sun.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="lmlphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="localcoder.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="lowongan.live"])
 kagi.com##.search-result:has(a.__sri-url[href*="lycaeum.dev"])
@@ -5701,6 +5716,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="programming-articles.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="projectbackpack.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="proubuntu.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="pullanswer.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="pullrequest.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="py4u.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="py4u.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="pyquestions.com"])
@@ -6371,6 +6387,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="likecs.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="linuxfixes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="livepcwiki.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="living-sun.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="lmlphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="localcoder.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="lowongan.live"])
 kagi.com##.sri-group:has(a.__sri-url[href*="lycaeum.dev"])
@@ -6450,6 +6467,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="programming-articles.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="projectbackpack.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="proubuntu.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pullanswer.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="pullrequest.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="py4u.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="py4u.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pyquestions.com"])
@@ -7120,6 +7138,7 @@ searx.lan###main_results .result:has(a[href*="likecs.com"])
 searx.lan###main_results .result:has(a[href*="linuxfixes.com"])
 searx.lan###main_results .result:has(a[href*="livepcwiki.ru"])
 searx.lan###main_results .result:has(a[href*="living-sun.com"])
+searx.lan###main_results .result:has(a[href*="lmlphp.com"])
 searx.lan###main_results .result:has(a[href*="localcoder.org"])
 searx.lan###main_results .result:has(a[href*="lowongan.live"])
 searx.lan###main_results .result:has(a[href*="lycaeum.dev"])
@@ -7199,6 +7218,7 @@ searx.lan###main_results .result:has(a[href*="programming-articles.com"])
 searx.lan###main_results .result:has(a[href*="projectbackpack.org"])
 searx.lan###main_results .result:has(a[href*="proubuntu.ru"])
 searx.lan###main_results .result:has(a[href*="pullanswer.com"])
+searx.lan###main_results .result:has(a[href*="pullrequest.ru"])
 searx.lan###main_results .result:has(a[href*="py4u.net"])
 searx.lan###main_results .result:has(a[href*="py4u.org"])
 searx.lan###main_results .result:has(a[href*="pyquestions.com"])
@@ -7869,6 +7889,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(likecs
 startpage.com##.image-container:has(div.image-quick-details span:has-text(linuxfixes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(livepcwiki.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(living-sun.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(lmlphp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(localcoder.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(lowongan.live))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(lycaeum.dev))
@@ -7948,6 +7969,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(progra
 startpage.com##.image-container:has(div.image-quick-details span:has-text(projectbackpack.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(proubuntu.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pullanswer.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(pullrequest.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(py4u.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(py4u.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pyquestions.com))
@@ -8618,6 +8640,7 @@ startpage.com##.w-gl__result:has(a[href*="likecs.com"])
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
 startpage.com##.w-gl__result:has(a[href*="livepcwiki.ru"])
 startpage.com##.w-gl__result:has(a[href*="living-sun.com"])
+startpage.com##.w-gl__result:has(a[href*="lmlphp.com"])
 startpage.com##.w-gl__result:has(a[href*="localcoder.org"])
 startpage.com##.w-gl__result:has(a[href*="lowongan.live"])
 startpage.com##.w-gl__result:has(a[href*="lycaeum.dev"])
@@ -8697,6 +8720,7 @@ startpage.com##.w-gl__result:has(a[href*="programming-articles.com"])
 startpage.com##.w-gl__result:has(a[href*="projectbackpack.org"])
 startpage.com##.w-gl__result:has(a[href*="proubuntu.ru"])
 startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
+startpage.com##.w-gl__result:has(a[href*="pullrequest.ru"])
 startpage.com##.w-gl__result:has(a[href*="py4u.net"])
 startpage.com##.w-gl__result:has(a[href*="py4u.org"])
 startpage.com##.w-gl__result:has(a[href*="pyquestions.com"])
