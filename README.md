@@ -1,6 +1,6 @@
 # Blocklists
 
-Additional blocklists for [uBlock Origin](https://github.com/gorhill/uBlock) with the goal of improving the web browsing experience by using advanced blocking techniques.
+Improving my web experience with blocklists for [uBlock Origin](https://github.com/gorhill/uBlock).
 
 ## Lists
 
