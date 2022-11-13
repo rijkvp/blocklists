@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-11-06 03:47:33 UTC
+! Generated: 2022-11-13 03:53:48 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -40,7 +40,6 @@
 ||antwortenhier.me$all
 ||anyabs.com$all
 ||anycodings.com$all
-||ape-ask.com$all
 ||appsloveworld.com$all
 ||arip-photo.org$all
 ||article.docway.net$all
@@ -116,7 +115,6 @@
 ||codejzy.com$all
 ||codengineering.ru$all
 ||codenong.com$all
-||coder-solution-es.com$all
 ||coder-solution-jp.com$all
 ||coder-solution-ru.com$all
 ||coder.gay$all
@@ -717,7 +715,6 @@
 ||www.gitmemory.com$all
 ||www.higithub.com$all
 ||www.it$all
-||www.itranslater.com$all
 ||www.javaer101.com$all
 ||www.javafixing.com$all
 ||www.kutombawewe.net$all
@@ -727,12 +724,10 @@
 ||www.querythreads.com$all
 ||www.semicolonworld.com$all
 ||www.stackfinder.ru$all
-||www.stackubuntu.com$all
 ||www.thecodeteacher.com$all
 ||www.wake$all
 ||www.web$all
 ||www.wenyanet.com$all
-||www.xsprogram.com$all
 ||wyzant.com$all
 ||xiu2.net$all
 ||xsprogram.com$all
@@ -791,7 +786,6 @@ bing.com###b_content a[href*="antworten.top"]:upward(li)
 bing.com###b_content a[href*="antwortenhier.me"]:upward(li)
 bing.com###b_content a[href*="anyabs.com"]:upward(li)
 bing.com###b_content a[href*="anycodings.com"]:upward(li)
-bing.com###b_content a[href*="ape-ask.com"]:upward(li)
 bing.com###b_content a[href*="appsloveworld.com"]:upward(li)
 bing.com###b_content a[href*="arip-photo.org"]:upward(li)
 bing.com###b_content a[href*="article.docway.net"]:upward(li)
@@ -867,7 +861,6 @@ bing.com###b_content a[href*="codeindex.ru"]:upward(li)
 bing.com###b_content a[href*="codejzy.com"]:upward(li)
 bing.com###b_content a[href*="codengineering.ru"]:upward(li)
 bing.com###b_content a[href*="codenong.com"]:upward(li)
-bing.com###b_content a[href*="coder-solution-es.com"]:upward(li)
 bing.com###b_content a[href*="coder-solution-jp.com"]:upward(li)
 bing.com###b_content a[href*="coder-solution-ru.com"]:upward(li)
 bing.com###b_content a[href*="coder.gay"]:upward(li)
@@ -1468,7 +1461,6 @@ bing.com###b_content a[href*="www.giters.com"]:upward(li)
 bing.com###b_content a[href*="www.gitmemory.com"]:upward(li)
 bing.com###b_content a[href*="www.higithub.com"]:upward(li)
 bing.com###b_content a[href*="www.it"]:upward(li)
-bing.com###b_content a[href*="www.itranslater.com"]:upward(li)
 bing.com###b_content a[href*="www.javaer101.com"]:upward(li)
 bing.com###b_content a[href*="www.javafixing.com"]:upward(li)
 bing.com###b_content a[href*="www.kutombawewe.net"]:upward(li)
@@ -1478,12 +1470,10 @@ bing.com###b_content a[href*="www.nuomiphp.com"]:upward(li)
 bing.com###b_content a[href*="www.querythreads.com"]:upward(li)
 bing.com###b_content a[href*="www.semicolonworld.com"]:upward(li)
 bing.com###b_content a[href*="www.stackfinder.ru"]:upward(li)
-bing.com###b_content a[href*="www.stackubuntu.com"]:upward(li)
 bing.com###b_content a[href*="www.thecodeteacher.com"]:upward(li)
 bing.com###b_content a[href*="www.wake"]:upward(li)
 bing.com###b_content a[href*="www.web"]:upward(li)
 bing.com###b_content a[href*="www.wenyanet.com"]:upward(li)
-bing.com###b_content a[href*="www.xsprogram.com"]:upward(li)
 bing.com###b_content a[href*="wyzant.com"]:upward(li)
 bing.com###b_content a[href*="xiu2.net"]:upward(li)
 bing.com###b_content a[href*="xsprogram.com"]:upward(li)
@@ -1542,7 +1532,6 @@ duckduckgo.com##.tile-wrap a[href*="antworten.top"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="antwortenhier.me"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="anyabs.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="anycodings.com"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="ape-ask.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="appsloveworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="arip-photo.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="article.docway.net"]:upward(.tile)
@@ -1618,7 +1607,6 @@ duckduckgo.com##.tile-wrap a[href*="codeindex.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codejzy.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codengineering.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codenong.com"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="coder-solution-es.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder-solution-jp.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder-solution-ru.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coder.gay"]:upward(.tile)
@@ -2219,7 +2207,6 @@ duckduckgo.com##.tile-wrap a[href*="www.giters.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.gitmemory.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.higithub.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.it"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.itranslater.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.javaer101.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.javafixing.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.kutombawewe.net"]:upward(.tile)
@@ -2229,12 +2216,10 @@ duckduckgo.com##.tile-wrap a[href*="www.nuomiphp.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.querythreads.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.semicolonworld.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.stackfinder.ru"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.stackubuntu.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.thecodeteacher.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.wake"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.web"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="www.wenyanet.com"]:upward(.tile)
-duckduckgo.com##.tile-wrap a[href*="www.xsprogram.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wyzant.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="xiu2.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="xsprogram.com"]:upward(.tile)
@@ -2293,7 +2278,6 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="antworten.top"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="antwortenhier.me"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="anyabs.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="anycodings.com"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="ape-ask.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="appsloveworld.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="arip-photo.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="article.docway.net"]:upward(.nrn-react-div)
@@ -2369,7 +2353,6 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="codeindex.ru"]:upward(.nr
 duckduckgo.com##a[data-testid="result-title-a"][href*="codejzy.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codengineering.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codenong.com"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="coder-solution-es.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder-solution-jp.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder-solution-ru.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coder.gay"]:upward(.nrn-react-div)
@@ -2970,7 +2953,6 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.giters.com"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.gitmemory.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.higithub.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.it"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.itranslater.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.javaer101.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.javafixing.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.kutombawewe.net"]:upward(.nrn-react-div)
@@ -2980,12 +2962,10 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="www.nuomiphp.com"]:upward
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.querythreads.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.semicolonworld.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackfinder.ru"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.stackubuntu.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.thecodeteacher.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.wake"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.web"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="www.wenyanet.com"]:upward(.nrn-react-div)
-duckduckgo.com##a[data-testid="result-title-a"][href*="www.xsprogram.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wyzant.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="xiu2.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="xsprogram.com"]:upward(.nrn-react-div)
@@ -3044,7 +3024,6 @@ google.*##.g:has(a[href*="antworten.top"])
 google.*##.g:has(a[href*="antwortenhier.me"])
 google.*##.g:has(a[href*="anyabs.com"])
 google.*##.g:has(a[href*="anycodings.com"])
-google.*##.g:has(a[href*="ape-ask.com"])
 google.*##.g:has(a[href*="appsloveworld.com"])
 google.*##.g:has(a[href*="arip-photo.org"])
 google.*##.g:has(a[href*="article.docway.net"])
@@ -3120,7 +3099,6 @@ google.*##.g:has(a[href*="codeindex.ru"])
 google.*##.g:has(a[href*="codejzy.com"])
 google.*##.g:has(a[href*="codengineering.ru"])
 google.*##.g:has(a[href*="codenong.com"])
-google.*##.g:has(a[href*="coder-solution-es.com"])
 google.*##.g:has(a[href*="coder-solution-jp.com"])
 google.*##.g:has(a[href*="coder-solution-ru.com"])
 google.*##.g:has(a[href*="coder.gay"])
@@ -3721,7 +3699,6 @@ google.*##.g:has(a[href*="www.giters.com"])
 google.*##.g:has(a[href*="www.gitmemory.com"])
 google.*##.g:has(a[href*="www.higithub.com"])
 google.*##.g:has(a[href*="www.it"])
-google.*##.g:has(a[href*="www.itranslater.com"])
 google.*##.g:has(a[href*="www.javaer101.com"])
 google.*##.g:has(a[href*="www.javafixing.com"])
 google.*##.g:has(a[href*="www.kutombawewe.net"])
@@ -3731,12 +3708,10 @@ google.*##.g:has(a[href*="www.nuomiphp.com"])
 google.*##.g:has(a[href*="www.querythreads.com"])
 google.*##.g:has(a[href*="www.semicolonworld.com"])
 google.*##.g:has(a[href*="www.stackfinder.ru"])
-google.*##.g:has(a[href*="www.stackubuntu.com"])
 google.*##.g:has(a[href*="www.thecodeteacher.com"])
 google.*##.g:has(a[href*="www.wake"])
 google.*##.g:has(a[href*="www.web"])
 google.*##.g:has(a[href*="www.wenyanet.com"])
-google.*##.g:has(a[href*="www.xsprogram.com"])
 google.*##.g:has(a[href*="wyzant.com"])
 google.*##.g:has(a[href*="xiu2.net"])
 google.*##.g:has(a[href*="xsprogram.com"])
@@ -3795,7 +3770,6 @@ google.*##a[href*="antworten.top"]:upward(1)
 google.*##a[href*="antwortenhier.me"]:upward(1)
 google.*##a[href*="anyabs.com"]:upward(1)
 google.*##a[href*="anycodings.com"]:upward(1)
-google.*##a[href*="ape-ask.com"]:upward(1)
 google.*##a[href*="appsloveworld.com"]:upward(1)
 google.*##a[href*="arip-photo.org"]:upward(1)
 google.*##a[href*="article.docway.net"]:upward(1)
@@ -3871,7 +3845,6 @@ google.*##a[href*="codeindex.ru"]:upward(1)
 google.*##a[href*="codejzy.com"]:upward(1)
 google.*##a[href*="codengineering.ru"]:upward(1)
 google.*##a[href*="codenong.com"]:upward(1)
-google.*##a[href*="coder-solution-es.com"]:upward(1)
 google.*##a[href*="coder-solution-jp.com"]:upward(1)
 google.*##a[href*="coder-solution-ru.com"]:upward(1)
 google.*##a[href*="coder.gay"]:upward(1)
@@ -4472,7 +4445,6 @@ google.*##a[href*="www.giters.com"]:upward(1)
 google.*##a[href*="www.gitmemory.com"]:upward(1)
 google.*##a[href*="www.higithub.com"]:upward(1)
 google.*##a[href*="www.it"]:upward(1)
-google.*##a[href*="www.itranslater.com"]:upward(1)
 google.*##a[href*="www.javaer101.com"]:upward(1)
 google.*##a[href*="www.javafixing.com"]:upward(1)
 google.*##a[href*="www.kutombawewe.net"]:upward(1)
@@ -4482,12 +4454,10 @@ google.*##a[href*="www.nuomiphp.com"]:upward(1)
 google.*##a[href*="www.querythreads.com"]:upward(1)
 google.*##a[href*="www.semicolonworld.com"]:upward(1)
 google.*##a[href*="www.stackfinder.ru"]:upward(1)
-google.*##a[href*="www.stackubuntu.com"]:upward(1)
 google.*##a[href*="www.thecodeteacher.com"]:upward(1)
 google.*##a[href*="www.wake"]:upward(1)
 google.*##a[href*="www.web"]:upward(1)
 google.*##a[href*="www.wenyanet.com"]:upward(1)
-google.*##a[href*="www.xsprogram.com"]:upward(1)
 google.*##a[href*="wyzant.com"]:upward(1)
 google.*##a[href*="xiu2.net"]:upward(1)
 google.*##a[href*="xsprogram.com"]:upward(1)
@@ -4546,7 +4516,6 @@ kagi.com##._0_image_item[data-host_url*="antworten.top"]
 kagi.com##._0_image_item[data-host_url*="antwortenhier.me"]
 kagi.com##._0_image_item[data-host_url*="anyabs.com"]
 kagi.com##._0_image_item[data-host_url*="anycodings.com"]
-kagi.com##._0_image_item[data-host_url*="ape-ask.com"]
 kagi.com##._0_image_item[data-host_url*="appsloveworld.com"]
 kagi.com##._0_image_item[data-host_url*="arip-photo.org"]
 kagi.com##._0_image_item[data-host_url*="article.docway.net"]
@@ -4622,7 +4591,6 @@ kagi.com##._0_image_item[data-host_url*="codeindex.ru"]
 kagi.com##._0_image_item[data-host_url*="codejzy.com"]
 kagi.com##._0_image_item[data-host_url*="codengineering.ru"]
 kagi.com##._0_image_item[data-host_url*="codenong.com"]
-kagi.com##._0_image_item[data-host_url*="coder-solution-es.com"]
 kagi.com##._0_image_item[data-host_url*="coder-solution-jp.com"]
 kagi.com##._0_image_item[data-host_url*="coder-solution-ru.com"]
 kagi.com##._0_image_item[data-host_url*="coder.gay"]
@@ -5223,7 +5191,6 @@ kagi.com##._0_image_item[data-host_url*="www.giters.com"]
 kagi.com##._0_image_item[data-host_url*="www.gitmemory.com"]
 kagi.com##._0_image_item[data-host_url*="www.higithub.com"]
 kagi.com##._0_image_item[data-host_url*="www.it"]
-kagi.com##._0_image_item[data-host_url*="www.itranslater.com"]
 kagi.com##._0_image_item[data-host_url*="www.javaer101.com"]
 kagi.com##._0_image_item[data-host_url*="www.javafixing.com"]
 kagi.com##._0_image_item[data-host_url*="www.kutombawewe.net"]
@@ -5233,12 +5200,10 @@ kagi.com##._0_image_item[data-host_url*="www.nuomiphp.com"]
 kagi.com##._0_image_item[data-host_url*="www.querythreads.com"]
 kagi.com##._0_image_item[data-host_url*="www.semicolonworld.com"]
 kagi.com##._0_image_item[data-host_url*="www.stackfinder.ru"]
-kagi.com##._0_image_item[data-host_url*="www.stackubuntu.com"]
 kagi.com##._0_image_item[data-host_url*="www.thecodeteacher.com"]
 kagi.com##._0_image_item[data-host_url*="www.wake"]
 kagi.com##._0_image_item[data-host_url*="www.web"]
 kagi.com##._0_image_item[data-host_url*="www.wenyanet.com"]
-kagi.com##._0_image_item[data-host_url*="www.xsprogram.com"]
 kagi.com##._0_image_item[data-host_url*="wyzant.com"]
 kagi.com##._0_image_item[data-host_url*="xiu2.net"]
 kagi.com##._0_image_item[data-host_url*="xsprogram.com"]
@@ -5297,7 +5262,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="antworten.top"])
 kagi.com##.search-result:has(a.__sri-url[href*="antwortenhier.me"])
 kagi.com##.search-result:has(a.__sri-url[href*="anyabs.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="anycodings.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="ape-ask.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="appsloveworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="arip-photo.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="article.docway.net"])
@@ -5373,7 +5337,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="codeindex.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="codejzy.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codengineering.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="codenong.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="coder-solution-es.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder-solution-jp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder-solution-ru.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder.gay"])
@@ -5974,7 +5937,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.giters.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.gitmemory.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.higithub.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.it"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.itranslater.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.javaer101.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.javafixing.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.kutombawewe.net"])
@@ -5984,12 +5946,10 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.nuomiphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.stackfinder.ru"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.stackubuntu.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.thecodeteacher.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.wake"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.web"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.wenyanet.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="www.xsprogram.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="wyzant.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="xiu2.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="xsprogram.com"])
@@ -6048,7 +6008,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="antworten.top"])
 kagi.com##.sri-group:has(a.__sri-url[href*="antwortenhier.me"])
 kagi.com##.sri-group:has(a.__sri-url[href*="anyabs.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="anycodings.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="ape-ask.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="appsloveworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="arip-photo.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="article.docway.net"])
@@ -6124,7 +6083,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="codeindex.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codejzy.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codengineering.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codenong.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="coder-solution-es.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder-solution-jp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder-solution-ru.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder.gay"])
@@ -6725,7 +6683,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.giters.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.gitmemory.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.higithub.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.it"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.itranslater.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.javaer101.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.javafixing.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.kutombawewe.net"])
@@ -6735,12 +6692,10 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.nuomiphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.semicolonworld.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.stackfinder.ru"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.stackubuntu.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.thecodeteacher.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.wake"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.web"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.wenyanet.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="www.xsprogram.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wyzant.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="xiu2.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="xsprogram.com"])
@@ -6799,7 +6754,6 @@ searx.lan###main_results .result:has(a[href*="antworten.top"])
 searx.lan###main_results .result:has(a[href*="antwortenhier.me"])
 searx.lan###main_results .result:has(a[href*="anyabs.com"])
 searx.lan###main_results .result:has(a[href*="anycodings.com"])
-searx.lan###main_results .result:has(a[href*="ape-ask.com"])
 searx.lan###main_results .result:has(a[href*="appsloveworld.com"])
 searx.lan###main_results .result:has(a[href*="arip-photo.org"])
 searx.lan###main_results .result:has(a[href*="article.docway.net"])
@@ -6875,7 +6829,6 @@ searx.lan###main_results .result:has(a[href*="codeindex.ru"])
 searx.lan###main_results .result:has(a[href*="codejzy.com"])
 searx.lan###main_results .result:has(a[href*="codengineering.ru"])
 searx.lan###main_results .result:has(a[href*="codenong.com"])
-searx.lan###main_results .result:has(a[href*="coder-solution-es.com"])
 searx.lan###main_results .result:has(a[href*="coder-solution-jp.com"])
 searx.lan###main_results .result:has(a[href*="coder-solution-ru.com"])
 searx.lan###main_results .result:has(a[href*="coder.gay"])
@@ -7476,7 +7429,6 @@ searx.lan###main_results .result:has(a[href*="www.giters.com"])
 searx.lan###main_results .result:has(a[href*="www.gitmemory.com"])
 searx.lan###main_results .result:has(a[href*="www.higithub.com"])
 searx.lan###main_results .result:has(a[href*="www.it"])
-searx.lan###main_results .result:has(a[href*="www.itranslater.com"])
 searx.lan###main_results .result:has(a[href*="www.javaer101.com"])
 searx.lan###main_results .result:has(a[href*="www.javafixing.com"])
 searx.lan###main_results .result:has(a[href*="www.kutombawewe.net"])
@@ -7486,12 +7438,10 @@ searx.lan###main_results .result:has(a[href*="www.nuomiphp.com"])
 searx.lan###main_results .result:has(a[href*="www.querythreads.com"])
 searx.lan###main_results .result:has(a[href*="www.semicolonworld.com"])
 searx.lan###main_results .result:has(a[href*="www.stackfinder.ru"])
-searx.lan###main_results .result:has(a[href*="www.stackubuntu.com"])
 searx.lan###main_results .result:has(a[href*="www.thecodeteacher.com"])
 searx.lan###main_results .result:has(a[href*="www.wake"])
 searx.lan###main_results .result:has(a[href*="www.web"])
 searx.lan###main_results .result:has(a[href*="www.wenyanet.com"])
-searx.lan###main_results .result:has(a[href*="www.xsprogram.com"])
 searx.lan###main_results .result:has(a[href*="wyzant.com"])
 searx.lan###main_results .result:has(a[href*="xiu2.net"])
 searx.lan###main_results .result:has(a[href*="xsprogram.com"])
@@ -7550,7 +7500,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(antwor
 startpage.com##.image-container:has(div.image-quick-details span:has-text(antwortenhier.me))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(anyabs.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(anycodings.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(ape-ask.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(appsloveworld.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(arip-photo.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(article.docway.net))
@@ -7626,7 +7575,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(codein
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codejzy.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codengineering.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codenong.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(coder-solution-es.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder-solution-jp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder-solution-ru.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder.gay))
@@ -8227,7 +8175,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.gi
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.gitmemory.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.higithub.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.it))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.itranslater.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.javaer101.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.javafixing.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.kutombawewe.net))
@@ -8237,12 +8184,10 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.nu
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.querythreads.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.semicolonworld.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackfinder.ru))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackubuntu.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.thecodeteacher.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.wake))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.web))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.wenyanet.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(www.xsprogram.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wyzant.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(xiu2.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(xsprogram.com))
@@ -8301,7 +8246,6 @@ startpage.com##.w-gl__result:has(a[href*="antworten.top"])
 startpage.com##.w-gl__result:has(a[href*="antwortenhier.me"])
 startpage.com##.w-gl__result:has(a[href*="anyabs.com"])
 startpage.com##.w-gl__result:has(a[href*="anycodings.com"])
-startpage.com##.w-gl__result:has(a[href*="ape-ask.com"])
 startpage.com##.w-gl__result:has(a[href*="appsloveworld.com"])
 startpage.com##.w-gl__result:has(a[href*="arip-photo.org"])
 startpage.com##.w-gl__result:has(a[href*="article.docway.net"])
@@ -8377,7 +8321,6 @@ startpage.com##.w-gl__result:has(a[href*="codeindex.ru"])
 startpage.com##.w-gl__result:has(a[href*="codejzy.com"])
 startpage.com##.w-gl__result:has(a[href*="codengineering.ru"])
 startpage.com##.w-gl__result:has(a[href*="codenong.com"])
-startpage.com##.w-gl__result:has(a[href*="coder-solution-es.com"])
 startpage.com##.w-gl__result:has(a[href*="coder-solution-jp.com"])
 startpage.com##.w-gl__result:has(a[href*="coder-solution-ru.com"])
 startpage.com##.w-gl__result:has(a[href*="coder.gay"])
@@ -8978,7 +8921,6 @@ startpage.com##.w-gl__result:has(a[href*="www.giters.com"])
 startpage.com##.w-gl__result:has(a[href*="www.gitmemory.com"])
 startpage.com##.w-gl__result:has(a[href*="www.higithub.com"])
 startpage.com##.w-gl__result:has(a[href*="www.it"])
-startpage.com##.w-gl__result:has(a[href*="www.itranslater.com"])
 startpage.com##.w-gl__result:has(a[href*="www.javaer101.com"])
 startpage.com##.w-gl__result:has(a[href*="www.javafixing.com"])
 startpage.com##.w-gl__result:has(a[href*="www.kutombawewe.net"])
@@ -8988,12 +8930,10 @@ startpage.com##.w-gl__result:has(a[href*="www.nuomiphp.com"])
 startpage.com##.w-gl__result:has(a[href*="www.querythreads.com"])
 startpage.com##.w-gl__result:has(a[href*="www.semicolonworld.com"])
 startpage.com##.w-gl__result:has(a[href*="www.stackfinder.ru"])
-startpage.com##.w-gl__result:has(a[href*="www.stackubuntu.com"])
 startpage.com##.w-gl__result:has(a[href*="www.thecodeteacher.com"])
 startpage.com##.w-gl__result:has(a[href*="www.wake"])
 startpage.com##.w-gl__result:has(a[href*="www.web"])
 startpage.com##.w-gl__result:has(a[href*="www.wenyanet.com"])
-startpage.com##.w-gl__result:has(a[href*="www.xsprogram.com"])
 startpage.com##.w-gl__result:has(a[href*="wyzant.com"])
 startpage.com##.w-gl__result:has(a[href*="xiu2.net"])
 startpage.com##.w-gl__result:has(a[href*="xsprogram.com"])
