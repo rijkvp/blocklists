@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-11-20 03:44:09 UTC
+! Generated: 2022-11-27 03:38:22 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -75,6 +75,7 @@
 ||boolchr.com$all
 ||bootpanic.com$all
 ||boxhoidap.com$all
+||breadybready.blogspot.com$all
 ||brocante.dev$all
 ||buildwiki.ru$all
 ||buzzphp.com$all
@@ -441,6 +442,7 @@
 ||panaindustrial.com$all
 ||pcbconline.org$all
 ||peaku.co$all
+||pnpsummit.com$all
 ||poweruser.guru$all
 ||pretagteam.com$all
 ||proanswers.org$all
@@ -576,6 +578,7 @@
 ||stackovernet.com$all
 ||stackovernet.xyz$all
 ||stackoverrun.com$all
+||stackprinter.com$all
 ||stackqna.com$all
 ||stackru.com$all
 ||stackshare.io$all
@@ -657,6 +660,7 @@
 ||web-dev-qa-db-ja.com$all
 ||web-dev-qa-db-pt.com$all
 ||web-dev-qa.com$all
+||web.bluecomtech.com$all
 ||webdesigntips.blog$all
 ||webdevask.com$all
 ||webdevdesigner.com$all
@@ -819,6 +823,7 @@ bing.com###b_content a[href*="blogmepost.com"]:upward(li)
 bing.com###b_content a[href*="boolchr.com"]:upward(li)
 bing.com###b_content a[href*="bootpanic.com"]:upward(li)
 bing.com###b_content a[href*="boxhoidap.com"]:upward(li)
+bing.com###b_content a[href*="breadybready.blogspot.com"]:upward(li)
 bing.com###b_content a[href*="brocante.dev"]:upward(li)
 bing.com###b_content a[href*="buildwiki.ru"]:upward(li)
 bing.com###b_content a[href*="buzzphp.com"]:upward(li)
@@ -1185,6 +1190,7 @@ bing.com###b_content a[href*="pakostnici.com"]:upward(li)
 bing.com###b_content a[href*="panaindustrial.com"]:upward(li)
 bing.com###b_content a[href*="pcbconline.org"]:upward(li)
 bing.com###b_content a[href*="peaku.co"]:upward(li)
+bing.com###b_content a[href*="pnpsummit.com"]:upward(li)
 bing.com###b_content a[href*="poweruser.guru"]:upward(li)
 bing.com###b_content a[href*="pretagteam.com"]:upward(li)
 bing.com###b_content a[href*="proanswers.org"]:upward(li)
@@ -1320,6 +1326,7 @@ bing.com###b_content a[href*="stackoverline.cyou"]:upward(li)
 bing.com###b_content a[href*="stackovernet.com"]:upward(li)
 bing.com###b_content a[href*="stackovernet.xyz"]:upward(li)
 bing.com###b_content a[href*="stackoverrun.com"]:upward(li)
+bing.com###b_content a[href*="stackprinter.com"]:upward(li)
 bing.com###b_content a[href*="stackqna.com"]:upward(li)
 bing.com###b_content a[href*="stackru.com"]:upward(li)
 bing.com###b_content a[href*="stackshare.io"]:upward(li)
@@ -1401,6 +1408,7 @@ bing.com###b_content a[href*="web-dev-qa-db-fra.com"]:upward(li)
 bing.com###b_content a[href*="web-dev-qa-db-ja.com"]:upward(li)
 bing.com###b_content a[href*="web-dev-qa-db-pt.com"]:upward(li)
 bing.com###b_content a[href*="web-dev-qa.com"]:upward(li)
+bing.com###b_content a[href*="web.bluecomtech.com"]:upward(li)
 bing.com###b_content a[href*="webdesigntips.blog"]:upward(li)
 bing.com###b_content a[href*="webdevask.com"]:upward(li)
 bing.com###b_content a[href*="webdevdesigner.com"]:upward(li)
@@ -1563,6 +1571,7 @@ duckduckgo.com##.tile-wrap a[href*="blogmepost.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="boolchr.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="bootpanic.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="boxhoidap.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="breadybready.blogspot.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="brocante.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="buildwiki.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="buzzphp.com"]:upward(.tile)
@@ -1929,6 +1938,7 @@ duckduckgo.com##.tile-wrap a[href*="pakostnici.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="panaindustrial.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pcbconline.org"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="peaku.co"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="pnpsummit.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="poweruser.guru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="pretagteam.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="proanswers.org"]:upward(.tile)
@@ -2064,6 +2074,7 @@ duckduckgo.com##.tile-wrap a[href*="stackoverline.cyou"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackovernet.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackovernet.xyz"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackoverrun.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="stackprinter.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackqna.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackru.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="stackshare.io"]:upward(.tile)
@@ -2145,6 +2156,7 @@ duckduckgo.com##.tile-wrap a[href*="web-dev-qa-db-fra.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="web-dev-qa-db-ja.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="web-dev-qa-db-pt.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="web-dev-qa.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="web.bluecomtech.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="webdesigntips.blog"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="webdevask.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="webdevdesigner.com"]:upward(.tile)
@@ -2307,6 +2319,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="blogmepost.com"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="boolchr.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="bootpanic.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="boxhoidap.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="breadybready.blogspot.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="brocante.dev"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="buildwiki.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="buzzphp.com"]:upward(.nrn-react-div)
@@ -2673,6 +2686,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="pakostnici.com"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="panaindustrial.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pcbconline.org"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="peaku.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="pnpsummit.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="poweruser.guru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="pretagteam.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="proanswers.org"]:upward(.nrn-react-div)
@@ -2808,6 +2822,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="stackoverline.cyou"]:upwa
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackovernet.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackovernet.xyz"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackoverrun.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="stackprinter.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackqna.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackru.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="stackshare.io"]:upward(.nrn-react-div)
@@ -2889,6 +2904,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="web-dev-qa-db-fra.com"]:u
 duckduckgo.com##a[data-testid="result-title-a"][href*="web-dev-qa-db-ja.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="web-dev-qa-db-pt.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="web-dev-qa.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="web.bluecomtech.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="webdesigntips.blog"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="webdevask.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="webdevdesigner.com"]:upward(.nrn-react-div)
@@ -3051,6 +3067,7 @@ google.*##.g:has(a[href*="blogmepost.com"])
 google.*##.g:has(a[href*="boolchr.com"])
 google.*##.g:has(a[href*="bootpanic.com"])
 google.*##.g:has(a[href*="boxhoidap.com"])
+google.*##.g:has(a[href*="breadybready.blogspot.com"])
 google.*##.g:has(a[href*="brocante.dev"])
 google.*##.g:has(a[href*="buildwiki.ru"])
 google.*##.g:has(a[href*="buzzphp.com"])
@@ -3417,6 +3434,7 @@ google.*##.g:has(a[href*="pakostnici.com"])
 google.*##.g:has(a[href*="panaindustrial.com"])
 google.*##.g:has(a[href*="pcbconline.org"])
 google.*##.g:has(a[href*="peaku.co"])
+google.*##.g:has(a[href*="pnpsummit.com"])
 google.*##.g:has(a[href*="poweruser.guru"])
 google.*##.g:has(a[href*="pretagteam.com"])
 google.*##.g:has(a[href*="proanswers.org"])
@@ -3552,6 +3570,7 @@ google.*##.g:has(a[href*="stackoverline.cyou"])
 google.*##.g:has(a[href*="stackovernet.com"])
 google.*##.g:has(a[href*="stackovernet.xyz"])
 google.*##.g:has(a[href*="stackoverrun.com"])
+google.*##.g:has(a[href*="stackprinter.com"])
 google.*##.g:has(a[href*="stackqna.com"])
 google.*##.g:has(a[href*="stackru.com"])
 google.*##.g:has(a[href*="stackshare.io"])
@@ -3633,6 +3652,7 @@ google.*##.g:has(a[href*="web-dev-qa-db-fra.com"])
 google.*##.g:has(a[href*="web-dev-qa-db-ja.com"])
 google.*##.g:has(a[href*="web-dev-qa-db-pt.com"])
 google.*##.g:has(a[href*="web-dev-qa.com"])
+google.*##.g:has(a[href*="web.bluecomtech.com"])
 google.*##.g:has(a[href*="webdesigntips.blog"])
 google.*##.g:has(a[href*="webdevask.com"])
 google.*##.g:has(a[href*="webdevdesigner.com"])
@@ -3795,6 +3815,7 @@ google.*##a[href*="blogmepost.com"]:upward(1)
 google.*##a[href*="boolchr.com"]:upward(1)
 google.*##a[href*="bootpanic.com"]:upward(1)
 google.*##a[href*="boxhoidap.com"]:upward(1)
+google.*##a[href*="breadybready.blogspot.com"]:upward(1)
 google.*##a[href*="brocante.dev"]:upward(1)
 google.*##a[href*="buildwiki.ru"]:upward(1)
 google.*##a[href*="buzzphp.com"]:upward(1)
@@ -4161,6 +4182,7 @@ google.*##a[href*="pakostnici.com"]:upward(1)
 google.*##a[href*="panaindustrial.com"]:upward(1)
 google.*##a[href*="pcbconline.org"]:upward(1)
 google.*##a[href*="peaku.co"]:upward(1)
+google.*##a[href*="pnpsummit.com"]:upward(1)
 google.*##a[href*="poweruser.guru"]:upward(1)
 google.*##a[href*="pretagteam.com"]:upward(1)
 google.*##a[href*="proanswers.org"]:upward(1)
@@ -4296,6 +4318,7 @@ google.*##a[href*="stackoverline.cyou"]:upward(1)
 google.*##a[href*="stackovernet.com"]:upward(1)
 google.*##a[href*="stackovernet.xyz"]:upward(1)
 google.*##a[href*="stackoverrun.com"]:upward(1)
+google.*##a[href*="stackprinter.com"]:upward(1)
 google.*##a[href*="stackqna.com"]:upward(1)
 google.*##a[href*="stackru.com"]:upward(1)
 google.*##a[href*="stackshare.io"]:upward(1)
@@ -4377,6 +4400,7 @@ google.*##a[href*="web-dev-qa-db-fra.com"]:upward(1)
 google.*##a[href*="web-dev-qa-db-ja.com"]:upward(1)
 google.*##a[href*="web-dev-qa-db-pt.com"]:upward(1)
 google.*##a[href*="web-dev-qa.com"]:upward(1)
+google.*##a[href*="web.bluecomtech.com"]:upward(1)
 google.*##a[href*="webdesigntips.blog"]:upward(1)
 google.*##a[href*="webdevask.com"]:upward(1)
 google.*##a[href*="webdevdesigner.com"]:upward(1)
@@ -4539,6 +4563,7 @@ kagi.com##._0_image_item[data-host_url*="blogmepost.com"]
 kagi.com##._0_image_item[data-host_url*="boolchr.com"]
 kagi.com##._0_image_item[data-host_url*="bootpanic.com"]
 kagi.com##._0_image_item[data-host_url*="boxhoidap.com"]
+kagi.com##._0_image_item[data-host_url*="breadybready.blogspot.com"]
 kagi.com##._0_image_item[data-host_url*="brocante.dev"]
 kagi.com##._0_image_item[data-host_url*="buildwiki.ru"]
 kagi.com##._0_image_item[data-host_url*="buzzphp.com"]
@@ -4905,6 +4930,7 @@ kagi.com##._0_image_item[data-host_url*="pakostnici.com"]
 kagi.com##._0_image_item[data-host_url*="panaindustrial.com"]
 kagi.com##._0_image_item[data-host_url*="pcbconline.org"]
 kagi.com##._0_image_item[data-host_url*="peaku.co"]
+kagi.com##._0_image_item[data-host_url*="pnpsummit.com"]
 kagi.com##._0_image_item[data-host_url*="poweruser.guru"]
 kagi.com##._0_image_item[data-host_url*="pretagteam.com"]
 kagi.com##._0_image_item[data-host_url*="proanswers.org"]
@@ -5040,6 +5066,7 @@ kagi.com##._0_image_item[data-host_url*="stackoverline.cyou"]
 kagi.com##._0_image_item[data-host_url*="stackovernet.com"]
 kagi.com##._0_image_item[data-host_url*="stackovernet.xyz"]
 kagi.com##._0_image_item[data-host_url*="stackoverrun.com"]
+kagi.com##._0_image_item[data-host_url*="stackprinter.com"]
 kagi.com##._0_image_item[data-host_url*="stackqna.com"]
 kagi.com##._0_image_item[data-host_url*="stackru.com"]
 kagi.com##._0_image_item[data-host_url*="stackshare.io"]
@@ -5121,6 +5148,7 @@ kagi.com##._0_image_item[data-host_url*="web-dev-qa-db-fra.com"]
 kagi.com##._0_image_item[data-host_url*="web-dev-qa-db-ja.com"]
 kagi.com##._0_image_item[data-host_url*="web-dev-qa-db-pt.com"]
 kagi.com##._0_image_item[data-host_url*="web-dev-qa.com"]
+kagi.com##._0_image_item[data-host_url*="web.bluecomtech.com"]
 kagi.com##._0_image_item[data-host_url*="webdesigntips.blog"]
 kagi.com##._0_image_item[data-host_url*="webdevask.com"]
 kagi.com##._0_image_item[data-host_url*="webdevdesigner.com"]
@@ -5283,6 +5311,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="blogmepost.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="boolchr.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bootpanic.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="boxhoidap.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="breadybready.blogspot.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="brocante.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="buildwiki.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="buzzphp.com"])
@@ -5649,6 +5678,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="pakostnici.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="panaindustrial.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="pcbconline.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="peaku.co"])
+kagi.com##.search-result:has(a.__sri-url[href*="pnpsummit.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="poweruser.guru"])
 kagi.com##.search-result:has(a.__sri-url[href*="pretagteam.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="proanswers.org"])
@@ -5784,6 +5814,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="stackoverline.cyou"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackovernet.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackovernet.xyz"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackoverrun.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="stackprinter.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackqna.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackru.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackshare.io"])
@@ -5865,6 +5896,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="web-dev-qa-db-fra.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="web-dev-qa-db-ja.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="web-dev-qa-db-pt.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="web-dev-qa.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="web.bluecomtech.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="webdesigntips.blog"])
 kagi.com##.search-result:has(a.__sri-url[href*="webdevask.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="webdevdesigner.com"])
@@ -6027,6 +6059,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="blogmepost.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="boolchr.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bootpanic.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="boxhoidap.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="breadybready.blogspot.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="brocante.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="buildwiki.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="buzzphp.com"])
@@ -6393,6 +6426,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="pakostnici.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="panaindustrial.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pcbconline.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="peaku.co"])
+kagi.com##.sri-group:has(a.__sri-url[href*="pnpsummit.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="poweruser.guru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="pretagteam.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="proanswers.org"])
@@ -6528,6 +6562,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="stackoverline.cyou"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackovernet.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackovernet.xyz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackoverrun.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="stackprinter.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackqna.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackru.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackshare.io"])
@@ -6609,6 +6644,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="web-dev-qa-db-fra.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="web-dev-qa-db-ja.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="web-dev-qa-db-pt.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="web-dev-qa.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="web.bluecomtech.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="webdesigntips.blog"])
 kagi.com##.sri-group:has(a.__sri-url[href*="webdevask.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="webdevdesigner.com"])
@@ -6771,6 +6807,7 @@ searx.lan###main_results .result:has(a[href*="blogmepost.com"])
 searx.lan###main_results .result:has(a[href*="boolchr.com"])
 searx.lan###main_results .result:has(a[href*="bootpanic.com"])
 searx.lan###main_results .result:has(a[href*="boxhoidap.com"])
+searx.lan###main_results .result:has(a[href*="breadybready.blogspot.com"])
 searx.lan###main_results .result:has(a[href*="brocante.dev"])
 searx.lan###main_results .result:has(a[href*="buildwiki.ru"])
 searx.lan###main_results .result:has(a[href*="buzzphp.com"])
@@ -7137,6 +7174,7 @@ searx.lan###main_results .result:has(a[href*="pakostnici.com"])
 searx.lan###main_results .result:has(a[href*="panaindustrial.com"])
 searx.lan###main_results .result:has(a[href*="pcbconline.org"])
 searx.lan###main_results .result:has(a[href*="peaku.co"])
+searx.lan###main_results .result:has(a[href*="pnpsummit.com"])
 searx.lan###main_results .result:has(a[href*="poweruser.guru"])
 searx.lan###main_results .result:has(a[href*="pretagteam.com"])
 searx.lan###main_results .result:has(a[href*="proanswers.org"])
@@ -7272,6 +7310,7 @@ searx.lan###main_results .result:has(a[href*="stackoverline.cyou"])
 searx.lan###main_results .result:has(a[href*="stackovernet.com"])
 searx.lan###main_results .result:has(a[href*="stackovernet.xyz"])
 searx.lan###main_results .result:has(a[href*="stackoverrun.com"])
+searx.lan###main_results .result:has(a[href*="stackprinter.com"])
 searx.lan###main_results .result:has(a[href*="stackqna.com"])
 searx.lan###main_results .result:has(a[href*="stackru.com"])
 searx.lan###main_results .result:has(a[href*="stackshare.io"])
@@ -7353,6 +7392,7 @@ searx.lan###main_results .result:has(a[href*="web-dev-qa-db-fra.com"])
 searx.lan###main_results .result:has(a[href*="web-dev-qa-db-ja.com"])
 searx.lan###main_results .result:has(a[href*="web-dev-qa-db-pt.com"])
 searx.lan###main_results .result:has(a[href*="web-dev-qa.com"])
+searx.lan###main_results .result:has(a[href*="web.bluecomtech.com"])
 searx.lan###main_results .result:has(a[href*="webdesigntips.blog"])
 searx.lan###main_results .result:has(a[href*="webdevask.com"])
 searx.lan###main_results .result:has(a[href*="webdevdesigner.com"])
@@ -7515,6 +7555,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(blogme
 startpage.com##.image-container:has(div.image-quick-details span:has-text(boolchr.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bootpanic.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(boxhoidap.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(breadybready.blogspot.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(brocante.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(buildwiki.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(buzzphp.com))
@@ -7881,6 +7922,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(pakost
 startpage.com##.image-container:has(div.image-quick-details span:has-text(panaindustrial.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pcbconline.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(peaku.co))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(pnpsummit.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(poweruser.guru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(pretagteam.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(proanswers.org))
@@ -8016,6 +8058,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(stacko
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovernet.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovernet.xyz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoverrun.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(stackprinter.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackqna.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackru.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackshare.io))
@@ -8097,6 +8140,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(web-de
 startpage.com##.image-container:has(div.image-quick-details span:has-text(web-dev-qa-db-ja.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(web-dev-qa-db-pt.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(web-dev-qa.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(web.bluecomtech.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(webdesigntips.blog))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(webdevask.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(webdevdesigner.com))
@@ -8259,6 +8303,7 @@ startpage.com##.w-gl__result:has(a[href*="blogmepost.com"])
 startpage.com##.w-gl__result:has(a[href*="boolchr.com"])
 startpage.com##.w-gl__result:has(a[href*="bootpanic.com"])
 startpage.com##.w-gl__result:has(a[href*="boxhoidap.com"])
+startpage.com##.w-gl__result:has(a[href*="breadybready.blogspot.com"])
 startpage.com##.w-gl__result:has(a[href*="brocante.dev"])
 startpage.com##.w-gl__result:has(a[href*="buildwiki.ru"])
 startpage.com##.w-gl__result:has(a[href*="buzzphp.com"])
@@ -8625,6 +8670,7 @@ startpage.com##.w-gl__result:has(a[href*="pakostnici.com"])
 startpage.com##.w-gl__result:has(a[href*="panaindustrial.com"])
 startpage.com##.w-gl__result:has(a[href*="pcbconline.org"])
 startpage.com##.w-gl__result:has(a[href*="peaku.co"])
+startpage.com##.w-gl__result:has(a[href*="pnpsummit.com"])
 startpage.com##.w-gl__result:has(a[href*="poweruser.guru"])
 startpage.com##.w-gl__result:has(a[href*="pretagteam.com"])
 startpage.com##.w-gl__result:has(a[href*="proanswers.org"])
@@ -8760,6 +8806,7 @@ startpage.com##.w-gl__result:has(a[href*="stackoverline.cyou"])
 startpage.com##.w-gl__result:has(a[href*="stackovernet.com"])
 startpage.com##.w-gl__result:has(a[href*="stackovernet.xyz"])
 startpage.com##.w-gl__result:has(a[href*="stackoverrun.com"])
+startpage.com##.w-gl__result:has(a[href*="stackprinter.com"])
 startpage.com##.w-gl__result:has(a[href*="stackqna.com"])
 startpage.com##.w-gl__result:has(a[href*="stackru.com"])
 startpage.com##.w-gl__result:has(a[href*="stackshare.io"])
@@ -8841,6 +8888,7 @@ startpage.com##.w-gl__result:has(a[href*="web-dev-qa-db-fra.com"])
 startpage.com##.w-gl__result:has(a[href*="web-dev-qa-db-ja.com"])
 startpage.com##.w-gl__result:has(a[href*="web-dev-qa-db-pt.com"])
 startpage.com##.w-gl__result:has(a[href*="web-dev-qa.com"])
+startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
 startpage.com##.w-gl__result:has(a[href*="webdesigntips.blog"])
 startpage.com##.w-gl__result:has(a[href*="webdevask.com"])
 startpage.com##.w-gl__result:has(a[href*="webdevdesigner.com"])
