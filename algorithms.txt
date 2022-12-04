@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-11-27 03:38:23 UTC
+! Generated: 2022-12-04 03:15:33 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
@@ -17,17 +17,17 @@ github.com##.UnderlineNav.overflow-visible.js-feeds-tabs
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
 inv.bp.projectsegfau.lt##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 inv.odyssey346.dev##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
-inv.privacy.com.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 inv.riverside.rocks##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 inv.vern.cc##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidio.xamh.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.baczek.me##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.dhusch.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.drivet.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.esmailelbob.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.flokinet.to##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.namazso.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.nerdvpn.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
-invidious.projectsegfau.lt##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.privacydev.net##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.rhyshl.live##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.sethforprivacy.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.slipfox.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
@@ -37,5 +37,5 @@ invidious.weblibre.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 vid.puffyan.us##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 y.com.sb##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 yewtu.be##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
-youtube.076.ne.jp##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 yt.artemislena.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+yt.funami.tech##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box

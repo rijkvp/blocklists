@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-11-27 03:38:22 UTC
+! Generated: 2022-12-04 03:15:32 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -139,6 +139,7 @@
 ||copyfuture.com$all
 ||copyprogramming.com$all
 ||coredump.biz$all
+||cplusplusbug.info$all
 ||crex24.com$all
 ||csdn.net$all
 ||culinarydegree.info$all
@@ -332,6 +333,7 @@
 ||it-swarm.xyz$all
 ||it1352.com$all
 ||itbaoku.cn$all
+||itcodar.com$all
 ||itdaan.com$all
 ||itecnote.com$all
 ||itecnotes.com$all
@@ -887,6 +889,7 @@ bing.com###b_content a[href*="contactform.dev"]:upward(li)
 bing.com###b_content a[href*="copyfuture.com"]:upward(li)
 bing.com###b_content a[href*="copyprogramming.com"]:upward(li)
 bing.com###b_content a[href*="coredump.biz"]:upward(li)
+bing.com###b_content a[href*="cplusplusbug.info"]:upward(li)
 bing.com###b_content a[href*="crex24.com"]:upward(li)
 bing.com###b_content a[href*="csdn.net"]:upward(li)
 bing.com###b_content a[href*="culinarydegree.info"]:upward(li)
@@ -1080,6 +1083,7 @@ bing.com###b_content a[href*="it-swarm.net"]:upward(li)
 bing.com###b_content a[href*="it-swarm.xyz"]:upward(li)
 bing.com###b_content a[href*="it1352.com"]:upward(li)
 bing.com###b_content a[href*="itbaoku.cn"]:upward(li)
+bing.com###b_content a[href*="itcodar.com"]:upward(li)
 bing.com###b_content a[href*="itdaan.com"]:upward(li)
 bing.com###b_content a[href*="itecnote.com"]:upward(li)
 bing.com###b_content a[href*="itecnotes.com"]:upward(li)
@@ -1635,6 +1639,7 @@ duckduckgo.com##.tile-wrap a[href*="contactform.dev"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="copyfuture.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="copyprogramming.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coredump.biz"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="cplusplusbug.info"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="crex24.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="csdn.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="culinarydegree.info"]:upward(.tile)
@@ -1828,6 +1833,7 @@ duckduckgo.com##.tile-wrap a[href*="it-swarm.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="it-swarm.xyz"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="it1352.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itbaoku.cn"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="itcodar.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itdaan.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itecnote.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="itecnotes.com"]:upward(.tile)
@@ -2383,6 +2389,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="contactform.dev"]:upward(
 duckduckgo.com##a[data-testid="result-title-a"][href*="copyfuture.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="copyprogramming.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coredump.biz"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="cplusplusbug.info"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="crex24.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="csdn.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="culinarydegree.info"]:upward(.nrn-react-div)
@@ -2576,6 +2583,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="it-swarm.net"]:upward(.nr
 duckduckgo.com##a[data-testid="result-title-a"][href*="it-swarm.xyz"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="it1352.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itbaoku.cn"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="itcodar.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itdaan.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itecnote.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="itecnotes.com"]:upward(.nrn-react-div)
@@ -3131,6 +3139,7 @@ google.*##.g:has(a[href*="contactform.dev"])
 google.*##.g:has(a[href*="copyfuture.com"])
 google.*##.g:has(a[href*="copyprogramming.com"])
 google.*##.g:has(a[href*="coredump.biz"])
+google.*##.g:has(a[href*="cplusplusbug.info"])
 google.*##.g:has(a[href*="crex24.com"])
 google.*##.g:has(a[href*="csdn.net"])
 google.*##.g:has(a[href*="culinarydegree.info"])
@@ -3324,6 +3333,7 @@ google.*##.g:has(a[href*="it-swarm.net"])
 google.*##.g:has(a[href*="it-swarm.xyz"])
 google.*##.g:has(a[href*="it1352.com"])
 google.*##.g:has(a[href*="itbaoku.cn"])
+google.*##.g:has(a[href*="itcodar.com"])
 google.*##.g:has(a[href*="itdaan.com"])
 google.*##.g:has(a[href*="itecnote.com"])
 google.*##.g:has(a[href*="itecnotes.com"])
@@ -3879,6 +3889,7 @@ google.*##a[href*="contactform.dev"]:upward(1)
 google.*##a[href*="copyfuture.com"]:upward(1)
 google.*##a[href*="copyprogramming.com"]:upward(1)
 google.*##a[href*="coredump.biz"]:upward(1)
+google.*##a[href*="cplusplusbug.info"]:upward(1)
 google.*##a[href*="crex24.com"]:upward(1)
 google.*##a[href*="csdn.net"]:upward(1)
 google.*##a[href*="culinarydegree.info"]:upward(1)
@@ -4072,6 +4083,7 @@ google.*##a[href*="it-swarm.net"]:upward(1)
 google.*##a[href*="it-swarm.xyz"]:upward(1)
 google.*##a[href*="it1352.com"]:upward(1)
 google.*##a[href*="itbaoku.cn"]:upward(1)
+google.*##a[href*="itcodar.com"]:upward(1)
 google.*##a[href*="itdaan.com"]:upward(1)
 google.*##a[href*="itecnote.com"]:upward(1)
 google.*##a[href*="itecnotes.com"]:upward(1)
@@ -4627,6 +4639,7 @@ kagi.com##._0_image_item[data-host_url*="contactform.dev"]
 kagi.com##._0_image_item[data-host_url*="copyfuture.com"]
 kagi.com##._0_image_item[data-host_url*="copyprogramming.com"]
 kagi.com##._0_image_item[data-host_url*="coredump.biz"]
+kagi.com##._0_image_item[data-host_url*="cplusplusbug.info"]
 kagi.com##._0_image_item[data-host_url*="crex24.com"]
 kagi.com##._0_image_item[data-host_url*="csdn.net"]
 kagi.com##._0_image_item[data-host_url*="culinarydegree.info"]
@@ -4820,6 +4833,7 @@ kagi.com##._0_image_item[data-host_url*="it-swarm.net"]
 kagi.com##._0_image_item[data-host_url*="it-swarm.xyz"]
 kagi.com##._0_image_item[data-host_url*="it1352.com"]
 kagi.com##._0_image_item[data-host_url*="itbaoku.cn"]
+kagi.com##._0_image_item[data-host_url*="itcodar.com"]
 kagi.com##._0_image_item[data-host_url*="itdaan.com"]
 kagi.com##._0_image_item[data-host_url*="itecnote.com"]
 kagi.com##._0_image_item[data-host_url*="itecnotes.com"]
@@ -5375,6 +5389,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="contactform.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="copyfuture.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="copyprogramming.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coredump.biz"])
+kagi.com##.search-result:has(a.__sri-url[href*="cplusplusbug.info"])
 kagi.com##.search-result:has(a.__sri-url[href*="crex24.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="culinarydegree.info"])
@@ -5568,6 +5583,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="it-swarm.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="it-swarm.xyz"])
 kagi.com##.search-result:has(a.__sri-url[href*="it1352.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itbaoku.cn"])
+kagi.com##.search-result:has(a.__sri-url[href*="itcodar.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itdaan.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itecnote.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="itecnotes.com"])
@@ -6123,6 +6139,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="contactform.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="copyfuture.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="copyprogramming.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coredump.biz"])
+kagi.com##.sri-group:has(a.__sri-url[href*="cplusplusbug.info"])
 kagi.com##.sri-group:has(a.__sri-url[href*="crex24.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="culinarydegree.info"])
@@ -6316,6 +6333,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="it-swarm.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="it-swarm.xyz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="it1352.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itbaoku.cn"])
+kagi.com##.sri-group:has(a.__sri-url[href*="itcodar.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itdaan.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itecnote.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="itecnotes.com"])
@@ -6871,6 +6889,7 @@ searx.lan###main_results .result:has(a[href*="contactform.dev"])
 searx.lan###main_results .result:has(a[href*="copyfuture.com"])
 searx.lan###main_results .result:has(a[href*="copyprogramming.com"])
 searx.lan###main_results .result:has(a[href*="coredump.biz"])
+searx.lan###main_results .result:has(a[href*="cplusplusbug.info"])
 searx.lan###main_results .result:has(a[href*="crex24.com"])
 searx.lan###main_results .result:has(a[href*="csdn.net"])
 searx.lan###main_results .result:has(a[href*="culinarydegree.info"])
@@ -7064,6 +7083,7 @@ searx.lan###main_results .result:has(a[href*="it-swarm.net"])
 searx.lan###main_results .result:has(a[href*="it-swarm.xyz"])
 searx.lan###main_results .result:has(a[href*="it1352.com"])
 searx.lan###main_results .result:has(a[href*="itbaoku.cn"])
+searx.lan###main_results .result:has(a[href*="itcodar.com"])
 searx.lan###main_results .result:has(a[href*="itdaan.com"])
 searx.lan###main_results .result:has(a[href*="itecnote.com"])
 searx.lan###main_results .result:has(a[href*="itecnotes.com"])
@@ -7619,6 +7639,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(contac
 startpage.com##.image-container:has(div.image-quick-details span:has-text(copyfuture.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(copyprogramming.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coredump.biz))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(cplusplusbug.info))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(crex24.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(csdn.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(culinarydegree.info))
@@ -7812,6 +7833,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(it-swa
 startpage.com##.image-container:has(div.image-quick-details span:has-text(it-swarm.xyz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(it1352.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itbaoku.cn))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(itcodar.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itdaan.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itecnote.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(itecnotes.com))
@@ -8367,6 +8389,7 @@ startpage.com##.w-gl__result:has(a[href*="contactform.dev"])
 startpage.com##.w-gl__result:has(a[href*="copyfuture.com"])
 startpage.com##.w-gl__result:has(a[href*="copyprogramming.com"])
 startpage.com##.w-gl__result:has(a[href*="coredump.biz"])
+startpage.com##.w-gl__result:has(a[href*="cplusplusbug.info"])
 startpage.com##.w-gl__result:has(a[href*="crex24.com"])
 startpage.com##.w-gl__result:has(a[href*="csdn.net"])
 startpage.com##.w-gl__result:has(a[href*="culinarydegree.info"])
@@ -8560,6 +8583,7 @@ startpage.com##.w-gl__result:has(a[href*="it-swarm.net"])
 startpage.com##.w-gl__result:has(a[href*="it-swarm.xyz"])
 startpage.com##.w-gl__result:has(a[href*="it1352.com"])
 startpage.com##.w-gl__result:has(a[href*="itbaoku.cn"])
+startpage.com##.w-gl__result:has(a[href*="itcodar.com"])
 startpage.com##.w-gl__result:has(a[href*="itdaan.com"])
 startpage.com##.w-gl__result:has(a[href*="itecnote.com"])
 startpage.com##.w-gl__result:has(a[href*="itecnotes.com"])
