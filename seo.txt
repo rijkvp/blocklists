@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-12-04 03:15:32 UTC
+! Generated: 2022-12-11 03:20:06 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -99,6 +99,7 @@
 ||code-examples.net$all
 ||code-paper.com$all
 ||code.i$all
+||code2s.com$all
 ||codebaoku.com$all
 ||coded3.com$all
 ||codefaq.info$all
@@ -849,6 +850,7 @@ bing.com###b_content a[href*="code-error.com"]:upward(li)
 bing.com###b_content a[href*="code-examples.net"]:upward(li)
 bing.com###b_content a[href*="code-paper.com"]:upward(li)
 bing.com###b_content a[href*="code.i"]:upward(li)
+bing.com###b_content a[href*="code2s.com"]:upward(li)
 bing.com###b_content a[href*="codebaoku.com"]:upward(li)
 bing.com###b_content a[href*="coded3.com"]:upward(li)
 bing.com###b_content a[href*="codefaq.info"]:upward(li)
@@ -1599,6 +1601,7 @@ duckduckgo.com##.tile-wrap a[href*="code-error.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="code-examples.net"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="code-paper.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="code.i"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="code2s.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codebaoku.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="coded3.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="codefaq.info"]:upward(.tile)
@@ -2349,6 +2352,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="code-error.com"]:upward(.
 duckduckgo.com##a[data-testid="result-title-a"][href*="code-examples.net"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="code-paper.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="code.i"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="code2s.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codebaoku.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="coded3.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="codefaq.info"]:upward(.nrn-react-div)
@@ -3099,6 +3103,7 @@ google.*##.g:has(a[href*="code-error.com"])
 google.*##.g:has(a[href*="code-examples.net"])
 google.*##.g:has(a[href*="code-paper.com"])
 google.*##.g:has(a[href*="code.i"])
+google.*##.g:has(a[href*="code2s.com"])
 google.*##.g:has(a[href*="codebaoku.com"])
 google.*##.g:has(a[href*="coded3.com"])
 google.*##.g:has(a[href*="codefaq.info"])
@@ -3849,6 +3854,7 @@ google.*##a[href*="code-error.com"]:upward(1)
 google.*##a[href*="code-examples.net"]:upward(1)
 google.*##a[href*="code-paper.com"]:upward(1)
 google.*##a[href*="code.i"]:upward(1)
+google.*##a[href*="code2s.com"]:upward(1)
 google.*##a[href*="codebaoku.com"]:upward(1)
 google.*##a[href*="coded3.com"]:upward(1)
 google.*##a[href*="codefaq.info"]:upward(1)
@@ -4599,6 +4605,7 @@ kagi.com##._0_image_item[data-host_url*="code-error.com"]
 kagi.com##._0_image_item[data-host_url*="code-examples.net"]
 kagi.com##._0_image_item[data-host_url*="code-paper.com"]
 kagi.com##._0_image_item[data-host_url*="code.i"]
+kagi.com##._0_image_item[data-host_url*="code2s.com"]
 kagi.com##._0_image_item[data-host_url*="codebaoku.com"]
 kagi.com##._0_image_item[data-host_url*="coded3.com"]
 kagi.com##._0_image_item[data-host_url*="codefaq.info"]
@@ -5349,6 +5356,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="code-error.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="code-examples.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="code-paper.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="code.i"])
+kagi.com##.search-result:has(a.__sri-url[href*="code2s.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codebaoku.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coded3.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codefaq.info"])
@@ -6099,6 +6107,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="code-error.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="code-examples.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="code-paper.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="code.i"])
+kagi.com##.sri-group:has(a.__sri-url[href*="code2s.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codebaoku.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coded3.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codefaq.info"])
@@ -6849,6 +6858,7 @@ searx.lan###main_results .result:has(a[href*="code-error.com"])
 searx.lan###main_results .result:has(a[href*="code-examples.net"])
 searx.lan###main_results .result:has(a[href*="code-paper.com"])
 searx.lan###main_results .result:has(a[href*="code.i"])
+searx.lan###main_results .result:has(a[href*="code2s.com"])
 searx.lan###main_results .result:has(a[href*="codebaoku.com"])
 searx.lan###main_results .result:has(a[href*="coded3.com"])
 searx.lan###main_results .result:has(a[href*="codefaq.info"])
@@ -7599,6 +7609,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(code-e
 startpage.com##.image-container:has(div.image-quick-details span:has-text(code-examples.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(code-paper.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(code.i))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(code2s.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codebaoku.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coded3.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codefaq.info))
@@ -8349,6 +8360,7 @@ startpage.com##.w-gl__result:has(a[href*="code-error.com"])
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 startpage.com##.w-gl__result:has(a[href*="code-paper.com"])
 startpage.com##.w-gl__result:has(a[href*="code.i"])
+startpage.com##.w-gl__result:has(a[href*="code2s.com"])
 startpage.com##.w-gl__result:has(a[href*="codebaoku.com"])
 startpage.com##.w-gl__result:has(a[href*="coded3.com"])
 startpage.com##.w-gl__result:has(a[href*="codefaq.info"])

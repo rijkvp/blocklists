@@ -1,7 +1,7 @@
 ! Title: Algorithms Blocklist
 ! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-12-04 03:15:33 UTC
+! Generated: 2022-12-11 03:20:07 UTC
 ! Expires: 1 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
@@ -28,7 +28,6 @@ invidious.flokinet.to##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.namazso.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.nerdvpn.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.privacydev.net##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
-invidious.rhyshl.live##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.sethforprivacy.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.slipfox.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.snopyta.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
