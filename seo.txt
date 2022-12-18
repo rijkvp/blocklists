@@ -1,7 +1,7 @@
 ! Title: SEO Blocklist
 ! Description: Block SEO bloat sites from search engines.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-12-11 03:20:06 UTC
+! Generated: 2022-12-18 03:14:45 UTC
 ! Expires: 1 day
 ||16892.net$all
 ||1r1g.com$all
@@ -508,6 +508,7 @@
 ||qastack.vn$all
 ||qatop.pythonwood.com$all
 ||qi-u.com$all
+||qiniu.com$all
 ||quabr.com$all
 ||quares.ru$all
 ||querythreads.com$all
@@ -673,6 +674,7 @@
 ||wenyanet.com$all
 ||while-do.com$all
 ||wiki-org.ru$all
+||wiki.alquds.edu$all
 ||wiki.cologne$all
 ||wiki2.info$all
 ||wiki2.net$all
@@ -1259,6 +1261,7 @@ bing.com###b_content a[href*="qastack.ru"]:upward(li)
 bing.com###b_content a[href*="qastack.vn"]:upward(li)
 bing.com###b_content a[href*="qatop.pythonwood.com"]:upward(li)
 bing.com###b_content a[href*="qi-u.com"]:upward(li)
+bing.com###b_content a[href*="qiniu.com"]:upward(li)
 bing.com###b_content a[href*="quabr.com"]:upward(li)
 bing.com###b_content a[href*="quares.ru"]:upward(li)
 bing.com###b_content a[href*="querythreads.com"]:upward(li)
@@ -1424,6 +1427,7 @@ bing.com###b_content a[href*="webmonkez.com"]:upward(li)
 bing.com###b_content a[href*="wenyanet.com"]:upward(li)
 bing.com###b_content a[href*="while-do.com"]:upward(li)
 bing.com###b_content a[href*="wiki-org.ru"]:upward(li)
+bing.com###b_content a[href*="wiki.alquds.edu"]:upward(li)
 bing.com###b_content a[href*="wiki.cologne"]:upward(li)
 bing.com###b_content a[href*="wiki2.info"]:upward(li)
 bing.com###b_content a[href*="wiki2.net"]:upward(li)
@@ -2010,6 +2014,7 @@ duckduckgo.com##.tile-wrap a[href*="qastack.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qastack.vn"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qatop.pythonwood.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="qi-u.com"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="qiniu.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="quabr.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="quares.ru"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="querythreads.com"]:upward(.tile)
@@ -2175,6 +2180,7 @@ duckduckgo.com##.tile-wrap a[href*="webmonkez.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wenyanet.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="while-do.com"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wiki-org.ru"]:upward(.tile)
+duckduckgo.com##.tile-wrap a[href*="wiki.alquds.edu"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wiki.cologne"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wiki2.info"]:upward(.tile)
 duckduckgo.com##.tile-wrap a[href*="wiki2.net"]:upward(.tile)
@@ -2761,6 +2767,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="qastack.ru"]:upward(.nrn-
 duckduckgo.com##a[data-testid="result-title-a"][href*="qastack.vn"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qatop.pythonwood.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="qi-u.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="qiniu.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="quabr.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="quares.ru"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="querythreads.com"]:upward(.nrn-react-div)
@@ -2926,6 +2933,7 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="webmonkez.com"]:upward(.n
 duckduckgo.com##a[data-testid="result-title-a"][href*="wenyanet.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="while-do.com"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wiki-org.ru"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*="wiki.alquds.edu"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wiki.cologne"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wiki2.info"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*="wiki2.net"]:upward(.nrn-react-div)
@@ -3512,6 +3520,7 @@ google.*##.g:has(a[href*="qastack.ru"])
 google.*##.g:has(a[href*="qastack.vn"])
 google.*##.g:has(a[href*="qatop.pythonwood.com"])
 google.*##.g:has(a[href*="qi-u.com"])
+google.*##.g:has(a[href*="qiniu.com"])
 google.*##.g:has(a[href*="quabr.com"])
 google.*##.g:has(a[href*="quares.ru"])
 google.*##.g:has(a[href*="querythreads.com"])
@@ -3677,6 +3686,7 @@ google.*##.g:has(a[href*="webmonkez.com"])
 google.*##.g:has(a[href*="wenyanet.com"])
 google.*##.g:has(a[href*="while-do.com"])
 google.*##.g:has(a[href*="wiki-org.ru"])
+google.*##.g:has(a[href*="wiki.alquds.edu"])
 google.*##.g:has(a[href*="wiki.cologne"])
 google.*##.g:has(a[href*="wiki2.info"])
 google.*##.g:has(a[href*="wiki2.net"])
@@ -4263,6 +4273,7 @@ google.*##a[href*="qastack.ru"]:upward(1)
 google.*##a[href*="qastack.vn"]:upward(1)
 google.*##a[href*="qatop.pythonwood.com"]:upward(1)
 google.*##a[href*="qi-u.com"]:upward(1)
+google.*##a[href*="qiniu.com"]:upward(1)
 google.*##a[href*="quabr.com"]:upward(1)
 google.*##a[href*="quares.ru"]:upward(1)
 google.*##a[href*="querythreads.com"]:upward(1)
@@ -4428,6 +4439,7 @@ google.*##a[href*="webmonkez.com"]:upward(1)
 google.*##a[href*="wenyanet.com"]:upward(1)
 google.*##a[href*="while-do.com"]:upward(1)
 google.*##a[href*="wiki-org.ru"]:upward(1)
+google.*##a[href*="wiki.alquds.edu"]:upward(1)
 google.*##a[href*="wiki.cologne"]:upward(1)
 google.*##a[href*="wiki2.info"]:upward(1)
 google.*##a[href*="wiki2.net"]:upward(1)
@@ -5014,6 +5026,7 @@ kagi.com##._0_image_item[data-host_url*="qastack.ru"]
 kagi.com##._0_image_item[data-host_url*="qastack.vn"]
 kagi.com##._0_image_item[data-host_url*="qatop.pythonwood.com"]
 kagi.com##._0_image_item[data-host_url*="qi-u.com"]
+kagi.com##._0_image_item[data-host_url*="qiniu.com"]
 kagi.com##._0_image_item[data-host_url*="quabr.com"]
 kagi.com##._0_image_item[data-host_url*="quares.ru"]
 kagi.com##._0_image_item[data-host_url*="querythreads.com"]
@@ -5179,6 +5192,7 @@ kagi.com##._0_image_item[data-host_url*="webmonkez.com"]
 kagi.com##._0_image_item[data-host_url*="wenyanet.com"]
 kagi.com##._0_image_item[data-host_url*="while-do.com"]
 kagi.com##._0_image_item[data-host_url*="wiki-org.ru"]
+kagi.com##._0_image_item[data-host_url*="wiki.alquds.edu"]
 kagi.com##._0_image_item[data-host_url*="wiki.cologne"]
 kagi.com##._0_image_item[data-host_url*="wiki2.info"]
 kagi.com##._0_image_item[data-host_url*="wiki2.net"]
@@ -5765,6 +5779,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="qastack.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.vn"])
 kagi.com##.search-result:has(a.__sri-url[href*="qatop.pythonwood.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="qi-u.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="qiniu.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="quabr.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="quares.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="querythreads.com"])
@@ -5930,6 +5945,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="webmonkez.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="wenyanet.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="while-do.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="wiki-org.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="wiki.alquds.edu"])
 kagi.com##.search-result:has(a.__sri-url[href*="wiki.cologne"])
 kagi.com##.search-result:has(a.__sri-url[href*="wiki2.info"])
 kagi.com##.search-result:has(a.__sri-url[href*="wiki2.net"])
@@ -6516,6 +6532,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="qastack.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.vn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qatop.pythonwood.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qi-u.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="qiniu.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quabr.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quares.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="querythreads.com"])
@@ -6681,6 +6698,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="webmonkez.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wenyanet.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="while-do.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wiki-org.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="wiki.alquds.edu"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wiki.cologne"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wiki2.info"])
 kagi.com##.sri-group:has(a.__sri-url[href*="wiki2.net"])
@@ -7267,6 +7285,7 @@ searx.lan###main_results .result:has(a[href*="qastack.ru"])
 searx.lan###main_results .result:has(a[href*="qastack.vn"])
 searx.lan###main_results .result:has(a[href*="qatop.pythonwood.com"])
 searx.lan###main_results .result:has(a[href*="qi-u.com"])
+searx.lan###main_results .result:has(a[href*="qiniu.com"])
 searx.lan###main_results .result:has(a[href*="quabr.com"])
 searx.lan###main_results .result:has(a[href*="quares.ru"])
 searx.lan###main_results .result:has(a[href*="querythreads.com"])
@@ -7432,6 +7451,7 @@ searx.lan###main_results .result:has(a[href*="webmonkez.com"])
 searx.lan###main_results .result:has(a[href*="wenyanet.com"])
 searx.lan###main_results .result:has(a[href*="while-do.com"])
 searx.lan###main_results .result:has(a[href*="wiki-org.ru"])
+searx.lan###main_results .result:has(a[href*="wiki.alquds.edu"])
 searx.lan###main_results .result:has(a[href*="wiki.cologne"])
 searx.lan###main_results .result:has(a[href*="wiki2.info"])
 searx.lan###main_results .result:has(a[href*="wiki2.net"])
@@ -8018,6 +8038,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(qastac
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.vn))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qatop.pythonwood.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qi-u.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(qiniu.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quabr.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quares.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(querythreads.com))
@@ -8183,6 +8204,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(webmon
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wenyanet.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(while-do.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wiki-org.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(wiki.alquds.edu))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wiki.cologne))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wiki2.info))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(wiki2.net))
@@ -8769,6 +8791,7 @@ startpage.com##.w-gl__result:has(a[href*="qastack.ru"])
 startpage.com##.w-gl__result:has(a[href*="qastack.vn"])
 startpage.com##.w-gl__result:has(a[href*="qatop.pythonwood.com"])
 startpage.com##.w-gl__result:has(a[href*="qi-u.com"])
+startpage.com##.w-gl__result:has(a[href*="qiniu.com"])
 startpage.com##.w-gl__result:has(a[href*="quabr.com"])
 startpage.com##.w-gl__result:has(a[href*="quares.ru"])
 startpage.com##.w-gl__result:has(a[href*="querythreads.com"])
@@ -8934,6 +8957,7 @@ startpage.com##.w-gl__result:has(a[href*="webmonkez.com"])
 startpage.com##.w-gl__result:has(a[href*="wenyanet.com"])
 startpage.com##.w-gl__result:has(a[href*="while-do.com"])
 startpage.com##.w-gl__result:has(a[href*="wiki-org.ru"])
+startpage.com##.w-gl__result:has(a[href*="wiki.alquds.edu"])
 startpage.com##.w-gl__result:has(a[href*="wiki.cologne"])
 startpage.com##.w-gl__result:has(a[href*="wiki2.info"])
 startpage.com##.w-gl__result:has(a[href*="wiki2.net"])
