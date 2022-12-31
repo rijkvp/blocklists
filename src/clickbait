@@ -1,5 +1,5 @@
-!!meta Title Clickbait Blocklist
-!!meta Description Avoid clickbait by hiding thumbnails on YouTube, Odysee & Invidious.
+!!meta Title Anti-Clickbait
+!!meta Description Hides thumbnails on YouTube, Odysee & Invidious
 !!meta Homepage https://github.com/rijkvp/blocklists
 
 www.youtube.com##ytd-thumbnail

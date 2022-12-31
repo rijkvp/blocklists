@@ -6,9 +6,9 @@ Filter lists for [uBlock Origin](https://github.com/gorhill/uBlock) to improve y
 
 Name | Description | URL
 --- | ---| ---
-[SEO](https://rijkvp.github.io/blocklists/seo.txt) | Improve search results by blocking SEO spam / copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage. Includes domains from [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) | `https://rijkvp.github.io/blocklists/seo.txt`
-[Algorithms](https://rijkvp.github.io/blocklists/algorithms.txt) |  Removes algorithmic 'recommendation' feeds from YouTube, GitHub | `https://rijkvp.github.io/blocklists/algorithms.txt`
-[Clickbait](https://rijkvp.github.io/blocklists/clickbait.txt) | Hides thumbnails on YouTube, Odysee & Invidious | `https://rijkvp.github.io/blocklists/clickbait.txt`
+[Anti SEO/Copycats](https://rijkvp.github.io/blocklists/seo.txt) | Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage. Includes domains from [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) | `https://rijkvp.github.io/blocklists/seo.txt`
+[Anti-Algorithms](https://rijkvp.github.io/blocklists/algorithms.txt) |  Removes algorithmic 'recommendation' feeds from YouTubeGitHub | `https://rijkvp.github.io/blocklists/algorithms.txt`
+[Anti-Clickbait](https://rijkvp.github.io/blocklists/clickbait.txt) | Hides thumbnails on YouTube, Odysee & Invidious | `https://rijkvp.github.io/blocklists/clickbait.txt`
 
 ## Usage
 
