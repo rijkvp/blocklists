@@ -115,7 +115,7 @@ for filename in os.listdir(SOURCE_DIR):
 
     # Add generated & expires metadata
     meta["Generated"] = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-    meta["Expires"] = "1 day"
+    meta["Expires"] = "7 day"
 
     # Generate metadata
     header = ""
