@@ -1,8 +1,8 @@
 ! Title: Algorithms Blocklist
 ! Description: Use websites distractionless by blocking algorithmic feeds.
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-12-25 03:14:42 UTC
-! Expires: 1 day
+! Generated: 2022-12-31 09:58:03 UTC
+! Expires: 7 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
 www.youtube.com##[page-subtype="explore"]
@@ -25,14 +25,19 @@ invidious.dhusch.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.drivet.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.esmailelbob.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.flokinet.to##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.lidarshield.cloud##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.marcopisco.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.namazso.eu##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.nerdvpn.de##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.privacydev.net##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.sethforprivacy.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidious.silur.me##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.slipfox.xyz##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.snopyta.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.tiekoetter.com##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 invidious.weblibre.org##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+iv.melmac.space##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
+vid.priv.au##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 vid.puffyan.us##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 y.com.sb##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
 yewtu.be##div.pure-u-lg-1-5.pure-u-1:nth-of-type(3) > .h-box
