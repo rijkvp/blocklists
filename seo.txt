@@ -1,7 +1,7 @@
-! Title: SEO Blocklist
-! Description: Block SEO bloat sites from search engines.
+! Title: Anti SEO/Copycats
+! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2022-12-31 09:58:06 UTC
+! Generated: 2022-12-31 10:09:36 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
