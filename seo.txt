@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-01-15 03:14:45 UTC
+! Generated: 2023-01-22 03:14:46 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -372,6 +372,7 @@
 ||kompsekret.ru$all
 ||kotaeta.com$all
 ||kutombawewe.net$all
+||kzen.dev$all
 ||laravelquestions.com$all
 ||learn-codes.net$all
 ||learnfk.com$all
@@ -740,6 +741,7 @@
 ||www.nuomiphp.com$all
 ||www.querythreads.com$all
 ||www.semicolonworld.com$all
+||www.solveforum.com$all
 ||www.stackfinder.ru$all
 ||www.thecodeteacher.com$all
 ||www.wake$all
@@ -1135,6 +1137,7 @@ search.brave.com###results > div:has(a[href*="knews.vip"])
 search.brave.com###results > div:has(a[href*="kompsekret.ru"])
 search.brave.com###results > div:has(a[href*="kotaeta.com"])
 search.brave.com###results > div:has(a[href*="kutombawewe.net"])
+search.brave.com###results > div:has(a[href*="kzen.dev"])
 search.brave.com###results > div:has(a[href*="laravelquestions.com"])
 search.brave.com###results > div:has(a[href*="learn-codes.net"])
 search.brave.com###results > div:has(a[href*="learnfk.com"])
@@ -1503,6 +1506,7 @@ search.brave.com###results > div:has(a[href*="www.mejorcodigo.com"])
 search.brave.com###results > div:has(a[href*="www.nuomiphp.com"])
 search.brave.com###results > div:has(a[href*="www.querythreads.com"])
 search.brave.com###results > div:has(a[href*="www.semicolonworld.com"])
+search.brave.com###results > div:has(a[href*="www.solveforum.com"])
 search.brave.com###results > div:has(a[href*="www.stackfinder.ru"])
 search.brave.com###results > div:has(a[href*="www.thecodeteacher.com"])
 search.brave.com###results > div:has(a[href*="www.wake"])
@@ -1898,6 +1902,7 @@ duckduckgo.com###links>div:has(a[href*="knews.vip"])
 duckduckgo.com###links>div:has(a[href*="kompsekret.ru"])
 duckduckgo.com###links>div:has(a[href*="kotaeta.com"])
 duckduckgo.com###links>div:has(a[href*="kutombawewe.net"])
+duckduckgo.com###links>div:has(a[href*="kzen.dev"])
 duckduckgo.com###links>div:has(a[href*="laravelquestions.com"])
 duckduckgo.com###links>div:has(a[href*="learn-codes.net"])
 duckduckgo.com###links>div:has(a[href*="learnfk.com"])
@@ -2266,6 +2271,7 @@ duckduckgo.com###links>div:has(a[href*="www.mejorcodigo.com"])
 duckduckgo.com###links>div:has(a[href*="www.nuomiphp.com"])
 duckduckgo.com###links>div:has(a[href*="www.querythreads.com"])
 duckduckgo.com###links>div:has(a[href*="www.semicolonworld.com"])
+duckduckgo.com###links>div:has(a[href*="www.solveforum.com"])
 duckduckgo.com###links>div:has(a[href*="www.stackfinder.ru"])
 duckduckgo.com###links>div:has(a[href*="www.thecodeteacher.com"])
 duckduckgo.com###links>div:has(a[href*="www.wake"])
@@ -2661,6 +2667,7 @@ kagi.com##._0_image_item[data-host_url*="knews.vip"]
 kagi.com##._0_image_item[data-host_url*="kompsekret.ru"]
 kagi.com##._0_image_item[data-host_url*="kotaeta.com"]
 kagi.com##._0_image_item[data-host_url*="kutombawewe.net"]
+kagi.com##._0_image_item[data-host_url*="kzen.dev"]
 kagi.com##._0_image_item[data-host_url*="laravelquestions.com"]
 kagi.com##._0_image_item[data-host_url*="learn-codes.net"]
 kagi.com##._0_image_item[data-host_url*="learnfk.com"]
@@ -3029,6 +3036,7 @@ kagi.com##._0_image_item[data-host_url*="www.mejorcodigo.com"]
 kagi.com##._0_image_item[data-host_url*="www.nuomiphp.com"]
 kagi.com##._0_image_item[data-host_url*="www.querythreads.com"]
 kagi.com##._0_image_item[data-host_url*="www.semicolonworld.com"]
+kagi.com##._0_image_item[data-host_url*="www.solveforum.com"]
 kagi.com##._0_image_item[data-host_url*="www.stackfinder.ru"]
 kagi.com##._0_image_item[data-host_url*="www.thecodeteacher.com"]
 kagi.com##._0_image_item[data-host_url*="www.wake"]
@@ -3424,6 +3432,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="knews.vip"])
 kagi.com##.search-result:has(a.__sri-url[href*="kompsekret.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="kotaeta.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="kutombawewe.net"])
+kagi.com##.search-result:has(a.__sri-url[href*="kzen.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="laravelquestions.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="learn-codes.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="learnfk.com"])
@@ -3792,6 +3801,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.nuomiphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.semicolonworld.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="www.solveforum.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.stackfinder.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.thecodeteacher.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="www.wake"])
@@ -4187,6 +4197,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="knews.vip"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kompsekret.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kotaeta.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="kutombawewe.net"])
+kagi.com##.sri-group:has(a.__sri-url[href*="kzen.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="laravelquestions.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="learn-codes.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="learnfk.com"])
@@ -4555,6 +4566,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="www.mejorcodigo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.nuomiphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.querythreads.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.semicolonworld.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="www.solveforum.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.stackfinder.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.thecodeteacher.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="www.wake"])
@@ -4950,6 +4962,7 @@ searx.local###main_results .result:has(a[href*="knews.vip"])
 searx.local###main_results .result:has(a[href*="kompsekret.ru"])
 searx.local###main_results .result:has(a[href*="kotaeta.com"])
 searx.local###main_results .result:has(a[href*="kutombawewe.net"])
+searx.local###main_results .result:has(a[href*="kzen.dev"])
 searx.local###main_results .result:has(a[href*="laravelquestions.com"])
 searx.local###main_results .result:has(a[href*="learn-codes.net"])
 searx.local###main_results .result:has(a[href*="learnfk.com"])
@@ -5318,6 +5331,7 @@ searx.local###main_results .result:has(a[href*="www.mejorcodigo.com"])
 searx.local###main_results .result:has(a[href*="www.nuomiphp.com"])
 searx.local###main_results .result:has(a[href*="www.querythreads.com"])
 searx.local###main_results .result:has(a[href*="www.semicolonworld.com"])
+searx.local###main_results .result:has(a[href*="www.solveforum.com"])
 searx.local###main_results .result:has(a[href*="www.stackfinder.ru"])
 searx.local###main_results .result:has(a[href*="www.thecodeteacher.com"])
 searx.local###main_results .result:has(a[href*="www.wake"])
@@ -5713,6 +5727,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(knews.
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kompsekret.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kotaeta.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(kutombawewe.net))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(kzen.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(laravelquestions.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(learn-codes.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(learnfk.com))
@@ -6081,6 +6096,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(www.me
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.nuomiphp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.querythreads.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.semicolonworld.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(www.solveforum.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.stackfinder.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.thecodeteacher.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(www.wake))
@@ -6476,6 +6492,7 @@ startpage.com##.w-gl__result:has(a[href*="knews.vip"])
 startpage.com##.w-gl__result:has(a[href*="kompsekret.ru"])
 startpage.com##.w-gl__result:has(a[href*="kotaeta.com"])
 startpage.com##.w-gl__result:has(a[href*="kutombawewe.net"])
+startpage.com##.w-gl__result:has(a[href*="kzen.dev"])
 startpage.com##.w-gl__result:has(a[href*="laravelquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="learn-codes.net"])
 startpage.com##.w-gl__result:has(a[href*="learnfk.com"])
@@ -6844,6 +6861,7 @@ startpage.com##.w-gl__result:has(a[href*="www.mejorcodigo.com"])
 startpage.com##.w-gl__result:has(a[href*="www.nuomiphp.com"])
 startpage.com##.w-gl__result:has(a[href*="www.querythreads.com"])
 startpage.com##.w-gl__result:has(a[href*="www.semicolonworld.com"])
+startpage.com##.w-gl__result:has(a[href*="www.solveforum.com"])
 startpage.com##.w-gl__result:has(a[href*="www.stackfinder.ru"])
 startpage.com##.w-gl__result:has(a[href*="www.thecodeteacher.com"])
 startpage.com##.w-gl__result:has(a[href*="www.wake"])
