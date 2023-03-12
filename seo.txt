@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-03-05 03:26:05 UTC
+! Generated: 2023-03-12 03:15:36 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -398,6 +398,7 @@
 ||mediawiki.feverous.co.uk$all
 ||mejorcodigo.com$all
 ||microeducate.tech$all
+||milk-it.net$all
 ||minggu.live$all
 ||mlink.in$all
 ||mlog.club$all
@@ -427,7 +428,6 @@
 ||niceans.com$all
 ||noblenaz.org$all
 ||notcrash.com$all
-||npm.io$all
 ||npmmirror.com$all
 ||nuomiphp.com$all
 ||nxtstage.net$all
@@ -1151,6 +1151,7 @@ search.brave.com###results > div:has(a[href*="mediatagtw.com"])
 search.brave.com###results > div:has(a[href*="mediawiki.feverous.co.uk"])
 search.brave.com###results > div:has(a[href*="mejorcodigo.com"])
 search.brave.com###results > div:has(a[href*="microeducate.tech"])
+search.brave.com###results > div:has(a[href*="milk-it.net"])
 search.brave.com###results > div:has(a[href*="minggu.live"])
 search.brave.com###results > div:has(a[href*="mlink.in"])
 search.brave.com###results > div:has(a[href*="mlog.club"])
@@ -1180,7 +1181,6 @@ search.brave.com###results > div:has(a[href*="nibes.cn"])
 search.brave.com###results > div:has(a[href*="niceans.com"])
 search.brave.com###results > div:has(a[href*="noblenaz.org"])
 search.brave.com###results > div:has(a[href*="notcrash.com"])
-search.brave.com###results > div:has(a[href*="npm.io"])
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 search.brave.com###results > div:has(a[href*="nuomiphp.com"])
 search.brave.com###results > div:has(a[href*="nxtstage.net"])
@@ -1904,6 +1904,7 @@ duckduckgo.com###links>div:has(a[href*="mediatagtw.com"])
 duckduckgo.com###links>div:has(a[href*="mediawiki.feverous.co.uk"])
 duckduckgo.com###links>div:has(a[href*="mejorcodigo.com"])
 duckduckgo.com###links>div:has(a[href*="microeducate.tech"])
+duckduckgo.com###links>div:has(a[href*="milk-it.net"])
 duckduckgo.com###links>div:has(a[href*="minggu.live"])
 duckduckgo.com###links>div:has(a[href*="mlink.in"])
 duckduckgo.com###links>div:has(a[href*="mlog.club"])
@@ -1933,7 +1934,6 @@ duckduckgo.com###links>div:has(a[href*="nibes.cn"])
 duckduckgo.com###links>div:has(a[href*="niceans.com"])
 duckduckgo.com###links>div:has(a[href*="noblenaz.org"])
 duckduckgo.com###links>div:has(a[href*="notcrash.com"])
-duckduckgo.com###links>div:has(a[href*="npm.io"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="nuomiphp.com"])
 duckduckgo.com###links>div:has(a[href*="nxtstage.net"])
@@ -2657,6 +2657,7 @@ kagi.com##._0_image_item[data-host_url*="mediatagtw.com"]
 kagi.com##._0_image_item[data-host_url*="mediawiki.feverous.co.uk"]
 kagi.com##._0_image_item[data-host_url*="mejorcodigo.com"]
 kagi.com##._0_image_item[data-host_url*="microeducate.tech"]
+kagi.com##._0_image_item[data-host_url*="milk-it.net"]
 kagi.com##._0_image_item[data-host_url*="minggu.live"]
 kagi.com##._0_image_item[data-host_url*="mlink.in"]
 kagi.com##._0_image_item[data-host_url*="mlog.club"]
@@ -2686,7 +2687,6 @@ kagi.com##._0_image_item[data-host_url*="nibes.cn"]
 kagi.com##._0_image_item[data-host_url*="niceans.com"]
 kagi.com##._0_image_item[data-host_url*="noblenaz.org"]
 kagi.com##._0_image_item[data-host_url*="notcrash.com"]
-kagi.com##._0_image_item[data-host_url*="npm.io"]
 kagi.com##._0_image_item[data-host_url*="npmmirror.com"]
 kagi.com##._0_image_item[data-host_url*="nuomiphp.com"]
 kagi.com##._0_image_item[data-host_url*="nxtstage.net"]
@@ -3410,6 +3410,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="mediatagtw.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="mediawiki.feverous.co.uk"])
 kagi.com##.search-result:has(a.__sri-url[href*="mejorcodigo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="microeducate.tech"])
+kagi.com##.search-result:has(a.__sri-url[href*="milk-it.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="minggu.live"])
 kagi.com##.search-result:has(a.__sri-url[href*="mlink.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="mlog.club"])
@@ -3439,7 +3440,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="nibes.cn"])
 kagi.com##.search-result:has(a.__sri-url[href*="niceans.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="noblenaz.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="notcrash.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="npm.io"])
 kagi.com##.search-result:has(a.__sri-url[href*="npmmirror.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="nuomiphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="nxtstage.net"])
@@ -4163,6 +4163,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="mediatagtw.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mediawiki.feverous.co.uk"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mejorcodigo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="microeducate.tech"])
+kagi.com##.sri-group:has(a.__sri-url[href*="milk-it.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="minggu.live"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mlink.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mlog.club"])
@@ -4192,7 +4193,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="nibes.cn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="niceans.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="noblenaz.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="notcrash.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="npm.io"])
 kagi.com##.sri-group:has(a.__sri-url[href*="npmmirror.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="nuomiphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="nxtstage.net"])
@@ -4916,6 +4916,7 @@ searx.local###main_results .result:has(a[href*="mediatagtw.com"])
 searx.local###main_results .result:has(a[href*="mediawiki.feverous.co.uk"])
 searx.local###main_results .result:has(a[href*="mejorcodigo.com"])
 searx.local###main_results .result:has(a[href*="microeducate.tech"])
+searx.local###main_results .result:has(a[href*="milk-it.net"])
 searx.local###main_results .result:has(a[href*="minggu.live"])
 searx.local###main_results .result:has(a[href*="mlink.in"])
 searx.local###main_results .result:has(a[href*="mlog.club"])
@@ -4945,7 +4946,6 @@ searx.local###main_results .result:has(a[href*="nibes.cn"])
 searx.local###main_results .result:has(a[href*="niceans.com"])
 searx.local###main_results .result:has(a[href*="noblenaz.org"])
 searx.local###main_results .result:has(a[href*="notcrash.com"])
-searx.local###main_results .result:has(a[href*="npm.io"])
 searx.local###main_results .result:has(a[href*="npmmirror.com"])
 searx.local###main_results .result:has(a[href*="nuomiphp.com"])
 searx.local###main_results .result:has(a[href*="nxtstage.net"])
@@ -5669,6 +5669,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(mediat
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mediawiki.feverous.co.uk))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mejorcodigo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(microeducate.tech))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(milk-it.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(minggu.live))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mlink.in))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mlog.club))
@@ -5698,7 +5699,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(nibes.
 startpage.com##.image-container:has(div.image-quick-details span:has-text(niceans.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(noblenaz.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(notcrash.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(npm.io))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(npmmirror.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(nuomiphp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(nxtstage.net))
@@ -6422,6 +6422,7 @@ startpage.com##.w-gl__result:has(a[href*="mediatagtw.com"])
 startpage.com##.w-gl__result:has(a[href*="mediawiki.feverous.co.uk"])
 startpage.com##.w-gl__result:has(a[href*="mejorcodigo.com"])
 startpage.com##.w-gl__result:has(a[href*="microeducate.tech"])
+startpage.com##.w-gl__result:has(a[href*="milk-it.net"])
 startpage.com##.w-gl__result:has(a[href*="minggu.live"])
 startpage.com##.w-gl__result:has(a[href*="mlink.in"])
 startpage.com##.w-gl__result:has(a[href*="mlog.club"])
@@ -6451,7 +6452,6 @@ startpage.com##.w-gl__result:has(a[href*="nibes.cn"])
 startpage.com##.w-gl__result:has(a[href*="niceans.com"])
 startpage.com##.w-gl__result:has(a[href*="noblenaz.org"])
 startpage.com##.w-gl__result:has(a[href*="notcrash.com"])
-startpage.com##.w-gl__result:has(a[href*="npm.io"])
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 startpage.com##.w-gl__result:has(a[href*="nuomiphp.com"])
 startpage.com##.w-gl__result:has(a[href*="nxtstage.net"])
