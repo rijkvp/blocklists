@@ -1,7 +1,7 @@
 ! Title: Anti-Clickbait
 ! Description: Hides thumbnails on YouTube, Odysee & Invidious
 ! Homepage: https://github.com/rijkvp/blocklists
-! Generated: 2023-04-02 03:13:00 UTC
+! Generated: 2023-04-09 03:12:56 UTC
 ! Expires: 7 day
 www.youtube.com##ytd-thumbnail
 www.youtube.com###playlist-thumbnails
@@ -10,6 +10,8 @@ inv.bp.projectsegfau.lt##.thumbnail
 inv.odyssey346.dev##.thumbnail
 inv.riverside.rocks##.thumbnail
 inv.vern.cc##.thumbnail
+inv.zzls.xyz##.thumbnail
+invidious.0011.lt##.thumbnail
 invidious.baczek.me##.thumbnail
 invidious.esmailelbob.xyz##.thumbnail
 invidious.flokinet.to##.thumbnail
@@ -19,16 +21,15 @@ invidious.nerdvpn.de##.thumbnail
 invidious.privacydev.net##.thumbnail
 invidious.projectsegfau.lt##.thumbnail
 invidious.sethforprivacy.com##.thumbnail
-invidious.slipfox.xyz##.thumbnail
 invidious.snopyta.org##.thumbnail
 invidious.tiekoetter.com##.thumbnail
-invidious.weblibre.org##.thumbnail
+invidious.vpsburti.com##.thumbnail
 iv.ggtyler.dev##.thumbnail
 iv.melmac.space##.thumbnail
+vid.priv.au##.thumbnail
 vid.puffyan.us##.thumbnail
 watch.thekitty.zone##.thumbnail
 y.com.sb##.thumbnail
 yewtu.be##.thumbnail
 yt.artemislena.eu##.thumbnail
 yt.funami.tech##.thumbnail
-yt.oelrichsgarcia.de##.thumbnail
