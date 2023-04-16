@@ -1,7 +1,7 @@
 ! Title: Anti-Clickbait
 ! Description: Hides thumbnails on YouTube, Odysee & Invidious
 ! Homepage: https://github.com/rijkvp/blocklists
-! Generated: 2023-04-09 03:12:56 UTC
+! Generated: 2023-04-16 03:13:33 UTC
 ! Expires: 7 day
 www.youtube.com##ytd-thumbnail
 www.youtube.com###playlist-thumbnails
@@ -9,7 +9,6 @@ odysee.com##.media__thumb
 inv.bp.projectsegfau.lt##.thumbnail
 inv.odyssey346.dev##.thumbnail
 inv.riverside.rocks##.thumbnail
-inv.vern.cc##.thumbnail
 inv.zzls.xyz##.thumbnail
 invidious.0011.lt##.thumbnail
 invidious.baczek.me##.thumbnail
