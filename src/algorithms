@@ -1,5 +1,5 @@
 !!meta Title Anti-Algorithms
-!!meta Description Removes algorithmic 'recommendation' feeds from YouTube and GitHub
+!!meta Description Removes algorithmic 'recommendation' feeds from YouTube
 !!meta Homepage https://github.com/rijkvp/blocklists/
 
 ! YouTube
@@ -16,11 +16,4 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytp-heat-map-container
-
-! GitHub
-
-! The new agorithmic 'For you' feed
-github.com##.UnderlineNav.overflow-visible.js-feeds-tabs
-! Side menu with distracting stuff
-github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
 
