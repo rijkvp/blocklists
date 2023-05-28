@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-05-21 03:13:11 UTC
+! Generated: 2023-05-28 03:13:37 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -243,6 +243,7 @@
 ||fullstack.cafe$all
 ||fullstackuser.com$all
 ||fuscin.com$all
+||gangofcoders.net$all
 ||gateoverflow.in$all
 ||gaz.wiki$all
 ||geeksforgeeks.org$all
@@ -285,6 +286,7 @@
 ||grokbase.com$all
 ||gupgallery.com$all
 ||gushiciku.cn$all
+||hackerthink.com$all
 ||heavenlymutex.com$all
 ||hellojava.com$all
 ||helpex.vn$all
@@ -519,6 +521,7 @@
 ||questu.ru$all
 ||quick-advisors.com$all
 ||quickanswer.blog$all
+||rat.dev$all
 ||rateye.tistory.com$all
 ||reactquestions.com$all
 ||readforlearn.com$all
@@ -996,6 +999,7 @@ search.brave.com###results > div:has(a[href*="frwiki.wiki"])
 search.brave.com###results > div:has(a[href*="fullstack.cafe"])
 search.brave.com###results > div:has(a[href*="fullstackuser.com"])
 search.brave.com###results > div:has(a[href*="fuscin.com"])
+search.brave.com###results > div:has(a[href*="gangofcoders.net"])
 search.brave.com###results > div:has(a[href*="gateoverflow.in"])
 search.brave.com###results > div:has(a[href*="gaz.wiki"])
 search.brave.com###results > div:has(a[href*="geeksforgeeks.org"])
@@ -1038,6 +1042,7 @@ search.brave.com###results > div:has(a[href*="graef.io"])
 search.brave.com###results > div:has(a[href*="grokbase.com"])
 search.brave.com###results > div:has(a[href*="gupgallery.com"])
 search.brave.com###results > div:has(a[href*="gushiciku.cn"])
+search.brave.com###results > div:has(a[href*="hackerthink.com"])
 search.brave.com###results > div:has(a[href*="heavenlymutex.com"])
 search.brave.com###results > div:has(a[href*="hellojava.com"])
 search.brave.com###results > div:has(a[href*="helpex.vn"])
@@ -1272,6 +1277,7 @@ search.brave.com###results > div:has(a[href*="question-it.com"])
 search.brave.com###results > div:has(a[href*="questu.ru"])
 search.brave.com###results > div:has(a[href*="quick-advisors.com"])
 search.brave.com###results > div:has(a[href*="quickanswer.blog"])
+search.brave.com###results > div:has(a[href*="rat.dev"])
 search.brave.com###results > div:has(a[href*="rateye.tistory.com"])
 search.brave.com###results > div:has(a[href*="reactquestions.com"])
 search.brave.com###results > div:has(a[href*="readforlearn.com"])
@@ -1749,6 +1755,7 @@ duckduckgo.com###links>div:has(a[href*="frwiki.wiki"])
 duckduckgo.com###links>div:has(a[href*="fullstack.cafe"])
 duckduckgo.com###links>div:has(a[href*="fullstackuser.com"])
 duckduckgo.com###links>div:has(a[href*="fuscin.com"])
+duckduckgo.com###links>div:has(a[href*="gangofcoders.net"])
 duckduckgo.com###links>div:has(a[href*="gateoverflow.in"])
 duckduckgo.com###links>div:has(a[href*="gaz.wiki"])
 duckduckgo.com###links>div:has(a[href*="geeksforgeeks.org"])
@@ -1791,6 +1798,7 @@ duckduckgo.com###links>div:has(a[href*="graef.io"])
 duckduckgo.com###links>div:has(a[href*="grokbase.com"])
 duckduckgo.com###links>div:has(a[href*="gupgallery.com"])
 duckduckgo.com###links>div:has(a[href*="gushiciku.cn"])
+duckduckgo.com###links>div:has(a[href*="hackerthink.com"])
 duckduckgo.com###links>div:has(a[href*="heavenlymutex.com"])
 duckduckgo.com###links>div:has(a[href*="hellojava.com"])
 duckduckgo.com###links>div:has(a[href*="helpex.vn"])
@@ -2025,6 +2033,7 @@ duckduckgo.com###links>div:has(a[href*="question-it.com"])
 duckduckgo.com###links>div:has(a[href*="questu.ru"])
 duckduckgo.com###links>div:has(a[href*="quick-advisors.com"])
 duckduckgo.com###links>div:has(a[href*="quickanswer.blog"])
+duckduckgo.com###links>div:has(a[href*="rat.dev"])
 duckduckgo.com###links>div:has(a[href*="rateye.tistory.com"])
 duckduckgo.com###links>div:has(a[href*="reactquestions.com"])
 duckduckgo.com###links>div:has(a[href*="readforlearn.com"])
@@ -2502,6 +2511,7 @@ kagi.com##._0_image_item[data-host_url*="frwiki.wiki"]
 kagi.com##._0_image_item[data-host_url*="fullstack.cafe"]
 kagi.com##._0_image_item[data-host_url*="fullstackuser.com"]
 kagi.com##._0_image_item[data-host_url*="fuscin.com"]
+kagi.com##._0_image_item[data-host_url*="gangofcoders.net"]
 kagi.com##._0_image_item[data-host_url*="gateoverflow.in"]
 kagi.com##._0_image_item[data-host_url*="gaz.wiki"]
 kagi.com##._0_image_item[data-host_url*="geeksforgeeks.org"]
@@ -2544,6 +2554,7 @@ kagi.com##._0_image_item[data-host_url*="graef.io"]
 kagi.com##._0_image_item[data-host_url*="grokbase.com"]
 kagi.com##._0_image_item[data-host_url*="gupgallery.com"]
 kagi.com##._0_image_item[data-host_url*="gushiciku.cn"]
+kagi.com##._0_image_item[data-host_url*="hackerthink.com"]
 kagi.com##._0_image_item[data-host_url*="heavenlymutex.com"]
 kagi.com##._0_image_item[data-host_url*="hellojava.com"]
 kagi.com##._0_image_item[data-host_url*="helpex.vn"]
@@ -2778,6 +2789,7 @@ kagi.com##._0_image_item[data-host_url*="question-it.com"]
 kagi.com##._0_image_item[data-host_url*="questu.ru"]
 kagi.com##._0_image_item[data-host_url*="quick-advisors.com"]
 kagi.com##._0_image_item[data-host_url*="quickanswer.blog"]
+kagi.com##._0_image_item[data-host_url*="rat.dev"]
 kagi.com##._0_image_item[data-host_url*="rateye.tistory.com"]
 kagi.com##._0_image_item[data-host_url*="reactquestions.com"]
 kagi.com##._0_image_item[data-host_url*="readforlearn.com"]
@@ -3255,6 +3267,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="frwiki.wiki"])
 kagi.com##.search-result:has(a.__sri-url[href*="fullstack.cafe"])
 kagi.com##.search-result:has(a.__sri-url[href*="fullstackuser.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fuscin.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="gangofcoders.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gateoverflow.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="gaz.wiki"])
 kagi.com##.search-result:has(a.__sri-url[href*="geeksforgeeks.org"])
@@ -3297,6 +3310,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="graef.io"])
 kagi.com##.search-result:has(a.__sri-url[href*="grokbase.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gupgallery.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gushiciku.cn"])
+kagi.com##.search-result:has(a.__sri-url[href*="hackerthink.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="heavenlymutex.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="hellojava.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="helpex.vn"])
@@ -3531,6 +3545,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="question-it.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="questu.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="quick-advisors.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="quickanswer.blog"])
+kagi.com##.search-result:has(a.__sri-url[href*="rat.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="rateye.tistory.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="reactquestions.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="readforlearn.com"])
@@ -4008,6 +4023,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="frwiki.wiki"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fullstack.cafe"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fullstackuser.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fuscin.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="gangofcoders.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gateoverflow.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gaz.wiki"])
 kagi.com##.sri-group:has(a.__sri-url[href*="geeksforgeeks.org"])
@@ -4050,6 +4066,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="graef.io"])
 kagi.com##.sri-group:has(a.__sri-url[href*="grokbase.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gupgallery.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gushiciku.cn"])
+kagi.com##.sri-group:has(a.__sri-url[href*="hackerthink.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="heavenlymutex.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="hellojava.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="helpex.vn"])
@@ -4284,6 +4301,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="question-it.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="questu.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quick-advisors.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quickanswer.blog"])
+kagi.com##.sri-group:has(a.__sri-url[href*="rat.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rateye.tistory.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="reactquestions.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="readforlearn.com"])
@@ -4761,6 +4779,7 @@ searx.local###main_results .result:has(a[href*="frwiki.wiki"])
 searx.local###main_results .result:has(a[href*="fullstack.cafe"])
 searx.local###main_results .result:has(a[href*="fullstackuser.com"])
 searx.local###main_results .result:has(a[href*="fuscin.com"])
+searx.local###main_results .result:has(a[href*="gangofcoders.net"])
 searx.local###main_results .result:has(a[href*="gateoverflow.in"])
 searx.local###main_results .result:has(a[href*="gaz.wiki"])
 searx.local###main_results .result:has(a[href*="geeksforgeeks.org"])
@@ -4803,6 +4822,7 @@ searx.local###main_results .result:has(a[href*="graef.io"])
 searx.local###main_results .result:has(a[href*="grokbase.com"])
 searx.local###main_results .result:has(a[href*="gupgallery.com"])
 searx.local###main_results .result:has(a[href*="gushiciku.cn"])
+searx.local###main_results .result:has(a[href*="hackerthink.com"])
 searx.local###main_results .result:has(a[href*="heavenlymutex.com"])
 searx.local###main_results .result:has(a[href*="hellojava.com"])
 searx.local###main_results .result:has(a[href*="helpex.vn"])
@@ -5037,6 +5057,7 @@ searx.local###main_results .result:has(a[href*="question-it.com"])
 searx.local###main_results .result:has(a[href*="questu.ru"])
 searx.local###main_results .result:has(a[href*="quick-advisors.com"])
 searx.local###main_results .result:has(a[href*="quickanswer.blog"])
+searx.local###main_results .result:has(a[href*="rat.dev"])
 searx.local###main_results .result:has(a[href*="rateye.tistory.com"])
 searx.local###main_results .result:has(a[href*="reactquestions.com"])
 searx.local###main_results .result:has(a[href*="readforlearn.com"])
@@ -5514,6 +5535,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(frwiki
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fullstack.cafe))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fullstackuser.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fuscin.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(gangofcoders.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gateoverflow.in))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gaz.wiki))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(geeksforgeeks.org))
@@ -5556,6 +5578,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(graef.
 startpage.com##.image-container:has(div.image-quick-details span:has-text(grokbase.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gupgallery.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gushiciku.cn))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(hackerthink.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(heavenlymutex.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(hellojava.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(helpex.vn))
@@ -5790,6 +5813,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(questi
 startpage.com##.image-container:has(div.image-quick-details span:has-text(questu.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quick-advisors.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quickanswer.blog))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(rat.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rateye.tistory.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(reactquestions.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(readforlearn.com))
@@ -6267,6 +6291,7 @@ startpage.com##.w-gl__result:has(a[href*="frwiki.wiki"])
 startpage.com##.w-gl__result:has(a[href*="fullstack.cafe"])
 startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
 startpage.com##.w-gl__result:has(a[href*="fuscin.com"])
+startpage.com##.w-gl__result:has(a[href*="gangofcoders.net"])
 startpage.com##.w-gl__result:has(a[href*="gateoverflow.in"])
 startpage.com##.w-gl__result:has(a[href*="gaz.wiki"])
 startpage.com##.w-gl__result:has(a[href*="geeksforgeeks.org"])
@@ -6309,6 +6334,7 @@ startpage.com##.w-gl__result:has(a[href*="graef.io"])
 startpage.com##.w-gl__result:has(a[href*="grokbase.com"])
 startpage.com##.w-gl__result:has(a[href*="gupgallery.com"])
 startpage.com##.w-gl__result:has(a[href*="gushiciku.cn"])
+startpage.com##.w-gl__result:has(a[href*="hackerthink.com"])
 startpage.com##.w-gl__result:has(a[href*="heavenlymutex.com"])
 startpage.com##.w-gl__result:has(a[href*="hellojava.com"])
 startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
@@ -6543,6 +6569,7 @@ startpage.com##.w-gl__result:has(a[href*="question-it.com"])
 startpage.com##.w-gl__result:has(a[href*="questu.ru"])
 startpage.com##.w-gl__result:has(a[href*="quick-advisors.com"])
 startpage.com##.w-gl__result:has(a[href*="quickanswer.blog"])
+startpage.com##.w-gl__result:has(a[href*="rat.dev"])
 startpage.com##.w-gl__result:has(a[href*="rateye.tistory.com"])
 startpage.com##.w-gl__result:has(a[href*="reactquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="readforlearn.com"])
