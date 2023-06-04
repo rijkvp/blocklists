@@ -1,13 +1,12 @@
 ! Title: Anti-Clickbait
 ! Description: Hides thumbnails on YouTube, Odysee & Invidious
 ! Homepage: https://github.com/rijkvp/blocklists
-! Generated: 2023-05-28 03:13:38 UTC
+! Generated: 2023-06-04 03:25:44 UTC
 ! Expires: 7 day
 www.youtube.com##ytd-thumbnail
 www.youtube.com###playlist-thumbnails
 odysee.com##.media__thumb
 inv.bp.projectsegfau.lt##.thumbnail
-inv.pistasjis.net##.thumbnail
 inv.riverside.rocks##.thumbnail
 inv.tux.pizza##.thumbnail
 inv.zzls.xyz##.thumbnail
@@ -16,20 +15,15 @@ invidious.baczek.me##.thumbnail
 invidious.flokinet.to##.thumbnail
 invidious.kavin.rocks##.thumbnail
 invidious.lunar.icu##.thumbnail
-invidious.nerdvpn.de##.thumbnail
-invidious.nogafa.org##.thumbnail
 invidious.privacydev.net##.thumbnail
 invidious.projectsegfau.lt##.thumbnail
-invidious.sethforprivacy.com##.thumbnail
 invidious.slipfox.xyz##.thumbnail
 invidious.snopyta.org##.thumbnail
 invidious.tiekoetter.com##.thumbnail
-invidious.vpsburti.com##.thumbnail
 iv.ggtyler.dev##.thumbnail
 iv.melmac.space##.thumbnail
 vid.priv.au##.thumbnail
 vid.puffyan.us##.thumbnail
-y.com.sb##.thumbnail
 yewtu.be##.thumbnail
 yt.artemislena.eu##.thumbnail
 yt.floss.media##.thumbnail
