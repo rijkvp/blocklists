@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-07-02 03:25:38 UTC
+! Generated: 2023-07-09 03:28:16 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -15,6 +15,7 @@
 ||9ishenzhen.com$all
 ||9to5answer.com$all
 ||9to5science.com$all
+||accordeonmuseum.nl$all
 ||addcodings.com$all
 ||adoclib.com$all
 ||aing.railpage.com.au$all
@@ -115,6 +116,7 @@
 ||codehunter.cc$all
 ||codeindex.ru$all
 ||codejzy.com$all
+||codemonkey.link$all
 ||codengineering.ru$all
 ||codenong.com$all
 ||coder-solution-jp.com$all
@@ -771,6 +773,7 @@ search.brave.com###results > div:has(a[href*="955yes.com"])
 search.brave.com###results > div:has(a[href*="9ishenzhen.com"])
 search.brave.com###results > div:has(a[href*="9to5answer.com"])
 search.brave.com###results > div:has(a[href*="9to5science.com"])
+search.brave.com###results > div:has(a[href*="accordeonmuseum.nl"])
 search.brave.com###results > div:has(a[href*="addcodings.com"])
 search.brave.com###results > div:has(a[href*="adoclib.com"])
 search.brave.com###results > div:has(a[href*="aing.railpage.com.au"])
@@ -871,6 +874,7 @@ search.brave.com###results > div:has(a[href*="codehero.jp"])
 search.brave.com###results > div:has(a[href*="codehunter.cc"])
 search.brave.com###results > div:has(a[href*="codeindex.ru"])
 search.brave.com###results > div:has(a[href*="codejzy.com"])
+search.brave.com###results > div:has(a[href*="codemonkey.link"])
 search.brave.com###results > div:has(a[href*="codengineering.ru"])
 search.brave.com###results > div:has(a[href*="codenong.com"])
 search.brave.com###results > div:has(a[href*="coder-solution-jp.com"])
@@ -1527,6 +1531,7 @@ duckduckgo.com###links>div:has(a[href*="955yes.com"])
 duckduckgo.com###links>div:has(a[href*="9ishenzhen.com"])
 duckduckgo.com###links>div:has(a[href*="9to5answer.com"])
 duckduckgo.com###links>div:has(a[href*="9to5science.com"])
+duckduckgo.com###links>div:has(a[href*="accordeonmuseum.nl"])
 duckduckgo.com###links>div:has(a[href*="addcodings.com"])
 duckduckgo.com###links>div:has(a[href*="adoclib.com"])
 duckduckgo.com###links>div:has(a[href*="aing.railpage.com.au"])
@@ -1627,6 +1632,7 @@ duckduckgo.com###links>div:has(a[href*="codehero.jp"])
 duckduckgo.com###links>div:has(a[href*="codehunter.cc"])
 duckduckgo.com###links>div:has(a[href*="codeindex.ru"])
 duckduckgo.com###links>div:has(a[href*="codejzy.com"])
+duckduckgo.com###links>div:has(a[href*="codemonkey.link"])
 duckduckgo.com###links>div:has(a[href*="codengineering.ru"])
 duckduckgo.com###links>div:has(a[href*="codenong.com"])
 duckduckgo.com###links>div:has(a[href*="coder-solution-jp.com"])
@@ -2283,6 +2289,7 @@ kagi.com##._0_image_item[data-host_url*="955yes.com"]
 kagi.com##._0_image_item[data-host_url*="9ishenzhen.com"]
 kagi.com##._0_image_item[data-host_url*="9to5answer.com"]
 kagi.com##._0_image_item[data-host_url*="9to5science.com"]
+kagi.com##._0_image_item[data-host_url*="accordeonmuseum.nl"]
 kagi.com##._0_image_item[data-host_url*="addcodings.com"]
 kagi.com##._0_image_item[data-host_url*="adoclib.com"]
 kagi.com##._0_image_item[data-host_url*="aing.railpage.com.au"]
@@ -2383,6 +2390,7 @@ kagi.com##._0_image_item[data-host_url*="codehero.jp"]
 kagi.com##._0_image_item[data-host_url*="codehunter.cc"]
 kagi.com##._0_image_item[data-host_url*="codeindex.ru"]
 kagi.com##._0_image_item[data-host_url*="codejzy.com"]
+kagi.com##._0_image_item[data-host_url*="codemonkey.link"]
 kagi.com##._0_image_item[data-host_url*="codengineering.ru"]
 kagi.com##._0_image_item[data-host_url*="codenong.com"]
 kagi.com##._0_image_item[data-host_url*="coder-solution-jp.com"]
@@ -3039,6 +3047,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="955yes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="9ishenzhen.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="9to5answer.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="9to5science.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="accordeonmuseum.nl"])
 kagi.com##.search-result:has(a.__sri-url[href*="addcodings.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="adoclib.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="aing.railpage.com.au"])
@@ -3139,6 +3148,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="codehero.jp"])
 kagi.com##.search-result:has(a.__sri-url[href*="codehunter.cc"])
 kagi.com##.search-result:has(a.__sri-url[href*="codeindex.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="codejzy.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="codemonkey.link"])
 kagi.com##.search-result:has(a.__sri-url[href*="codengineering.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="codenong.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coder-solution-jp.com"])
@@ -3795,6 +3805,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="955yes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="9ishenzhen.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="9to5answer.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="9to5science.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="accordeonmuseum.nl"])
 kagi.com##.sri-group:has(a.__sri-url[href*="addcodings.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="adoclib.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="aing.railpage.com.au"])
@@ -3895,6 +3906,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="codehero.jp"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codehunter.cc"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codeindex.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codejzy.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="codemonkey.link"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codengineering.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codenong.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coder-solution-jp.com"])
@@ -4551,6 +4563,7 @@ searx.local###main_results .result:has(a[href*="955yes.com"])
 searx.local###main_results .result:has(a[href*="9ishenzhen.com"])
 searx.local###main_results .result:has(a[href*="9to5answer.com"])
 searx.local###main_results .result:has(a[href*="9to5science.com"])
+searx.local###main_results .result:has(a[href*="accordeonmuseum.nl"])
 searx.local###main_results .result:has(a[href*="addcodings.com"])
 searx.local###main_results .result:has(a[href*="adoclib.com"])
 searx.local###main_results .result:has(a[href*="aing.railpage.com.au"])
@@ -4651,6 +4664,7 @@ searx.local###main_results .result:has(a[href*="codehero.jp"])
 searx.local###main_results .result:has(a[href*="codehunter.cc"])
 searx.local###main_results .result:has(a[href*="codeindex.ru"])
 searx.local###main_results .result:has(a[href*="codejzy.com"])
+searx.local###main_results .result:has(a[href*="codemonkey.link"])
 searx.local###main_results .result:has(a[href*="codengineering.ru"])
 searx.local###main_results .result:has(a[href*="codenong.com"])
 searx.local###main_results .result:has(a[href*="coder-solution-jp.com"])
@@ -5307,6 +5321,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(955yes
 startpage.com##.image-container:has(div.image-quick-details span:has-text(9ishenzhen.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(9to5answer.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(9to5science.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(accordeonmuseum.nl))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(addcodings.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(adoclib.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(aing.railpage.com.au))
@@ -5407,6 +5422,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(codehe
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codehunter.cc))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codeindex.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codejzy.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(codemonkey.link))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codengineering.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codenong.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coder-solution-jp.com))
@@ -6063,6 +6079,7 @@ startpage.com##.w-gl__result:has(a[href*="955yes.com"])
 startpage.com##.w-gl__result:has(a[href*="9ishenzhen.com"])
 startpage.com##.w-gl__result:has(a[href*="9to5answer.com"])
 startpage.com##.w-gl__result:has(a[href*="9to5science.com"])
+startpage.com##.w-gl__result:has(a[href*="accordeonmuseum.nl"])
 startpage.com##.w-gl__result:has(a[href*="addcodings.com"])
 startpage.com##.w-gl__result:has(a[href*="adoclib.com"])
 startpage.com##.w-gl__result:has(a[href*="aing.railpage.com.au"])
@@ -6163,6 +6180,7 @@ startpage.com##.w-gl__result:has(a[href*="codehero.jp"])
 startpage.com##.w-gl__result:has(a[href*="codehunter.cc"])
 startpage.com##.w-gl__result:has(a[href*="codeindex.ru"])
 startpage.com##.w-gl__result:has(a[href*="codejzy.com"])
+startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
 startpage.com##.w-gl__result:has(a[href*="codengineering.ru"])
 startpage.com##.w-gl__result:has(a[href*="codenong.com"])
 startpage.com##.w-gl__result:has(a[href*="coder-solution-jp.com"])
