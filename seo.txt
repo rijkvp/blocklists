@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-08-06 03:12:21 UTC
+! Generated: 2023-08-13 03:11:59 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -102,6 +102,7 @@
 ||code-examples.net$all
 ||code-paper.com$all
 ||code.i$all
+||code911.top$all
 ||codebaoku.com$all
 ||coded3.com$all
 ||codefaq.info$all
@@ -259,6 +260,7 @@
 ||gitanswer.net$all
 ||gitcode.net$all
 ||gitdetail.com$all
+||giterhub.com$all
 ||giters.com$all
 ||gitfreak.com$all
 ||github-wiki-see.page$all
@@ -267,6 +269,7 @@
 ||github.phala.one$all
 ||githubhelp.com$all
 ||githubhot.com$all
+||githubissues.com$all
 ||githubja.com$all
 ||githublab.com$all
 ||githubmate.com$all
@@ -651,8 +654,10 @@
 ||ubuntuplace.info$all
 ||uebu-kaihatsu.jp.net$all
 ||utyatnishna.ru$all
+||uvdos.com$all
 ||uwenku.com$all
 ||v-resheno.ru$all
+||validsense.com$all
 ||vigge.cn$all
 ||vigge.net$all
 ||vigges.net$all
@@ -860,6 +865,7 @@ search.brave.com###results > div:has(a[href*="code-error.com"])
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 search.brave.com###results > div:has(a[href*="code-paper.com"])
 search.brave.com###results > div:has(a[href*="code.i"])
+search.brave.com###results > div:has(a[href*="code911.top"])
 search.brave.com###results > div:has(a[href*="codebaoku.com"])
 search.brave.com###results > div:has(a[href*="coded3.com"])
 search.brave.com###results > div:has(a[href*="codefaq.info"])
@@ -1017,6 +1023,7 @@ search.brave.com###results > div:has(a[href*="gitanswer.com"])
 search.brave.com###results > div:has(a[href*="gitanswer.net"])
 search.brave.com###results > div:has(a[href*="gitcode.net"])
 search.brave.com###results > div:has(a[href*="gitdetail.com"])
+search.brave.com###results > div:has(a[href*="giterhub.com"])
 search.brave.com###results > div:has(a[href*="giters.com"])
 search.brave.com###results > div:has(a[href*="gitfreak.com"])
 search.brave.com###results > div:has(a[href*="github-wiki-see.page"])
@@ -1025,6 +1032,7 @@ search.brave.com###results > div:has(a[href*="github.innominds.com"])
 search.brave.com###results > div:has(a[href*="github.phala.one"])
 search.brave.com###results > div:has(a[href*="githubhelp.com"])
 search.brave.com###results > div:has(a[href*="githubhot.com"])
+search.brave.com###results > div:has(a[href*="githubissues.com"])
 search.brave.com###results > div:has(a[href*="githubja.com"])
 search.brave.com###results > div:has(a[href*="githublab.com"])
 search.brave.com###results > div:has(a[href*="githubmate.com"])
@@ -1409,8 +1417,10 @@ search.brave.com###results > div:has(a[href*="ubuntugeeks.com"])
 search.brave.com###results > div:has(a[href*="ubuntuplace.info"])
 search.brave.com###results > div:has(a[href*="uebu-kaihatsu.jp.net"])
 search.brave.com###results > div:has(a[href*="utyatnishna.ru"])
+search.brave.com###results > div:has(a[href*="uvdos.com"])
 search.brave.com###results > div:has(a[href*="uwenku.com"])
 search.brave.com###results > div:has(a[href*="v-resheno.ru"])
+search.brave.com###results > div:has(a[href*="validsense.com"])
 search.brave.com###results > div:has(a[href*="vigge.cn"])
 search.brave.com###results > div:has(a[href*="vigge.net"])
 search.brave.com###results > div:has(a[href*="vigges.net"])
@@ -1618,6 +1628,7 @@ duckduckgo.com###links>div:has(a[href*="code-error.com"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-paper.com"])
 duckduckgo.com###links>div:has(a[href*="code.i"])
+duckduckgo.com###links>div:has(a[href*="code911.top"])
 duckduckgo.com###links>div:has(a[href*="codebaoku.com"])
 duckduckgo.com###links>div:has(a[href*="coded3.com"])
 duckduckgo.com###links>div:has(a[href*="codefaq.info"])
@@ -1775,6 +1786,7 @@ duckduckgo.com###links>div:has(a[href*="gitanswer.com"])
 duckduckgo.com###links>div:has(a[href*="gitanswer.net"])
 duckduckgo.com###links>div:has(a[href*="gitcode.net"])
 duckduckgo.com###links>div:has(a[href*="gitdetail.com"])
+duckduckgo.com###links>div:has(a[href*="giterhub.com"])
 duckduckgo.com###links>div:has(a[href*="giters.com"])
 duckduckgo.com###links>div:has(a[href*="gitfreak.com"])
 duckduckgo.com###links>div:has(a[href*="github-wiki-see.page"])
@@ -1783,6 +1795,7 @@ duckduckgo.com###links>div:has(a[href*="github.innominds.com"])
 duckduckgo.com###links>div:has(a[href*="github.phala.one"])
 duckduckgo.com###links>div:has(a[href*="githubhelp.com"])
 duckduckgo.com###links>div:has(a[href*="githubhot.com"])
+duckduckgo.com###links>div:has(a[href*="githubissues.com"])
 duckduckgo.com###links>div:has(a[href*="githubja.com"])
 duckduckgo.com###links>div:has(a[href*="githublab.com"])
 duckduckgo.com###links>div:has(a[href*="githubmate.com"])
@@ -2167,8 +2180,10 @@ duckduckgo.com###links>div:has(a[href*="ubuntugeeks.com"])
 duckduckgo.com###links>div:has(a[href*="ubuntuplace.info"])
 duckduckgo.com###links>div:has(a[href*="uebu-kaihatsu.jp.net"])
 duckduckgo.com###links>div:has(a[href*="utyatnishna.ru"])
+duckduckgo.com###links>div:has(a[href*="uvdos.com"])
 duckduckgo.com###links>div:has(a[href*="uwenku.com"])
 duckduckgo.com###links>div:has(a[href*="v-resheno.ru"])
+duckduckgo.com###links>div:has(a[href*="validsense.com"])
 duckduckgo.com###links>div:has(a[href*="vigge.cn"])
 duckduckgo.com###links>div:has(a[href*="vigge.net"])
 duckduckgo.com###links>div:has(a[href*="vigges.net"])
@@ -2376,6 +2391,7 @@ kagi.com##._0_image_item[data-host_url*="code-error.com"]
 kagi.com##._0_image_item[data-host_url*="code-examples.net"]
 kagi.com##._0_image_item[data-host_url*="code-paper.com"]
 kagi.com##._0_image_item[data-host_url*="code.i"]
+kagi.com##._0_image_item[data-host_url*="code911.top"]
 kagi.com##._0_image_item[data-host_url*="codebaoku.com"]
 kagi.com##._0_image_item[data-host_url*="coded3.com"]
 kagi.com##._0_image_item[data-host_url*="codefaq.info"]
@@ -2533,6 +2549,7 @@ kagi.com##._0_image_item[data-host_url*="gitanswer.com"]
 kagi.com##._0_image_item[data-host_url*="gitanswer.net"]
 kagi.com##._0_image_item[data-host_url*="gitcode.net"]
 kagi.com##._0_image_item[data-host_url*="gitdetail.com"]
+kagi.com##._0_image_item[data-host_url*="giterhub.com"]
 kagi.com##._0_image_item[data-host_url*="giters.com"]
 kagi.com##._0_image_item[data-host_url*="gitfreak.com"]
 kagi.com##._0_image_item[data-host_url*="github-wiki-see.page"]
@@ -2541,6 +2558,7 @@ kagi.com##._0_image_item[data-host_url*="github.innominds.com"]
 kagi.com##._0_image_item[data-host_url*="github.phala.one"]
 kagi.com##._0_image_item[data-host_url*="githubhelp.com"]
 kagi.com##._0_image_item[data-host_url*="githubhot.com"]
+kagi.com##._0_image_item[data-host_url*="githubissues.com"]
 kagi.com##._0_image_item[data-host_url*="githubja.com"]
 kagi.com##._0_image_item[data-host_url*="githublab.com"]
 kagi.com##._0_image_item[data-host_url*="githubmate.com"]
@@ -2925,8 +2943,10 @@ kagi.com##._0_image_item[data-host_url*="ubuntugeeks.com"]
 kagi.com##._0_image_item[data-host_url*="ubuntuplace.info"]
 kagi.com##._0_image_item[data-host_url*="uebu-kaihatsu.jp.net"]
 kagi.com##._0_image_item[data-host_url*="utyatnishna.ru"]
+kagi.com##._0_image_item[data-host_url*="uvdos.com"]
 kagi.com##._0_image_item[data-host_url*="uwenku.com"]
 kagi.com##._0_image_item[data-host_url*="v-resheno.ru"]
+kagi.com##._0_image_item[data-host_url*="validsense.com"]
 kagi.com##._0_image_item[data-host_url*="vigge.cn"]
 kagi.com##._0_image_item[data-host_url*="vigge.net"]
 kagi.com##._0_image_item[data-host_url*="vigges.net"]
@@ -3134,6 +3154,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="code-error.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="code-examples.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="code-paper.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="code.i"])
+kagi.com##.search-result:has(a.__sri-url[href*="code911.top"])
 kagi.com##.search-result:has(a.__sri-url[href*="codebaoku.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="coded3.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="codefaq.info"])
@@ -3291,6 +3312,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="gitanswer.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitanswer.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitcode.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitdetail.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="giterhub.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="giters.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitfreak.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="github-wiki-see.page"])
@@ -3299,6 +3321,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="github.innominds.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="github.phala.one"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubhelp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubhot.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="githubissues.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubja.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githublab.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="githubmate.com"])
@@ -3683,8 +3706,10 @@ kagi.com##.search-result:has(a.__sri-url[href*="ubuntugeeks.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ubuntuplace.info"])
 kagi.com##.search-result:has(a.__sri-url[href*="uebu-kaihatsu.jp.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="utyatnishna.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="uvdos.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="uwenku.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="v-resheno.ru"])
+kagi.com##.search-result:has(a.__sri-url[href*="validsense.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="vigge.cn"])
 kagi.com##.search-result:has(a.__sri-url[href*="vigge.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="vigges.net"])
@@ -3892,6 +3917,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="code-error.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="code-examples.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="code-paper.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="code.i"])
+kagi.com##.sri-group:has(a.__sri-url[href*="code911.top"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codebaoku.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="coded3.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="codefaq.info"])
@@ -4049,6 +4075,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="gitanswer.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitanswer.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitcode.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitdetail.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="giterhub.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="giters.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitfreak.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="github-wiki-see.page"])
@@ -4057,6 +4084,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="github.innominds.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="github.phala.one"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubhelp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubhot.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="githubissues.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubja.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githublab.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="githubmate.com"])
@@ -4441,8 +4469,10 @@ kagi.com##.sri-group:has(a.__sri-url[href*="ubuntugeeks.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ubuntuplace.info"])
 kagi.com##.sri-group:has(a.__sri-url[href*="uebu-kaihatsu.jp.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="utyatnishna.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="uvdos.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="uwenku.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="v-resheno.ru"])
+kagi.com##.sri-group:has(a.__sri-url[href*="validsense.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="vigge.cn"])
 kagi.com##.sri-group:has(a.__sri-url[href*="vigge.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="vigges.net"])
@@ -4650,6 +4680,7 @@ searx.local###main_results .result:has(a[href*="code-error.com"])
 searx.local###main_results .result:has(a[href*="code-examples.net"])
 searx.local###main_results .result:has(a[href*="code-paper.com"])
 searx.local###main_results .result:has(a[href*="code.i"])
+searx.local###main_results .result:has(a[href*="code911.top"])
 searx.local###main_results .result:has(a[href*="codebaoku.com"])
 searx.local###main_results .result:has(a[href*="coded3.com"])
 searx.local###main_results .result:has(a[href*="codefaq.info"])
@@ -4807,6 +4838,7 @@ searx.local###main_results .result:has(a[href*="gitanswer.com"])
 searx.local###main_results .result:has(a[href*="gitanswer.net"])
 searx.local###main_results .result:has(a[href*="gitcode.net"])
 searx.local###main_results .result:has(a[href*="gitdetail.com"])
+searx.local###main_results .result:has(a[href*="giterhub.com"])
 searx.local###main_results .result:has(a[href*="giters.com"])
 searx.local###main_results .result:has(a[href*="gitfreak.com"])
 searx.local###main_results .result:has(a[href*="github-wiki-see.page"])
@@ -4815,6 +4847,7 @@ searx.local###main_results .result:has(a[href*="github.innominds.com"])
 searx.local###main_results .result:has(a[href*="github.phala.one"])
 searx.local###main_results .result:has(a[href*="githubhelp.com"])
 searx.local###main_results .result:has(a[href*="githubhot.com"])
+searx.local###main_results .result:has(a[href*="githubissues.com"])
 searx.local###main_results .result:has(a[href*="githubja.com"])
 searx.local###main_results .result:has(a[href*="githublab.com"])
 searx.local###main_results .result:has(a[href*="githubmate.com"])
@@ -5199,8 +5232,10 @@ searx.local###main_results .result:has(a[href*="ubuntugeeks.com"])
 searx.local###main_results .result:has(a[href*="ubuntuplace.info"])
 searx.local###main_results .result:has(a[href*="uebu-kaihatsu.jp.net"])
 searx.local###main_results .result:has(a[href*="utyatnishna.ru"])
+searx.local###main_results .result:has(a[href*="uvdos.com"])
 searx.local###main_results .result:has(a[href*="uwenku.com"])
 searx.local###main_results .result:has(a[href*="v-resheno.ru"])
+searx.local###main_results .result:has(a[href*="validsense.com"])
 searx.local###main_results .result:has(a[href*="vigge.cn"])
 searx.local###main_results .result:has(a[href*="vigge.net"])
 searx.local###main_results .result:has(a[href*="vigges.net"])
@@ -5408,6 +5443,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(code-e
 startpage.com##.image-container:has(div.image-quick-details span:has-text(code-examples.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(code-paper.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(code.i))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(code911.top))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codebaoku.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(coded3.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(codefaq.info))
@@ -5565,6 +5601,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(gitans
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitanswer.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitcode.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitdetail.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(giterhub.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(giters.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitfreak.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(github-wiki-see.page))
@@ -5573,6 +5610,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(github
 startpage.com##.image-container:has(div.image-quick-details span:has-text(github.phala.one))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubhelp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubhot.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(githubissues.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubja.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githublab.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(githubmate.com))
@@ -5957,8 +5995,10 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(ubuntu
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ubuntuplace.info))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(uebu-kaihatsu.jp.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(utyatnishna.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(uvdos.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(uwenku.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(v-resheno.ru))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(validsense.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(vigge.cn))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(vigge.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(vigges.net))
@@ -6166,6 +6206,7 @@ startpage.com##.w-gl__result:has(a[href*="code-error.com"])
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 startpage.com##.w-gl__result:has(a[href*="code-paper.com"])
 startpage.com##.w-gl__result:has(a[href*="code.i"])
+startpage.com##.w-gl__result:has(a[href*="code911.top"])
 startpage.com##.w-gl__result:has(a[href*="codebaoku.com"])
 startpage.com##.w-gl__result:has(a[href*="coded3.com"])
 startpage.com##.w-gl__result:has(a[href*="codefaq.info"])
@@ -6323,6 +6364,7 @@ startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
 startpage.com##.w-gl__result:has(a[href*="gitanswer.net"])
 startpage.com##.w-gl__result:has(a[href*="gitcode.net"])
 startpage.com##.w-gl__result:has(a[href*="gitdetail.com"])
+startpage.com##.w-gl__result:has(a[href*="giterhub.com"])
 startpage.com##.w-gl__result:has(a[href*="giters.com"])
 startpage.com##.w-gl__result:has(a[href*="gitfreak.com"])
 startpage.com##.w-gl__result:has(a[href*="github-wiki-see.page"])
@@ -6331,6 +6373,7 @@ startpage.com##.w-gl__result:has(a[href*="github.innominds.com"])
 startpage.com##.w-gl__result:has(a[href*="github.phala.one"])
 startpage.com##.w-gl__result:has(a[href*="githubhelp.com"])
 startpage.com##.w-gl__result:has(a[href*="githubhot.com"])
+startpage.com##.w-gl__result:has(a[href*="githubissues.com"])
 startpage.com##.w-gl__result:has(a[href*="githubja.com"])
 startpage.com##.w-gl__result:has(a[href*="githublab.com"])
 startpage.com##.w-gl__result:has(a[href*="githubmate.com"])
@@ -6715,8 +6758,10 @@ startpage.com##.w-gl__result:has(a[href*="ubuntugeeks.com"])
 startpage.com##.w-gl__result:has(a[href*="ubuntuplace.info"])
 startpage.com##.w-gl__result:has(a[href*="uebu-kaihatsu.jp.net"])
 startpage.com##.w-gl__result:has(a[href*="utyatnishna.ru"])
+startpage.com##.w-gl__result:has(a[href*="uvdos.com"])
 startpage.com##.w-gl__result:has(a[href*="uwenku.com"])
 startpage.com##.w-gl__result:has(a[href*="v-resheno.ru"])
+startpage.com##.w-gl__result:has(a[href*="validsense.com"])
 startpage.com##.w-gl__result:has(a[href*="vigge.cn"])
 startpage.com##.w-gl__result:has(a[href*="vigge.net"])
 startpage.com##.w-gl__result:has(a[href*="vigges.net"])
