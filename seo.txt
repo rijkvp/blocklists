@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-08-13 03:11:59 UTC
+! Generated: 2023-08-20 03:12:01 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -151,6 +151,7 @@
 ||culinarydegree.info$all
 ||curatedgo.com$all
 ||cyberciti.biz$all
+||cyclowiki.org$all
 ||dailydevsblog.com$all
 ||daplus.net$all
 ||dapper-tutorial.net$all
@@ -541,6 +542,7 @@
 ||routinepanic.com$all
 ||rowcoding.com$all
 ||rpkg.in$all
+||ru-wiki.ru$all
 ||runexception.com$all
 ||ruphp.com$all
 ||rustrepo.com$all
@@ -914,6 +916,7 @@ search.brave.com###results > div:has(a[href*="csdn.net"])
 search.brave.com###results > div:has(a[href*="culinarydegree.info"])
 search.brave.com###results > div:has(a[href*="curatedgo.com"])
 search.brave.com###results > div:has(a[href*="cyberciti.biz"])
+search.brave.com###results > div:has(a[href*="cyclowiki.org"])
 search.brave.com###results > div:has(a[href*="dailydevsblog.com"])
 search.brave.com###results > div:has(a[href*="daplus.net"])
 search.brave.com###results > div:has(a[href*="dapper-tutorial.net"])
@@ -1304,6 +1307,7 @@ search.brave.com###results > div:has(a[href*="rotadev.com"])
 search.brave.com###results > div:has(a[href*="routinepanic.com"])
 search.brave.com###results > div:has(a[href*="rowcoding.com"])
 search.brave.com###results > div:has(a[href*="rpkg.in"])
+search.brave.com###results > div:has(a[href*="ru-wiki.ru"])
 search.brave.com###results > div:has(a[href*="runexception.com"])
 search.brave.com###results > div:has(a[href*="ruphp.com"])
 search.brave.com###results > div:has(a[href*="rustrepo.com"])
@@ -1677,6 +1681,7 @@ duckduckgo.com###links>div:has(a[href*="csdn.net"])
 duckduckgo.com###links>div:has(a[href*="culinarydegree.info"])
 duckduckgo.com###links>div:has(a[href*="curatedgo.com"])
 duckduckgo.com###links>div:has(a[href*="cyberciti.biz"])
+duckduckgo.com###links>div:has(a[href*="cyclowiki.org"])
 duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
 duckduckgo.com###links>div:has(a[href*="daplus.net"])
 duckduckgo.com###links>div:has(a[href*="dapper-tutorial.net"])
@@ -2067,6 +2072,7 @@ duckduckgo.com###links>div:has(a[href*="rotadev.com"])
 duckduckgo.com###links>div:has(a[href*="routinepanic.com"])
 duckduckgo.com###links>div:has(a[href*="rowcoding.com"])
 duckduckgo.com###links>div:has(a[href*="rpkg.in"])
+duckduckgo.com###links>div:has(a[href*="ru-wiki.ru"])
 duckduckgo.com###links>div:has(a[href*="runexception.com"])
 duckduckgo.com###links>div:has(a[href*="ruphp.com"])
 duckduckgo.com###links>div:has(a[href*="rustrepo.com"])
@@ -2440,6 +2446,7 @@ kagi.com##._0_image_item[data-host_url*="csdn.net"]
 kagi.com##._0_image_item[data-host_url*="culinarydegree.info"]
 kagi.com##._0_image_item[data-host_url*="curatedgo.com"]
 kagi.com##._0_image_item[data-host_url*="cyberciti.biz"]
+kagi.com##._0_image_item[data-host_url*="cyclowiki.org"]
 kagi.com##._0_image_item[data-host_url*="dailydevsblog.com"]
 kagi.com##._0_image_item[data-host_url*="daplus.net"]
 kagi.com##._0_image_item[data-host_url*="dapper-tutorial.net"]
@@ -2830,6 +2837,7 @@ kagi.com##._0_image_item[data-host_url*="rotadev.com"]
 kagi.com##._0_image_item[data-host_url*="routinepanic.com"]
 kagi.com##._0_image_item[data-host_url*="rowcoding.com"]
 kagi.com##._0_image_item[data-host_url*="rpkg.in"]
+kagi.com##._0_image_item[data-host_url*="ru-wiki.ru"]
 kagi.com##._0_image_item[data-host_url*="runexception.com"]
 kagi.com##._0_image_item[data-host_url*="ruphp.com"]
 kagi.com##._0_image_item[data-host_url*="rustrepo.com"]
@@ -3203,6 +3211,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="culinarydegree.info"])
 kagi.com##.search-result:has(a.__sri-url[href*="curatedgo.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="cyberciti.biz"])
+kagi.com##.search-result:has(a.__sri-url[href*="cyclowiki.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="dailydevsblog.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="daplus.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="dapper-tutorial.net"])
@@ -3593,6 +3602,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="rotadev.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="routinepanic.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="rowcoding.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="rpkg.in"])
+kagi.com##.search-result:has(a.__sri-url[href*="ru-wiki.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="runexception.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ruphp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="rustrepo.com"])
@@ -3966,6 +3976,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="csdn.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="culinarydegree.info"])
 kagi.com##.sri-group:has(a.__sri-url[href*="curatedgo.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="cyberciti.biz"])
+kagi.com##.sri-group:has(a.__sri-url[href*="cyclowiki.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="dailydevsblog.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="daplus.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="dapper-tutorial.net"])
@@ -4356,6 +4367,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="rotadev.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="routinepanic.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rowcoding.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rpkg.in"])
+kagi.com##.sri-group:has(a.__sri-url[href*="ru-wiki.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="runexception.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ruphp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rustrepo.com"])
@@ -4729,6 +4741,7 @@ searx.local###main_results .result:has(a[href*="csdn.net"])
 searx.local###main_results .result:has(a[href*="culinarydegree.info"])
 searx.local###main_results .result:has(a[href*="curatedgo.com"])
 searx.local###main_results .result:has(a[href*="cyberciti.biz"])
+searx.local###main_results .result:has(a[href*="cyclowiki.org"])
 searx.local###main_results .result:has(a[href*="dailydevsblog.com"])
 searx.local###main_results .result:has(a[href*="daplus.net"])
 searx.local###main_results .result:has(a[href*="dapper-tutorial.net"])
@@ -5119,6 +5132,7 @@ searx.local###main_results .result:has(a[href*="rotadev.com"])
 searx.local###main_results .result:has(a[href*="routinepanic.com"])
 searx.local###main_results .result:has(a[href*="rowcoding.com"])
 searx.local###main_results .result:has(a[href*="rpkg.in"])
+searx.local###main_results .result:has(a[href*="ru-wiki.ru"])
 searx.local###main_results .result:has(a[href*="runexception.com"])
 searx.local###main_results .result:has(a[href*="ruphp.com"])
 searx.local###main_results .result:has(a[href*="rustrepo.com"])
@@ -5492,6 +5506,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(csdn.n
 startpage.com##.image-container:has(div.image-quick-details span:has-text(culinarydegree.info))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(curatedgo.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(cyberciti.biz))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(cyclowiki.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(dailydevsblog.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(daplus.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(dapper-tutorial.net))
@@ -5882,6 +5897,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(rotade
 startpage.com##.image-container:has(div.image-quick-details span:has-text(routinepanic.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rowcoding.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rpkg.in))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(ru-wiki.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(runexception.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ruphp.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rustrepo.com))
@@ -6255,6 +6271,7 @@ startpage.com##.w-gl__result:has(a[href*="csdn.net"])
 startpage.com##.w-gl__result:has(a[href*="culinarydegree.info"])
 startpage.com##.w-gl__result:has(a[href*="curatedgo.com"])
 startpage.com##.w-gl__result:has(a[href*="cyberciti.biz"])
+startpage.com##.w-gl__result:has(a[href*="cyclowiki.org"])
 startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
 startpage.com##.w-gl__result:has(a[href*="daplus.net"])
 startpage.com##.w-gl__result:has(a[href*="dapper-tutorial.net"])
@@ -6645,6 +6662,7 @@ startpage.com##.w-gl__result:has(a[href*="rotadev.com"])
 startpage.com##.w-gl__result:has(a[href*="routinepanic.com"])
 startpage.com##.w-gl__result:has(a[href*="rowcoding.com"])
 startpage.com##.w-gl__result:has(a[href*="rpkg.in"])
+startpage.com##.w-gl__result:has(a[href*="ru-wiki.ru"])
 startpage.com##.w-gl__result:has(a[href*="runexception.com"])
 startpage.com##.w-gl__result:has(a[href*="ruphp.com"])
 startpage.com##.w-gl__result:has(a[href*="rustrepo.com"])
