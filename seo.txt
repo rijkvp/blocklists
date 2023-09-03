@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-08-27 03:12:17 UTC
+! Generated: 2023-09-03 03:12:23 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -518,6 +518,7 @@
 ||qastack.net.bd$all
 ||qastack.ru$all
 ||qastack.vn$all
+||qexe.de$all
 ||qi-u.com$all
 ||qiniu.com$all
 ||quabr.com$all
@@ -1283,6 +1284,7 @@ search.brave.com###results > div:has(a[href*="qastack.mx"])
 search.brave.com###results > div:has(a[href*="qastack.net.bd"])
 search.brave.com###results > div:has(a[href*="qastack.ru"])
 search.brave.com###results > div:has(a[href*="qastack.vn"])
+search.brave.com###results > div:has(a[href*="qexe.de"])
 search.brave.com###results > div:has(a[href*="qi-u.com"])
 search.brave.com###results > div:has(a[href*="qiniu.com"])
 search.brave.com###results > div:has(a[href*="quabr.com"])
@@ -2048,6 +2050,7 @@ duckduckgo.com###links>div:has(a[href*="qastack.mx"])
 duckduckgo.com###links>div:has(a[href*="qastack.net.bd"])
 duckduckgo.com###links>div:has(a[href*="qastack.ru"])
 duckduckgo.com###links>div:has(a[href*="qastack.vn"])
+duckduckgo.com###links>div:has(a[href*="qexe.de"])
 duckduckgo.com###links>div:has(a[href*="qi-u.com"])
 duckduckgo.com###links>div:has(a[href*="qiniu.com"])
 duckduckgo.com###links>div:has(a[href*="quabr.com"])
@@ -2813,6 +2816,7 @@ kagi.com##._0_image_item[data-host_url*="qastack.mx"]
 kagi.com##._0_image_item[data-host_url*="qastack.net.bd"]
 kagi.com##._0_image_item[data-host_url*="qastack.ru"]
 kagi.com##._0_image_item[data-host_url*="qastack.vn"]
+kagi.com##._0_image_item[data-host_url*="qexe.de"]
 kagi.com##._0_image_item[data-host_url*="qi-u.com"]
 kagi.com##._0_image_item[data-host_url*="qiniu.com"]
 kagi.com##._0_image_item[data-host_url*="quabr.com"]
@@ -3578,6 +3582,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="qastack.mx"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.net.bd"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="qastack.vn"])
+kagi.com##.search-result:has(a.__sri-url[href*="qexe.de"])
 kagi.com##.search-result:has(a.__sri-url[href*="qi-u.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="qiniu.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="quabr.com"])
@@ -4343,6 +4348,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="qastack.mx"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.net.bd"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qastack.vn"])
+kagi.com##.sri-group:has(a.__sri-url[href*="qexe.de"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qi-u.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="qiniu.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="quabr.com"])
@@ -5108,6 +5114,7 @@ searx.local###main_results .result:has(a[href*="qastack.mx"])
 searx.local###main_results .result:has(a[href*="qastack.net.bd"])
 searx.local###main_results .result:has(a[href*="qastack.ru"])
 searx.local###main_results .result:has(a[href*="qastack.vn"])
+searx.local###main_results .result:has(a[href*="qexe.de"])
 searx.local###main_results .result:has(a[href*="qi-u.com"])
 searx.local###main_results .result:has(a[href*="qiniu.com"])
 searx.local###main_results .result:has(a[href*="quabr.com"])
@@ -5873,6 +5880,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(qastac
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.net.bd))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qastack.vn))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(qexe.de))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qi-u.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(qiniu.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(quabr.com))
@@ -6638,6 +6646,7 @@ startpage.com##.w-gl__result:has(a[href*="qastack.mx"])
 startpage.com##.w-gl__result:has(a[href*="qastack.net.bd"])
 startpage.com##.w-gl__result:has(a[href*="qastack.ru"])
 startpage.com##.w-gl__result:has(a[href*="qastack.vn"])
+startpage.com##.w-gl__result:has(a[href*="qexe.de"])
 startpage.com##.w-gl__result:has(a[href*="qi-u.com"])
 startpage.com##.w-gl__result:has(a[href*="qiniu.com"])
 startpage.com##.w-gl__result:has(a[href*="quabr.com"])
