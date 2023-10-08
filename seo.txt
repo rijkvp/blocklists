@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2023-10-01 03:13:12 UTC
+! Generated: 2023-10-08 03:12:21 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -412,6 +412,7 @@
 ||mlog.club$all
 ||mortgagefasr860.weebly.com$all
 ||mulloverthing.com$all
+||mykidq.com$all
 ||narkive.co.il$all
 ||narkive.com$all
 ||narkive.cz$all
@@ -1178,6 +1179,7 @@ search.brave.com###results > div:has(a[href*="mlink.in"])
 search.brave.com###results > div:has(a[href*="mlog.club"])
 search.brave.com###results > div:has(a[href*="mortgagefasr860.weebly.com"])
 search.brave.com###results > div:has(a[href*="mulloverthing.com"])
+search.brave.com###results > div:has(a[href*="mykidq.com"])
 search.brave.com###results > div:has(a[href*="narkive.co.il"])
 search.brave.com###results > div:has(a[href*="narkive.com"])
 search.brave.com###results > div:has(a[href*="narkive.cz"])
@@ -1944,6 +1946,7 @@ duckduckgo.com###links>div:has(a[href*="mlink.in"])
 duckduckgo.com###links>div:has(a[href*="mlog.club"])
 duckduckgo.com###links>div:has(a[href*="mortgagefasr860.weebly.com"])
 duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
+duckduckgo.com###links>div:has(a[href*="mykidq.com"])
 duckduckgo.com###links>div:has(a[href*="narkive.co.il"])
 duckduckgo.com###links>div:has(a[href*="narkive.com"])
 duckduckgo.com###links>div:has(a[href*="narkive.cz"])
@@ -2710,6 +2713,7 @@ kagi.com##._0_image_item[data-host_url*="mlink.in"]
 kagi.com##._0_image_item[data-host_url*="mlog.club"]
 kagi.com##._0_image_item[data-host_url*="mortgagefasr860.weebly.com"]
 kagi.com##._0_image_item[data-host_url*="mulloverthing.com"]
+kagi.com##._0_image_item[data-host_url*="mykidq.com"]
 kagi.com##._0_image_item[data-host_url*="narkive.co.il"]
 kagi.com##._0_image_item[data-host_url*="narkive.com"]
 kagi.com##._0_image_item[data-host_url*="narkive.cz"]
@@ -3476,6 +3480,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="mlink.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="mlog.club"])
 kagi.com##.search-result:has(a.__sri-url[href*="mortgagefasr860.weebly.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="mulloverthing.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="mykidq.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="narkive.co.il"])
 kagi.com##.search-result:has(a.__sri-url[href*="narkive.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="narkive.cz"])
@@ -4242,6 +4247,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="mlink.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mlog.club"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mortgagefasr860.weebly.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="mulloverthing.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="mykidq.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="narkive.co.il"])
 kagi.com##.sri-group:has(a.__sri-url[href*="narkive.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="narkive.cz"])
@@ -5008,6 +5014,7 @@ searx.local###main_results .result:has(a[href*="mlink.in"])
 searx.local###main_results .result:has(a[href*="mlog.club"])
 searx.local###main_results .result:has(a[href*="mortgagefasr860.weebly.com"])
 searx.local###main_results .result:has(a[href*="mulloverthing.com"])
+searx.local###main_results .result:has(a[href*="mykidq.com"])
 searx.local###main_results .result:has(a[href*="narkive.co.il"])
 searx.local###main_results .result:has(a[href*="narkive.com"])
 searx.local###main_results .result:has(a[href*="narkive.cz"])
@@ -5774,6 +5781,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(mlink.
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mlog.club))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mortgagefasr860.weebly.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(mulloverthing.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(mykidq.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(narkive.co.il))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(narkive.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(narkive.cz))
@@ -6540,6 +6548,7 @@ startpage.com##.w-gl__result:has(a[href*="mlink.in"])
 startpage.com##.w-gl__result:has(a[href*="mlog.club"])
 startpage.com##.w-gl__result:has(a[href*="mortgagefasr860.weebly.com"])
 startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
+startpage.com##.w-gl__result:has(a[href*="mykidq.com"])
 startpage.com##.w-gl__result:has(a[href*="narkive.co.il"])
 startpage.com##.w-gl__result:has(a[href*="narkive.com"])
 startpage.com##.w-gl__result:has(a[href*="narkive.cz"])
