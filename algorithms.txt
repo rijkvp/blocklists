@@ -1,7 +1,7 @@
 ! Title: Anti-Algorithms
 ! Description: Removes algorithmic 'recommendation' feeds from YouTube
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2024-02-04 03:14:21 UTC
+! Generated: 2024-02-11 03:13:06 UTC
 ! Expires: 7 day
 www.youtube.com###related
 www.youtube.com##[page-subtype="home"]
