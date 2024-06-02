@@ -1,37 +1,8 @@
 ! Title: Anti-Clickbait
 ! Description: Hides thumbnails on YouTube, Odysee & Invidious
 ! Homepage: https://github.com/rijkvp/blocklists
-! Generated: 2024-05-26 03:14:41 UTC
+! Generated: 2024-06-02 03:16:17 UTC
 ! Expires: 7 day
 www.youtube.com##ytd-thumbnail
 www.youtube.com###playlist-thumbnails
 odysee.com##.media__thumb
-inv.in.projectsegfau.lt##.thumbnail
-inv.nadeko.net##.thumbnail
-inv.tux.pizza##.thumbnail
-inv.us.projectsegfau.lt##.thumbnail
-invidious.drgns.space##.thumbnail
-invidious.einfachzocken.eu##.thumbnail
-invidious.fdn.fr##.thumbnail
-invidious.flokinet.to##.thumbnail
-invidious.incogniweb.net##.thumbnail
-invidious.jing.rocks##.thumbnail
-invidious.lunar.icu##.thumbnail
-invidious.materialio.us##.thumbnail
-invidious.nerdvpn.de##.thumbnail
-invidious.perennialte.ch##.thumbnail
-invidious.privacydev.net##.thumbnail
-invidious.privacyredirect.com##.thumbnail
-invidious.private.coffee##.thumbnail
-invidious.protokolla.fi##.thumbnail
-invidious.reallyaweso.me##.thumbnail
-iv.datura.network##.thumbnail
-iv.ggtyler.dev##.thumbnail
-iv.melmac.space##.thumbnail
-iv.nboeck.de##.thumbnail
-vid.lilay.dev##.thumbnail
-vid.puffyan.us##.thumbnail
-yewtu.be##.thumbnail
-yt.artemislena.eu##.thumbnail
-yt.cdaut.de##.thumbnail
-yt.drgnz.club##.thumbnail
