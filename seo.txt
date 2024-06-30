@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2024-06-23 03:15:32 UTC
+! Generated: 2024-06-30 03:17:16 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -199,7 +199,6 @@
 ||ec-europe.org$all
 ||ecnf2016.org$all
 ||editcode.net$all
-||educba.com$all
 ||edupro.id$all
 ||edureka.co$all
 ||elfishgene.com$all
@@ -217,7 +216,6 @@
 ||examplefiles.net$all
 ||exceptionshub.com$all
 ||exchangetuts.com$all
-||exedb.com$all
 ||extends.run$all
 ||extutorial.com$all
 ||facit.edu.br$all
@@ -227,7 +225,6 @@
 ||faqcodes.com$all
 ||farath.com$all
 ||fastgit.org$all
-||file.net$all
 ||find-error.com$all
 ||findatwiki.com$all
 ||findbestopensource.com$all
@@ -248,7 +245,6 @@
 ||fullstackuser.com$all
 ||fuscin.com$all
 ||gangofcoders.net$all
-||gateoverflow.in$all
 ||gaz.wiki$all
 ||geeksforgeeks.org$all
 ||geeksrepos.com$all
@@ -300,9 +296,7 @@
 ||hmong.ru$all
 ||hotexamples.com$all
 ||howtobuildsoftware.com$all
-||howtodoninja.com$all
 ||howtofix.io$all
-||howtoremove.guide$all
 ||hrefcode.com$all
 ||hsmap.xyz$all
 ||husl.ru$all
@@ -578,7 +572,6 @@
 ||solveforums.msomimaktaba.com$all
 ||sozdizimi.com$all
 ||spec-zone.ru$all
-||speedutilities.com$all
 ||splunktool.com$all
 ||sprosi.pro$all
 ||sqlite.in$all
@@ -966,7 +959,6 @@ search.brave.com###results > div:has(a[href*="ebestcode.com"])
 search.brave.com###results > div:has(a[href*="ec-europe.org"])
 search.brave.com###results > div:has(a[href*="ecnf2016.org"])
 search.brave.com###results > div:has(a[href*="editcode.net"])
-search.brave.com###results > div:has(a[href*="educba.com"])
 search.brave.com###results > div:has(a[href*="edupro.id"])
 search.brave.com###results > div:has(a[href*="edureka.co"])
 search.brave.com###results > div:has(a[href*="elfishgene.com"])
@@ -984,7 +976,6 @@ search.brave.com###results > div:has(a[href*="everything.explained.today"])
 search.brave.com###results > div:has(a[href*="examplefiles.net"])
 search.brave.com###results > div:has(a[href*="exceptionshub.com"])
 search.brave.com###results > div:has(a[href*="exchangetuts.com"])
-search.brave.com###results > div:has(a[href*="exedb.com"])
 search.brave.com###results > div:has(a[href*="extends.run"])
 search.brave.com###results > div:has(a[href*="extutorial.com"])
 search.brave.com###results > div:has(a[href*="facit.edu.br"])
@@ -994,7 +985,6 @@ search.brave.com###results > div:has(a[href*="faqcode4u.com"])
 search.brave.com###results > div:has(a[href*="faqcodes.com"])
 search.brave.com###results > div:has(a[href*="farath.com"])
 search.brave.com###results > div:has(a[href*="fastgit.org"])
-search.brave.com###results > div:has(a[href*="file.net"])
 search.brave.com###results > div:has(a[href*="find-error.com"])
 search.brave.com###results > div:has(a[href*="findatwiki.com"])
 search.brave.com###results > div:has(a[href*="findbestopensource.com"])
@@ -1015,7 +1005,6 @@ search.brave.com###results > div:has(a[href*="fullstack.cafe"])
 search.brave.com###results > div:has(a[href*="fullstackuser.com"])
 search.brave.com###results > div:has(a[href*="fuscin.com"])
 search.brave.com###results > div:has(a[href*="gangofcoders.net"])
-search.brave.com###results > div:has(a[href*="gateoverflow.in"])
 search.brave.com###results > div:has(a[href*="gaz.wiki"])
 search.brave.com###results > div:has(a[href*="geeksforgeeks.org"])
 search.brave.com###results > div:has(a[href*="geeksrepos.com"])
@@ -1067,9 +1056,7 @@ search.brave.com###results > div:has(a[href*="higithub.com"])
 search.brave.com###results > div:has(a[href*="hmong.ru"])
 search.brave.com###results > div:has(a[href*="hotexamples.com"])
 search.brave.com###results > div:has(a[href*="howtobuildsoftware.com"])
-search.brave.com###results > div:has(a[href*="howtodoninja.com"])
 search.brave.com###results > div:has(a[href*="howtofix.io"])
-search.brave.com###results > div:has(a[href*="howtoremove.guide"])
 search.brave.com###results > div:has(a[href*="hrefcode.com"])
 search.brave.com###results > div:has(a[href*="hsmap.xyz"])
 search.brave.com###results > div:has(a[href*="husl.ru"])
@@ -1345,7 +1332,6 @@ search.brave.com###results > div:has(a[href*="solveforum.com"])
 search.brave.com###results > div:has(a[href*="solveforums.msomimaktaba.com"])
 search.brave.com###results > div:has(a[href*="sozdizimi.com"])
 search.brave.com###results > div:has(a[href*="spec-zone.ru"])
-search.brave.com###results > div:has(a[href*="speedutilities.com"])
 search.brave.com###results > div:has(a[href*="splunktool.com"])
 search.brave.com###results > div:has(a[href*="sprosi.pro"])
 search.brave.com###results > div:has(a[href*="sqlite.in"])
@@ -1733,7 +1719,6 @@ duckduckgo.com###links>div:has(a[href*="ebestcode.com"])
 duckduckgo.com###links>div:has(a[href*="ec-europe.org"])
 duckduckgo.com###links>div:has(a[href*="ecnf2016.org"])
 duckduckgo.com###links>div:has(a[href*="editcode.net"])
-duckduckgo.com###links>div:has(a[href*="educba.com"])
 duckduckgo.com###links>div:has(a[href*="edupro.id"])
 duckduckgo.com###links>div:has(a[href*="edureka.co"])
 duckduckgo.com###links>div:has(a[href*="elfishgene.com"])
@@ -1751,7 +1736,6 @@ duckduckgo.com###links>div:has(a[href*="everything.explained.today"])
 duckduckgo.com###links>div:has(a[href*="examplefiles.net"])
 duckduckgo.com###links>div:has(a[href*="exceptionshub.com"])
 duckduckgo.com###links>div:has(a[href*="exchangetuts.com"])
-duckduckgo.com###links>div:has(a[href*="exedb.com"])
 duckduckgo.com###links>div:has(a[href*="extends.run"])
 duckduckgo.com###links>div:has(a[href*="extutorial.com"])
 duckduckgo.com###links>div:has(a[href*="facit.edu.br"])
@@ -1761,7 +1745,6 @@ duckduckgo.com###links>div:has(a[href*="faqcode4u.com"])
 duckduckgo.com###links>div:has(a[href*="faqcodes.com"])
 duckduckgo.com###links>div:has(a[href*="farath.com"])
 duckduckgo.com###links>div:has(a[href*="fastgit.org"])
-duckduckgo.com###links>div:has(a[href*="file.net"])
 duckduckgo.com###links>div:has(a[href*="find-error.com"])
 duckduckgo.com###links>div:has(a[href*="findatwiki.com"])
 duckduckgo.com###links>div:has(a[href*="findbestopensource.com"])
@@ -1782,7 +1765,6 @@ duckduckgo.com###links>div:has(a[href*="fullstack.cafe"])
 duckduckgo.com###links>div:has(a[href*="fullstackuser.com"])
 duckduckgo.com###links>div:has(a[href*="fuscin.com"])
 duckduckgo.com###links>div:has(a[href*="gangofcoders.net"])
-duckduckgo.com###links>div:has(a[href*="gateoverflow.in"])
 duckduckgo.com###links>div:has(a[href*="gaz.wiki"])
 duckduckgo.com###links>div:has(a[href*="geeksforgeeks.org"])
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
@@ -1834,9 +1816,7 @@ duckduckgo.com###links>div:has(a[href*="higithub.com"])
 duckduckgo.com###links>div:has(a[href*="hmong.ru"])
 duckduckgo.com###links>div:has(a[href*="hotexamples.com"])
 duckduckgo.com###links>div:has(a[href*="howtobuildsoftware.com"])
-duckduckgo.com###links>div:has(a[href*="howtodoninja.com"])
 duckduckgo.com###links>div:has(a[href*="howtofix.io"])
-duckduckgo.com###links>div:has(a[href*="howtoremove.guide"])
 duckduckgo.com###links>div:has(a[href*="hrefcode.com"])
 duckduckgo.com###links>div:has(a[href*="hsmap.xyz"])
 duckduckgo.com###links>div:has(a[href*="husl.ru"])
@@ -2112,7 +2092,6 @@ duckduckgo.com###links>div:has(a[href*="solveforum.com"])
 duckduckgo.com###links>div:has(a[href*="solveforums.msomimaktaba.com"])
 duckduckgo.com###links>div:has(a[href*="sozdizimi.com"])
 duckduckgo.com###links>div:has(a[href*="spec-zone.ru"])
-duckduckgo.com###links>div:has(a[href*="speedutilities.com"])
 duckduckgo.com###links>div:has(a[href*="splunktool.com"])
 duckduckgo.com###links>div:has(a[href*="sprosi.pro"])
 duckduckgo.com###links>div:has(a[href*="sqlite.in"])
@@ -2500,7 +2479,6 @@ kagi.com##._0_image_item[data-host_url*="ebestcode.com"]
 kagi.com##._0_image_item[data-host_url*="ec-europe.org"]
 kagi.com##._0_image_item[data-host_url*="ecnf2016.org"]
 kagi.com##._0_image_item[data-host_url*="editcode.net"]
-kagi.com##._0_image_item[data-host_url*="educba.com"]
 kagi.com##._0_image_item[data-host_url*="edupro.id"]
 kagi.com##._0_image_item[data-host_url*="edureka.co"]
 kagi.com##._0_image_item[data-host_url*="elfishgene.com"]
@@ -2518,7 +2496,6 @@ kagi.com##._0_image_item[data-host_url*="everything.explained.today"]
 kagi.com##._0_image_item[data-host_url*="examplefiles.net"]
 kagi.com##._0_image_item[data-host_url*="exceptionshub.com"]
 kagi.com##._0_image_item[data-host_url*="exchangetuts.com"]
-kagi.com##._0_image_item[data-host_url*="exedb.com"]
 kagi.com##._0_image_item[data-host_url*="extends.run"]
 kagi.com##._0_image_item[data-host_url*="extutorial.com"]
 kagi.com##._0_image_item[data-host_url*="facit.edu.br"]
@@ -2528,7 +2505,6 @@ kagi.com##._0_image_item[data-host_url*="faqcode4u.com"]
 kagi.com##._0_image_item[data-host_url*="faqcodes.com"]
 kagi.com##._0_image_item[data-host_url*="farath.com"]
 kagi.com##._0_image_item[data-host_url*="fastgit.org"]
-kagi.com##._0_image_item[data-host_url*="file.net"]
 kagi.com##._0_image_item[data-host_url*="find-error.com"]
 kagi.com##._0_image_item[data-host_url*="findatwiki.com"]
 kagi.com##._0_image_item[data-host_url*="findbestopensource.com"]
@@ -2549,7 +2525,6 @@ kagi.com##._0_image_item[data-host_url*="fullstack.cafe"]
 kagi.com##._0_image_item[data-host_url*="fullstackuser.com"]
 kagi.com##._0_image_item[data-host_url*="fuscin.com"]
 kagi.com##._0_image_item[data-host_url*="gangofcoders.net"]
-kagi.com##._0_image_item[data-host_url*="gateoverflow.in"]
 kagi.com##._0_image_item[data-host_url*="gaz.wiki"]
 kagi.com##._0_image_item[data-host_url*="geeksforgeeks.org"]
 kagi.com##._0_image_item[data-host_url*="geeksrepos.com"]
@@ -2601,9 +2576,7 @@ kagi.com##._0_image_item[data-host_url*="higithub.com"]
 kagi.com##._0_image_item[data-host_url*="hmong.ru"]
 kagi.com##._0_image_item[data-host_url*="hotexamples.com"]
 kagi.com##._0_image_item[data-host_url*="howtobuildsoftware.com"]
-kagi.com##._0_image_item[data-host_url*="howtodoninja.com"]
 kagi.com##._0_image_item[data-host_url*="howtofix.io"]
-kagi.com##._0_image_item[data-host_url*="howtoremove.guide"]
 kagi.com##._0_image_item[data-host_url*="hrefcode.com"]
 kagi.com##._0_image_item[data-host_url*="hsmap.xyz"]
 kagi.com##._0_image_item[data-host_url*="husl.ru"]
@@ -2879,7 +2852,6 @@ kagi.com##._0_image_item[data-host_url*="solveforum.com"]
 kagi.com##._0_image_item[data-host_url*="solveforums.msomimaktaba.com"]
 kagi.com##._0_image_item[data-host_url*="sozdizimi.com"]
 kagi.com##._0_image_item[data-host_url*="spec-zone.ru"]
-kagi.com##._0_image_item[data-host_url*="speedutilities.com"]
 kagi.com##._0_image_item[data-host_url*="splunktool.com"]
 kagi.com##._0_image_item[data-host_url*="sprosi.pro"]
 kagi.com##._0_image_item[data-host_url*="sqlite.in"]
@@ -3267,7 +3239,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="ebestcode.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ec-europe.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="ecnf2016.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="editcode.net"])
-kagi.com##.search-result:has(a.__sri-url[href*="educba.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="edupro.id"])
 kagi.com##.search-result:has(a.__sri-url[href*="edureka.co"])
 kagi.com##.search-result:has(a.__sri-url[href*="elfishgene.com"])
@@ -3285,7 +3256,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="everything.explained.today"])
 kagi.com##.search-result:has(a.__sri-url[href*="examplefiles.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="exceptionshub.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="exchangetuts.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="exedb.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="extends.run"])
 kagi.com##.search-result:has(a.__sri-url[href*="extutorial.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="facit.edu.br"])
@@ -3295,7 +3265,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="faqcode4u.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="faqcodes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="farath.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fastgit.org"])
-kagi.com##.search-result:has(a.__sri-url[href*="file.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="find-error.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="findatwiki.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="findbestopensource.com"])
@@ -3316,7 +3285,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="fullstack.cafe"])
 kagi.com##.search-result:has(a.__sri-url[href*="fullstackuser.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="fuscin.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gangofcoders.net"])
-kagi.com##.search-result:has(a.__sri-url[href*="gateoverflow.in"])
 kagi.com##.search-result:has(a.__sri-url[href*="gaz.wiki"])
 kagi.com##.search-result:has(a.__sri-url[href*="geeksforgeeks.org"])
 kagi.com##.search-result:has(a.__sri-url[href*="geeksrepos.com"])
@@ -3368,9 +3336,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="higithub.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="hmong.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="hotexamples.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="howtobuildsoftware.com"])
-kagi.com##.search-result:has(a.__sri-url[href*="howtodoninja.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="howtofix.io"])
-kagi.com##.search-result:has(a.__sri-url[href*="howtoremove.guide"])
 kagi.com##.search-result:has(a.__sri-url[href*="hrefcode.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="hsmap.xyz"])
 kagi.com##.search-result:has(a.__sri-url[href*="husl.ru"])
@@ -3646,7 +3612,6 @@ kagi.com##.search-result:has(a.__sri-url[href*="solveforum.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="solveforums.msomimaktaba.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="sozdizimi.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="spec-zone.ru"])
-kagi.com##.search-result:has(a.__sri-url[href*="speedutilities.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="splunktool.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="sprosi.pro"])
 kagi.com##.search-result:has(a.__sri-url[href*="sqlite.in"])
@@ -4034,7 +3999,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="ebestcode.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ec-europe.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ecnf2016.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="editcode.net"])
-kagi.com##.sri-group:has(a.__sri-url[href*="educba.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="edupro.id"])
 kagi.com##.sri-group:has(a.__sri-url[href*="edureka.co"])
 kagi.com##.sri-group:has(a.__sri-url[href*="elfishgene.com"])
@@ -4052,7 +4016,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="everything.explained.today"])
 kagi.com##.sri-group:has(a.__sri-url[href*="examplefiles.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="exceptionshub.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="exchangetuts.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="exedb.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="extends.run"])
 kagi.com##.sri-group:has(a.__sri-url[href*="extutorial.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="facit.edu.br"])
@@ -4062,7 +4025,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="faqcode4u.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="faqcodes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="farath.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fastgit.org"])
-kagi.com##.sri-group:has(a.__sri-url[href*="file.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="find-error.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="findatwiki.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="findbestopensource.com"])
@@ -4083,7 +4045,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="fullstack.cafe"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fullstackuser.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="fuscin.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gangofcoders.net"])
-kagi.com##.sri-group:has(a.__sri-url[href*="gateoverflow.in"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gaz.wiki"])
 kagi.com##.sri-group:has(a.__sri-url[href*="geeksforgeeks.org"])
 kagi.com##.sri-group:has(a.__sri-url[href*="geeksrepos.com"])
@@ -4135,9 +4096,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="higithub.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="hmong.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="hotexamples.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="howtobuildsoftware.com"])
-kagi.com##.sri-group:has(a.__sri-url[href*="howtodoninja.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="howtofix.io"])
-kagi.com##.sri-group:has(a.__sri-url[href*="howtoremove.guide"])
 kagi.com##.sri-group:has(a.__sri-url[href*="hrefcode.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="hsmap.xyz"])
 kagi.com##.sri-group:has(a.__sri-url[href*="husl.ru"])
@@ -4413,7 +4372,6 @@ kagi.com##.sri-group:has(a.__sri-url[href*="solveforum.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="solveforums.msomimaktaba.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="sozdizimi.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="spec-zone.ru"])
-kagi.com##.sri-group:has(a.__sri-url[href*="speedutilities.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="splunktool.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="sprosi.pro"])
 kagi.com##.sri-group:has(a.__sri-url[href*="sqlite.in"])
@@ -4801,7 +4759,6 @@ searx.local###main_results .result:has(a[href*="ebestcode.com"])
 searx.local###main_results .result:has(a[href*="ec-europe.org"])
 searx.local###main_results .result:has(a[href*="ecnf2016.org"])
 searx.local###main_results .result:has(a[href*="editcode.net"])
-searx.local###main_results .result:has(a[href*="educba.com"])
 searx.local###main_results .result:has(a[href*="edupro.id"])
 searx.local###main_results .result:has(a[href*="edureka.co"])
 searx.local###main_results .result:has(a[href*="elfishgene.com"])
@@ -4819,7 +4776,6 @@ searx.local###main_results .result:has(a[href*="everything.explained.today"])
 searx.local###main_results .result:has(a[href*="examplefiles.net"])
 searx.local###main_results .result:has(a[href*="exceptionshub.com"])
 searx.local###main_results .result:has(a[href*="exchangetuts.com"])
-searx.local###main_results .result:has(a[href*="exedb.com"])
 searx.local###main_results .result:has(a[href*="extends.run"])
 searx.local###main_results .result:has(a[href*="extutorial.com"])
 searx.local###main_results .result:has(a[href*="facit.edu.br"])
@@ -4829,7 +4785,6 @@ searx.local###main_results .result:has(a[href*="faqcode4u.com"])
 searx.local###main_results .result:has(a[href*="faqcodes.com"])
 searx.local###main_results .result:has(a[href*="farath.com"])
 searx.local###main_results .result:has(a[href*="fastgit.org"])
-searx.local###main_results .result:has(a[href*="file.net"])
 searx.local###main_results .result:has(a[href*="find-error.com"])
 searx.local###main_results .result:has(a[href*="findatwiki.com"])
 searx.local###main_results .result:has(a[href*="findbestopensource.com"])
@@ -4850,7 +4805,6 @@ searx.local###main_results .result:has(a[href*="fullstack.cafe"])
 searx.local###main_results .result:has(a[href*="fullstackuser.com"])
 searx.local###main_results .result:has(a[href*="fuscin.com"])
 searx.local###main_results .result:has(a[href*="gangofcoders.net"])
-searx.local###main_results .result:has(a[href*="gateoverflow.in"])
 searx.local###main_results .result:has(a[href*="gaz.wiki"])
 searx.local###main_results .result:has(a[href*="geeksforgeeks.org"])
 searx.local###main_results .result:has(a[href*="geeksrepos.com"])
@@ -4902,9 +4856,7 @@ searx.local###main_results .result:has(a[href*="higithub.com"])
 searx.local###main_results .result:has(a[href*="hmong.ru"])
 searx.local###main_results .result:has(a[href*="hotexamples.com"])
 searx.local###main_results .result:has(a[href*="howtobuildsoftware.com"])
-searx.local###main_results .result:has(a[href*="howtodoninja.com"])
 searx.local###main_results .result:has(a[href*="howtofix.io"])
-searx.local###main_results .result:has(a[href*="howtoremove.guide"])
 searx.local###main_results .result:has(a[href*="hrefcode.com"])
 searx.local###main_results .result:has(a[href*="hsmap.xyz"])
 searx.local###main_results .result:has(a[href*="husl.ru"])
@@ -5180,7 +5132,6 @@ searx.local###main_results .result:has(a[href*="solveforum.com"])
 searx.local###main_results .result:has(a[href*="solveforums.msomimaktaba.com"])
 searx.local###main_results .result:has(a[href*="sozdizimi.com"])
 searx.local###main_results .result:has(a[href*="spec-zone.ru"])
-searx.local###main_results .result:has(a[href*="speedutilities.com"])
 searx.local###main_results .result:has(a[href*="splunktool.com"])
 searx.local###main_results .result:has(a[href*="sprosi.pro"])
 searx.local###main_results .result:has(a[href*="sqlite.in"])
@@ -5568,7 +5519,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(ebestc
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ec-europe.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ecnf2016.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(editcode.net))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(educba.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(edupro.id))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(edureka.co))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(elfishgene.com))
@@ -5586,7 +5536,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(everyt
 startpage.com##.image-container:has(div.image-quick-details span:has-text(examplefiles.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(exceptionshub.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(exchangetuts.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(exedb.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(extends.run))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(extutorial.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(facit.edu.br))
@@ -5596,7 +5545,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(faqcod
 startpage.com##.image-container:has(div.image-quick-details span:has-text(faqcodes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(farath.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fastgit.org))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(file.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(find-error.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(findatwiki.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(findbestopensource.com))
@@ -5617,7 +5565,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(fullst
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fullstackuser.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(fuscin.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gangofcoders.net))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(gateoverflow.in))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gaz.wiki))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(geeksforgeeks.org))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(geeksrepos.com))
@@ -5669,9 +5616,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(higith
 startpage.com##.image-container:has(div.image-quick-details span:has-text(hmong.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(hotexamples.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(howtobuildsoftware.com))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(howtodoninja.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(howtofix.io))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(howtoremove.guide))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(hrefcode.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(hsmap.xyz))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(husl.ru))
@@ -5947,7 +5892,6 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(solvef
 startpage.com##.image-container:has(div.image-quick-details span:has-text(solveforums.msomimaktaba.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(sozdizimi.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(spec-zone.ru))
-startpage.com##.image-container:has(div.image-quick-details span:has-text(speedutilities.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(splunktool.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(sprosi.pro))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(sqlite.in))
@@ -6335,7 +6279,6 @@ startpage.com##.w-gl__result:has(a[href*="ebestcode.com"])
 startpage.com##.w-gl__result:has(a[href*="ec-europe.org"])
 startpage.com##.w-gl__result:has(a[href*="ecnf2016.org"])
 startpage.com##.w-gl__result:has(a[href*="editcode.net"])
-startpage.com##.w-gl__result:has(a[href*="educba.com"])
 startpage.com##.w-gl__result:has(a[href*="edupro.id"])
 startpage.com##.w-gl__result:has(a[href*="edureka.co"])
 startpage.com##.w-gl__result:has(a[href*="elfishgene.com"])
@@ -6353,7 +6296,6 @@ startpage.com##.w-gl__result:has(a[href*="everything.explained.today"])
 startpage.com##.w-gl__result:has(a[href*="examplefiles.net"])
 startpage.com##.w-gl__result:has(a[href*="exceptionshub.com"])
 startpage.com##.w-gl__result:has(a[href*="exchangetuts.com"])
-startpage.com##.w-gl__result:has(a[href*="exedb.com"])
 startpage.com##.w-gl__result:has(a[href*="extends.run"])
 startpage.com##.w-gl__result:has(a[href*="extutorial.com"])
 startpage.com##.w-gl__result:has(a[href*="facit.edu.br"])
@@ -6363,7 +6305,6 @@ startpage.com##.w-gl__result:has(a[href*="faqcode4u.com"])
 startpage.com##.w-gl__result:has(a[href*="faqcodes.com"])
 startpage.com##.w-gl__result:has(a[href*="farath.com"])
 startpage.com##.w-gl__result:has(a[href*="fastgit.org"])
-startpage.com##.w-gl__result:has(a[href*="file.net"])
 startpage.com##.w-gl__result:has(a[href*="find-error.com"])
 startpage.com##.w-gl__result:has(a[href*="findatwiki.com"])
 startpage.com##.w-gl__result:has(a[href*="findbestopensource.com"])
@@ -6384,7 +6325,6 @@ startpage.com##.w-gl__result:has(a[href*="fullstack.cafe"])
 startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
 startpage.com##.w-gl__result:has(a[href*="fuscin.com"])
 startpage.com##.w-gl__result:has(a[href*="gangofcoders.net"])
-startpage.com##.w-gl__result:has(a[href*="gateoverflow.in"])
 startpage.com##.w-gl__result:has(a[href*="gaz.wiki"])
 startpage.com##.w-gl__result:has(a[href*="geeksforgeeks.org"])
 startpage.com##.w-gl__result:has(a[href*="geeksrepos.com"])
@@ -6436,9 +6376,7 @@ startpage.com##.w-gl__result:has(a[href*="higithub.com"])
 startpage.com##.w-gl__result:has(a[href*="hmong.ru"])
 startpage.com##.w-gl__result:has(a[href*="hotexamples.com"])
 startpage.com##.w-gl__result:has(a[href*="howtobuildsoftware.com"])
-startpage.com##.w-gl__result:has(a[href*="howtodoninja.com"])
 startpage.com##.w-gl__result:has(a[href*="howtofix.io"])
-startpage.com##.w-gl__result:has(a[href*="howtoremove.guide"])
 startpage.com##.w-gl__result:has(a[href*="hrefcode.com"])
 startpage.com##.w-gl__result:has(a[href*="hsmap.xyz"])
 startpage.com##.w-gl__result:has(a[href*="husl.ru"])
@@ -6714,7 +6652,6 @@ startpage.com##.w-gl__result:has(a[href*="solveforum.com"])
 startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
 startpage.com##.w-gl__result:has(a[href*="sozdizimi.com"])
 startpage.com##.w-gl__result:has(a[href*="spec-zone.ru"])
-startpage.com##.w-gl__result:has(a[href*="speedutilities.com"])
 startpage.com##.w-gl__result:has(a[href*="splunktool.com"])
 startpage.com##.w-gl__result:has(a[href*="sprosi.pro"])
 startpage.com##.w-gl__result:has(a[href*="sqlite.in"])
