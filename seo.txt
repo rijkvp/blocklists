@@ -1,7 +1,7 @@
 ! Title: Anti SEO/Copycats
 ! Description: Blocks and removes SEO spam and copycat sites from Brave Search, DuckDuckGo, Google, Kagi, SearX and Startpage
 ! Homepage: https://github.com/rijkvp/blocklists/
-! Generated: 2024-09-29 03:25:01 UTC
+! Generated: 2024-10-06 03:24:10 UTC
 ! Expires: 7 day
 ||16892.net$all
 ||1r1g.com$all
@@ -74,6 +74,7 @@
 ||binarydevelop.com$all
 ||bitcoden.com$all
 ||bleepcoder.com$all
+||bleepingcoder.com$all
 ||blogmepost.com$all
 ||boolchr.com$all
 ||bootpanic.com$all
@@ -167,6 +168,7 @@
 ||dev-answers.com$all
 ||devasking.com$all
 ||devbugfix.com$all
+||devdoc.net$all
 ||devdreamz.com$all
 ||devebee.com$all
 ||develop-bugs.com$all
@@ -253,6 +255,7 @@
 ||generacodice.it$all
 ||getridbug.com$all
 ||ghcc.net$all
+||git.histb.com$all
 ||gitanswer.com$all
 ||gitanswer.net$all
 ||gitcode.net$all
@@ -382,6 +385,7 @@
 ||libsea.com$all
 ||lightrun.com$all
 ||likecs.com$all
+||linux-packages.com$all
 ||linuxfixes.com$all
 ||livepcwiki.ru$all
 ||living-sun.com$all
@@ -538,6 +542,7 @@
 ||routinepanic.com$all
 ||rowcoding.com$all
 ||rpkg.in$all
+||rst24plus.net$all
 ||ru-wiki.ru$all
 ||runexception.com$all
 ||ruphp.com$all
@@ -584,6 +589,7 @@
 ||stackify.dev$all
 ||stackoom.com$all
 ||stackorigin.com$all
+||stackovercoder.com.de$all
 ||stackoverflood.com$all
 ||stackoverflowpoint.com$all
 ||stackovergo.com$all
@@ -834,6 +840,7 @@ search.brave.com###results > div:has(a[href*="bilee.com"])
 search.brave.com###results > div:has(a[href*="binarydevelop.com"])
 search.brave.com###results > div:has(a[href*="bitcoden.com"])
 search.brave.com###results > div:has(a[href*="bleepcoder.com"])
+search.brave.com###results > div:has(a[href*="bleepingcoder.com"])
 search.brave.com###results > div:has(a[href*="blogmepost.com"])
 search.brave.com###results > div:has(a[href*="boolchr.com"])
 search.brave.com###results > div:has(a[href*="bootpanic.com"])
@@ -927,6 +934,7 @@ search.brave.com###results > div:has(a[href*="desenv-web-rp.com"])
 search.brave.com###results > div:has(a[href*="dev-answers.com"])
 search.brave.com###results > div:has(a[href*="devasking.com"])
 search.brave.com###results > div:has(a[href*="devbugfix.com"])
+search.brave.com###results > div:has(a[href*="devdoc.net"])
 search.brave.com###results > div:has(a[href*="devdreamz.com"])
 search.brave.com###results > div:has(a[href*="devebee.com"])
 search.brave.com###results > div:has(a[href*="develop-bugs.com"])
@@ -1013,6 +1021,7 @@ search.brave.com###results > div:has(a[href*="generacodice.com"])
 search.brave.com###results > div:has(a[href*="generacodice.it"])
 search.brave.com###results > div:has(a[href*="getridbug.com"])
 search.brave.com###results > div:has(a[href*="ghcc.net"])
+search.brave.com###results > div:has(a[href*="git.histb.com"])
 search.brave.com###results > div:has(a[href*="gitanswer.com"])
 search.brave.com###results > div:has(a[href*="gitanswer.net"])
 search.brave.com###results > div:has(a[href*="gitcode.net"])
@@ -1142,6 +1151,7 @@ search.brave.com###results > div:has(a[href*="libhunt.com"])
 search.brave.com###results > div:has(a[href*="libsea.com"])
 search.brave.com###results > div:has(a[href*="lightrun.com"])
 search.brave.com###results > div:has(a[href*="likecs.com"])
+search.brave.com###results > div:has(a[href*="linux-packages.com"])
 search.brave.com###results > div:has(a[href*="linuxfixes.com"])
 search.brave.com###results > div:has(a[href*="livepcwiki.ru"])
 search.brave.com###results > div:has(a[href*="living-sun.com"])
@@ -1298,6 +1308,7 @@ search.brave.com###results > div:has(a[href*="rotadev.com"])
 search.brave.com###results > div:has(a[href*="routinepanic.com"])
 search.brave.com###results > div:has(a[href*="rowcoding.com"])
 search.brave.com###results > div:has(a[href*="rpkg.in"])
+search.brave.com###results > div:has(a[href*="rst24plus.net"])
 search.brave.com###results > div:has(a[href*="ru-wiki.ru"])
 search.brave.com###results > div:has(a[href*="runexception.com"])
 search.brave.com###results > div:has(a[href*="ruphp.com"])
@@ -1344,6 +1355,7 @@ search.brave.com###results > div:has(a[href*="stackguides.com"])
 search.brave.com###results > div:has(a[href*="stackify.dev"])
 search.brave.com###results > div:has(a[href*="stackoom.com"])
 search.brave.com###results > div:has(a[href*="stackorigin.com"])
+search.brave.com###results > div:has(a[href*="stackovercoder.com.de"])
 search.brave.com###results > div:has(a[href*="stackoverflood.com"])
 search.brave.com###results > div:has(a[href*="stackoverflowpoint.com"])
 search.brave.com###results > div:has(a[href*="stackovergo.com"])
@@ -1594,6 +1606,7 @@ duckduckgo.com###links>div:has(a[href*="bilee.com"])
 duckduckgo.com###links>div:has(a[href*="binarydevelop.com"])
 duckduckgo.com###links>div:has(a[href*="bitcoden.com"])
 duckduckgo.com###links>div:has(a[href*="bleepcoder.com"])
+duckduckgo.com###links>div:has(a[href*="bleepingcoder.com"])
 duckduckgo.com###links>div:has(a[href*="blogmepost.com"])
 duckduckgo.com###links>div:has(a[href*="boolchr.com"])
 duckduckgo.com###links>div:has(a[href*="bootpanic.com"])
@@ -1687,6 +1700,7 @@ duckduckgo.com###links>div:has(a[href*="desenv-web-rp.com"])
 duckduckgo.com###links>div:has(a[href*="dev-answers.com"])
 duckduckgo.com###links>div:has(a[href*="devasking.com"])
 duckduckgo.com###links>div:has(a[href*="devbugfix.com"])
+duckduckgo.com###links>div:has(a[href*="devdoc.net"])
 duckduckgo.com###links>div:has(a[href*="devdreamz.com"])
 duckduckgo.com###links>div:has(a[href*="devebee.com"])
 duckduckgo.com###links>div:has(a[href*="develop-bugs.com"])
@@ -1773,6 +1787,7 @@ duckduckgo.com###links>div:has(a[href*="generacodice.com"])
 duckduckgo.com###links>div:has(a[href*="generacodice.it"])
 duckduckgo.com###links>div:has(a[href*="getridbug.com"])
 duckduckgo.com###links>div:has(a[href*="ghcc.net"])
+duckduckgo.com###links>div:has(a[href*="git.histb.com"])
 duckduckgo.com###links>div:has(a[href*="gitanswer.com"])
 duckduckgo.com###links>div:has(a[href*="gitanswer.net"])
 duckduckgo.com###links>div:has(a[href*="gitcode.net"])
@@ -1902,6 +1917,7 @@ duckduckgo.com###links>div:has(a[href*="libhunt.com"])
 duckduckgo.com###links>div:has(a[href*="libsea.com"])
 duckduckgo.com###links>div:has(a[href*="lightrun.com"])
 duckduckgo.com###links>div:has(a[href*="likecs.com"])
+duckduckgo.com###links>div:has(a[href*="linux-packages.com"])
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
 duckduckgo.com###links>div:has(a[href*="livepcwiki.ru"])
 duckduckgo.com###links>div:has(a[href*="living-sun.com"])
@@ -2058,6 +2074,7 @@ duckduckgo.com###links>div:has(a[href*="rotadev.com"])
 duckduckgo.com###links>div:has(a[href*="routinepanic.com"])
 duckduckgo.com###links>div:has(a[href*="rowcoding.com"])
 duckduckgo.com###links>div:has(a[href*="rpkg.in"])
+duckduckgo.com###links>div:has(a[href*="rst24plus.net"])
 duckduckgo.com###links>div:has(a[href*="ru-wiki.ru"])
 duckduckgo.com###links>div:has(a[href*="runexception.com"])
 duckduckgo.com###links>div:has(a[href*="ruphp.com"])
@@ -2104,6 +2121,7 @@ duckduckgo.com###links>div:has(a[href*="stackguides.com"])
 duckduckgo.com###links>div:has(a[href*="stackify.dev"])
 duckduckgo.com###links>div:has(a[href*="stackoom.com"])
 duckduckgo.com###links>div:has(a[href*="stackorigin.com"])
+duckduckgo.com###links>div:has(a[href*="stackovercoder.com.de"])
 duckduckgo.com###links>div:has(a[href*="stackoverflood.com"])
 duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])
 duckduckgo.com###links>div:has(a[href*="stackovergo.com"])
@@ -2354,6 +2372,7 @@ kagi.com##._0_image_item[data-host_url*="bilee.com"]
 kagi.com##._0_image_item[data-host_url*="binarydevelop.com"]
 kagi.com##._0_image_item[data-host_url*="bitcoden.com"]
 kagi.com##._0_image_item[data-host_url*="bleepcoder.com"]
+kagi.com##._0_image_item[data-host_url*="bleepingcoder.com"]
 kagi.com##._0_image_item[data-host_url*="blogmepost.com"]
 kagi.com##._0_image_item[data-host_url*="boolchr.com"]
 kagi.com##._0_image_item[data-host_url*="bootpanic.com"]
@@ -2447,6 +2466,7 @@ kagi.com##._0_image_item[data-host_url*="desenv-web-rp.com"]
 kagi.com##._0_image_item[data-host_url*="dev-answers.com"]
 kagi.com##._0_image_item[data-host_url*="devasking.com"]
 kagi.com##._0_image_item[data-host_url*="devbugfix.com"]
+kagi.com##._0_image_item[data-host_url*="devdoc.net"]
 kagi.com##._0_image_item[data-host_url*="devdreamz.com"]
 kagi.com##._0_image_item[data-host_url*="devebee.com"]
 kagi.com##._0_image_item[data-host_url*="develop-bugs.com"]
@@ -2533,6 +2553,7 @@ kagi.com##._0_image_item[data-host_url*="generacodice.com"]
 kagi.com##._0_image_item[data-host_url*="generacodice.it"]
 kagi.com##._0_image_item[data-host_url*="getridbug.com"]
 kagi.com##._0_image_item[data-host_url*="ghcc.net"]
+kagi.com##._0_image_item[data-host_url*="git.histb.com"]
 kagi.com##._0_image_item[data-host_url*="gitanswer.com"]
 kagi.com##._0_image_item[data-host_url*="gitanswer.net"]
 kagi.com##._0_image_item[data-host_url*="gitcode.net"]
@@ -2662,6 +2683,7 @@ kagi.com##._0_image_item[data-host_url*="libhunt.com"]
 kagi.com##._0_image_item[data-host_url*="libsea.com"]
 kagi.com##._0_image_item[data-host_url*="lightrun.com"]
 kagi.com##._0_image_item[data-host_url*="likecs.com"]
+kagi.com##._0_image_item[data-host_url*="linux-packages.com"]
 kagi.com##._0_image_item[data-host_url*="linuxfixes.com"]
 kagi.com##._0_image_item[data-host_url*="livepcwiki.ru"]
 kagi.com##._0_image_item[data-host_url*="living-sun.com"]
@@ -2818,6 +2840,7 @@ kagi.com##._0_image_item[data-host_url*="rotadev.com"]
 kagi.com##._0_image_item[data-host_url*="routinepanic.com"]
 kagi.com##._0_image_item[data-host_url*="rowcoding.com"]
 kagi.com##._0_image_item[data-host_url*="rpkg.in"]
+kagi.com##._0_image_item[data-host_url*="rst24plus.net"]
 kagi.com##._0_image_item[data-host_url*="ru-wiki.ru"]
 kagi.com##._0_image_item[data-host_url*="runexception.com"]
 kagi.com##._0_image_item[data-host_url*="ruphp.com"]
@@ -2864,6 +2887,7 @@ kagi.com##._0_image_item[data-host_url*="stackguides.com"]
 kagi.com##._0_image_item[data-host_url*="stackify.dev"]
 kagi.com##._0_image_item[data-host_url*="stackoom.com"]
 kagi.com##._0_image_item[data-host_url*="stackorigin.com"]
+kagi.com##._0_image_item[data-host_url*="stackovercoder.com.de"]
 kagi.com##._0_image_item[data-host_url*="stackoverflood.com"]
 kagi.com##._0_image_item[data-host_url*="stackoverflowpoint.com"]
 kagi.com##._0_image_item[data-host_url*="stackovergo.com"]
@@ -3114,6 +3138,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="bilee.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="binarydevelop.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bitcoden.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bleepcoder.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="bleepingcoder.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="blogmepost.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="boolchr.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="bootpanic.com"])
@@ -3207,6 +3232,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="desenv-web-rp.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="dev-answers.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devasking.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devbugfix.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="devdoc.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="devdreamz.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="devebee.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="develop-bugs.com"])
@@ -3293,6 +3319,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="generacodice.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="generacodice.it"])
 kagi.com##.search-result:has(a.__sri-url[href*="getridbug.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ghcc.net"])
+kagi.com##.search-result:has(a.__sri-url[href*="git.histb.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitanswer.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitanswer.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="gitcode.net"])
@@ -3422,6 +3449,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="libhunt.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="libsea.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="lightrun.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="likecs.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="linux-packages.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="linuxfixes.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="livepcwiki.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="living-sun.com"])
@@ -3578,6 +3606,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="rotadev.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="routinepanic.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="rowcoding.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="rpkg.in"])
+kagi.com##.search-result:has(a.__sri-url[href*="rst24plus.net"])
 kagi.com##.search-result:has(a.__sri-url[href*="ru-wiki.ru"])
 kagi.com##.search-result:has(a.__sri-url[href*="runexception.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="ruphp.com"])
@@ -3624,6 +3653,7 @@ kagi.com##.search-result:has(a.__sri-url[href*="stackguides.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackify.dev"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackoom.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackorigin.com"])
+kagi.com##.search-result:has(a.__sri-url[href*="stackovercoder.com.de"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackoverflood.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackoverflowpoint.com"])
 kagi.com##.search-result:has(a.__sri-url[href*="stackovergo.com"])
@@ -3874,6 +3904,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="bilee.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="binarydevelop.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bitcoden.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bleepcoder.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="bleepingcoder.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="blogmepost.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="boolchr.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="bootpanic.com"])
@@ -3967,6 +3998,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="desenv-web-rp.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="dev-answers.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devasking.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devbugfix.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="devdoc.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devdreamz.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="devebee.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="develop-bugs.com"])
@@ -4053,6 +4085,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="generacodice.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="generacodice.it"])
 kagi.com##.sri-group:has(a.__sri-url[href*="getridbug.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ghcc.net"])
+kagi.com##.sri-group:has(a.__sri-url[href*="git.histb.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitanswer.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitanswer.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="gitcode.net"])
@@ -4182,6 +4215,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="libhunt.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="libsea.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="lightrun.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="likecs.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="linux-packages.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="linuxfixes.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="livepcwiki.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="living-sun.com"])
@@ -4338,6 +4372,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="rotadev.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="routinepanic.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rowcoding.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="rpkg.in"])
+kagi.com##.sri-group:has(a.__sri-url[href*="rst24plus.net"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ru-wiki.ru"])
 kagi.com##.sri-group:has(a.__sri-url[href*="runexception.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="ruphp.com"])
@@ -4384,6 +4419,7 @@ kagi.com##.sri-group:has(a.__sri-url[href*="stackguides.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackify.dev"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackoom.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackorigin.com"])
+kagi.com##.sri-group:has(a.__sri-url[href*="stackovercoder.com.de"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackoverflood.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackoverflowpoint.com"])
 kagi.com##.sri-group:has(a.__sri-url[href*="stackovergo.com"])
@@ -4634,6 +4670,7 @@ searx.local###main_results .result:has(a[href*="bilee.com"])
 searx.local###main_results .result:has(a[href*="binarydevelop.com"])
 searx.local###main_results .result:has(a[href*="bitcoden.com"])
 searx.local###main_results .result:has(a[href*="bleepcoder.com"])
+searx.local###main_results .result:has(a[href*="bleepingcoder.com"])
 searx.local###main_results .result:has(a[href*="blogmepost.com"])
 searx.local###main_results .result:has(a[href*="boolchr.com"])
 searx.local###main_results .result:has(a[href*="bootpanic.com"])
@@ -4727,6 +4764,7 @@ searx.local###main_results .result:has(a[href*="desenv-web-rp.com"])
 searx.local###main_results .result:has(a[href*="dev-answers.com"])
 searx.local###main_results .result:has(a[href*="devasking.com"])
 searx.local###main_results .result:has(a[href*="devbugfix.com"])
+searx.local###main_results .result:has(a[href*="devdoc.net"])
 searx.local###main_results .result:has(a[href*="devdreamz.com"])
 searx.local###main_results .result:has(a[href*="devebee.com"])
 searx.local###main_results .result:has(a[href*="develop-bugs.com"])
@@ -4813,6 +4851,7 @@ searx.local###main_results .result:has(a[href*="generacodice.com"])
 searx.local###main_results .result:has(a[href*="generacodice.it"])
 searx.local###main_results .result:has(a[href*="getridbug.com"])
 searx.local###main_results .result:has(a[href*="ghcc.net"])
+searx.local###main_results .result:has(a[href*="git.histb.com"])
 searx.local###main_results .result:has(a[href*="gitanswer.com"])
 searx.local###main_results .result:has(a[href*="gitanswer.net"])
 searx.local###main_results .result:has(a[href*="gitcode.net"])
@@ -4942,6 +4981,7 @@ searx.local###main_results .result:has(a[href*="libhunt.com"])
 searx.local###main_results .result:has(a[href*="libsea.com"])
 searx.local###main_results .result:has(a[href*="lightrun.com"])
 searx.local###main_results .result:has(a[href*="likecs.com"])
+searx.local###main_results .result:has(a[href*="linux-packages.com"])
 searx.local###main_results .result:has(a[href*="linuxfixes.com"])
 searx.local###main_results .result:has(a[href*="livepcwiki.ru"])
 searx.local###main_results .result:has(a[href*="living-sun.com"])
@@ -5098,6 +5138,7 @@ searx.local###main_results .result:has(a[href*="rotadev.com"])
 searx.local###main_results .result:has(a[href*="routinepanic.com"])
 searx.local###main_results .result:has(a[href*="rowcoding.com"])
 searx.local###main_results .result:has(a[href*="rpkg.in"])
+searx.local###main_results .result:has(a[href*="rst24plus.net"])
 searx.local###main_results .result:has(a[href*="ru-wiki.ru"])
 searx.local###main_results .result:has(a[href*="runexception.com"])
 searx.local###main_results .result:has(a[href*="ruphp.com"])
@@ -5144,6 +5185,7 @@ searx.local###main_results .result:has(a[href*="stackguides.com"])
 searx.local###main_results .result:has(a[href*="stackify.dev"])
 searx.local###main_results .result:has(a[href*="stackoom.com"])
 searx.local###main_results .result:has(a[href*="stackorigin.com"])
+searx.local###main_results .result:has(a[href*="stackovercoder.com.de"])
 searx.local###main_results .result:has(a[href*="stackoverflood.com"])
 searx.local###main_results .result:has(a[href*="stackoverflowpoint.com"])
 searx.local###main_results .result:has(a[href*="stackovergo.com"])
@@ -5394,6 +5436,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(bilee.
 startpage.com##.image-container:has(div.image-quick-details span:has-text(binarydevelop.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bitcoden.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bleepcoder.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(bleepingcoder.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(blogmepost.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(boolchr.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(bootpanic.com))
@@ -5487,6 +5530,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(desenv
 startpage.com##.image-container:has(div.image-quick-details span:has-text(dev-answers.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devasking.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devbugfix.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(devdoc.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devdreamz.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(devebee.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(develop-bugs.com))
@@ -5573,6 +5617,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(genera
 startpage.com##.image-container:has(div.image-quick-details span:has-text(generacodice.it))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(getridbug.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ghcc.net))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(git.histb.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitanswer.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitanswer.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(gitcode.net))
@@ -5702,6 +5747,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(libhun
 startpage.com##.image-container:has(div.image-quick-details span:has-text(libsea.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(lightrun.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(likecs.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(linux-packages.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(linuxfixes.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(livepcwiki.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(living-sun.com))
@@ -5858,6 +5904,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(rotade
 startpage.com##.image-container:has(div.image-quick-details span:has-text(routinepanic.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rowcoding.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(rpkg.in))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(rst24plus.net))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ru-wiki.ru))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(runexception.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(ruphp.com))
@@ -5904,6 +5951,7 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(stackg
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackify.dev))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoom.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackorigin.com))
+startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovercoder.com.de))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoverflood.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackoverflowpoint.com))
 startpage.com##.image-container:has(div.image-quick-details span:has-text(stackovergo.com))
@@ -6154,6 +6202,7 @@ startpage.com##.w-gl__result:has(a[href*="bilee.com"])
 startpage.com##.w-gl__result:has(a[href*="binarydevelop.com"])
 startpage.com##.w-gl__result:has(a[href*="bitcoden.com"])
 startpage.com##.w-gl__result:has(a[href*="bleepcoder.com"])
+startpage.com##.w-gl__result:has(a[href*="bleepingcoder.com"])
 startpage.com##.w-gl__result:has(a[href*="blogmepost.com"])
 startpage.com##.w-gl__result:has(a[href*="boolchr.com"])
 startpage.com##.w-gl__result:has(a[href*="bootpanic.com"])
@@ -6247,6 +6296,7 @@ startpage.com##.w-gl__result:has(a[href*="desenv-web-rp.com"])
 startpage.com##.w-gl__result:has(a[href*="dev-answers.com"])
 startpage.com##.w-gl__result:has(a[href*="devasking.com"])
 startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])
+startpage.com##.w-gl__result:has(a[href*="devdoc.net"])
 startpage.com##.w-gl__result:has(a[href*="devdreamz.com"])
 startpage.com##.w-gl__result:has(a[href*="devebee.com"])
 startpage.com##.w-gl__result:has(a[href*="develop-bugs.com"])
@@ -6333,6 +6383,7 @@ startpage.com##.w-gl__result:has(a[href*="generacodice.com"])
 startpage.com##.w-gl__result:has(a[href*="generacodice.it"])
 startpage.com##.w-gl__result:has(a[href*="getridbug.com"])
 startpage.com##.w-gl__result:has(a[href*="ghcc.net"])
+startpage.com##.w-gl__result:has(a[href*="git.histb.com"])
 startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
 startpage.com##.w-gl__result:has(a[href*="gitanswer.net"])
 startpage.com##.w-gl__result:has(a[href*="gitcode.net"])
@@ -6462,6 +6513,7 @@ startpage.com##.w-gl__result:has(a[href*="libhunt.com"])
 startpage.com##.w-gl__result:has(a[href*="libsea.com"])
 startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
 startpage.com##.w-gl__result:has(a[href*="likecs.com"])
+startpage.com##.w-gl__result:has(a[href*="linux-packages.com"])
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
 startpage.com##.w-gl__result:has(a[href*="livepcwiki.ru"])
 startpage.com##.w-gl__result:has(a[href*="living-sun.com"])
@@ -6618,6 +6670,7 @@ startpage.com##.w-gl__result:has(a[href*="rotadev.com"])
 startpage.com##.w-gl__result:has(a[href*="routinepanic.com"])
 startpage.com##.w-gl__result:has(a[href*="rowcoding.com"])
 startpage.com##.w-gl__result:has(a[href*="rpkg.in"])
+startpage.com##.w-gl__result:has(a[href*="rst24plus.net"])
 startpage.com##.w-gl__result:has(a[href*="ru-wiki.ru"])
 startpage.com##.w-gl__result:has(a[href*="runexception.com"])
 startpage.com##.w-gl__result:has(a[href*="ruphp.com"])
@@ -6664,6 +6717,7 @@ startpage.com##.w-gl__result:has(a[href*="stackguides.com"])
 startpage.com##.w-gl__result:has(a[href*="stackify.dev"])
 startpage.com##.w-gl__result:has(a[href*="stackoom.com"])
 startpage.com##.w-gl__result:has(a[href*="stackorigin.com"])
+startpage.com##.w-gl__result:has(a[href*="stackovercoder.com.de"])
 startpage.com##.w-gl__result:has(a[href*="stackoverflood.com"])
 startpage.com##.w-gl__result:has(a[href*="stackoverflowpoint.com"])
 startpage.com##.w-gl__result:has(a[href*="stackovergo.com"])
